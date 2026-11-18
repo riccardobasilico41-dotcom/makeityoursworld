@@ -31,7 +31,8 @@ import { seoMeraviglia } from '@/lib/i18n/contenuti'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { LOCALE, type Lingua } from '@/lib/i18n/config'
 import { JsonLd } from '@/components/JsonLd'
-import { breadcrumbJsonLd, faqJsonLd } from '@/lib/structured-data'
+import { breadcrumbJsonLd, faqJsonLd, paginaLuogoJsonLd } from '@/lib/structured-data'
+import { dateContenuto, dataLeggibile, ETICHETTA_AGGIORNATO } from '@/lib/date-contenuti'
 import { getHeroVideoMeraviglia } from '@/content/meraviglie-hero-video'
 import { creditiHeroVideoMeraviglie } from '@/content/meraviglie-hero-video-crediti'
 import { creditiMeraviglie } from '@/content/meraviglie-foto-crediti'
@@ -261,18 +262,27 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
     ...(correlati.length ? [{ href: '#correlati', label: t.correlati }] : []),
   ]
 
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'TouristAttraction',
-    name: m.nome,
-    description: m.descrizione,
-    inLanguage: LOCALE[lingua].html,
-    address: {
-      '@type': 'PostalAddress',
-      addressLocality: m.citta,
-      addressCountry: m.paese,
+  const date = dateContenuto('meraviglie', m.slug)
+  const jsonLd = paginaLuogoJsonLd(
+    {
+      nome: m.nome,
+      percorso: `/meraviglie/${m.slug}`,
+      pubblicato: date?.pubblicato,
+      aggiornato: date?.aggiornato,
+      luogo: {
+        '@type': 'TouristAttraction',
+        name: m.nome,
+        description: m.descrizione,
+        inLanguage: LOCALE[lingua].html,
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: m.citta,
+          addressCountry: m.paese,
+        },
+      },
     },
-  }
+    lingua,
+  )
 
   const testo = 'mt-3 max-w-3xl text-base leading-relaxed text-stone'
 
@@ -300,6 +310,13 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
         title={m.nome}
         titleNote={m.nomeLocale}
         lead={<p>{m.descrizione}</p>}
+        meta={
+          date ? (
+            <p className="text-sm text-stone">
+              {ETICHETTA_AGGIORNATO[lingua]} <time dateTime={date.aggiornato}>{dataLeggibile(date.aggiornato, lingua)}</time>
+            </p>
+          ) : undefined
+        }
         media={
           heroVideo
             ? { tipo: 'video', src: heroVideo.src, poster: heroVideo.poster }

@@ -7,7 +7,8 @@ import { FirmaBreve } from '@/components/FirmaAutore'
 import { ProssimaScheda } from '@/components/ProssimaScheda'
 import { riduciPerScheda } from '@/components/TripCard'
 import { JsonLd } from '@/components/JsonLd'
-import { breadcrumbJsonLd } from '@/lib/structured-data'
+import { autore, breadcrumbJsonLd, faqDaMarkdown, faqJsonLd } from '@/lib/structured-data'
+import { dateContenuto } from '@/lib/date-contenuti'
 import { pageMetadata, titoloSeoViaggio } from '@/lib/seo'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { LOCALE, type Lingua } from '@/lib/i18n/config'
@@ -68,11 +69,13 @@ export default async function ConsiglioPage({ params }: { params: Promise<{ lang
             headline: testo.titolo,
             description: testo.descrizione,
             inLanguage: LOCALE[lingua].html,
+            ...(dateContenuto('consigli', c.slug) ? { datePublished: dateContenuto('consigli', c.slug)!.pubblicato } : {}),
             dateModified: c.aggiornato,
             image: `${siteConfig.url}${c.immagine}`,
             mainEntityOfPage: `${siteConfig.url}${localizza(`/consigli/${c.slug}`, lingua)}`,
-            author: { '@type': 'Person', name: 'Rick' },
+            author: autore(lingua),
           },
+          faqJsonLd(faqDaMarkdown(testo.corpo), lingua),
           breadcrumbJsonLd(
             [
               { nome: t.home, percorso: '/' },
@@ -81,7 +84,7 @@ export default async function ConsiglioPage({ params }: { params: Promise<{ lang
             ],
             lingua,
           ),
-        ]}
+        ].filter((d) => d !== null)}
       />
       <PageHeader
         crumbs={[{ label: t.home, href: '/' }, { label: t.consigli, href: '/consigli' }, { label: testo.titolo }]}

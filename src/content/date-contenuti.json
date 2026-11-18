@@ -1,0 +1,954 @@
+{
+ "viaggi": {
+  "lofoten-estate-2025": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "islanda-2024": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "giordania-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-10"
+  },
+  "sri-lanka-2023": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "giappone-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "thailandia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "marocco-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "new-york-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "florida-road-trip": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "transilvania-express": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-17"
+  },
+  "brighton-seven-sisters": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "bulgaria-bansko-rila": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-17"
+  },
+  "costa-rica-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "messico-beach-life": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "lapponia-svedese-abisko": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "tromso": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "cina-classica": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "cina-paesaggi": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "corea-del-sud-itinerario": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "malesia-singapore": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "borneo-itinerario": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "stopover-golfo": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "arabia-saudita-itinerario": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "dolomiti-roadtrip": {
+   "pubblicato": "2026-09-28",
+   "aggiornato": "2026-11-15"
+  },
+  "settimana-bianca": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "grandi-citta-italia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "sicilia-itinerario": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "rotte-dei-vini-itinerario": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "roma-4-giorni": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "firenze-3-giorni": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "milano-e-i-laghi": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "venezia-3-giorni": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "torino-2-giorni": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "napoli-3-giorni": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "costiera-e-isole": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "eolie-in-vela": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "sicilia-completa": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "sardegna-due-anime": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "isole-siciliane": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "costa-azzurra": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "parigi-5-giorni": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "normandia-bretagna": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "castelli-loira": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "bordeaux-e-vigneti": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "rotte-dei-vini-francia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "provenza-camargue": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "settimana-bianca-francia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "tour-du-mont-blanc": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "indonesia-itinerario": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "bolivia-itinerario": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "peru-itinerario": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-17"
+  },
+  "centro-america-itinerario": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "svizzera-alpi-van": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "cracovia-weekend": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "praga-weekend": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "vienna-weekend": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "budapest-weekend": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "berlino-weekend": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-10"
+  },
+  "amsterdam-weekend": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "lisbona-weekend": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-10"
+  },
+  "capitali-nordiche": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-17"
+  },
+  "capitali-baltiche": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-17"
+  },
+  "canarie-itinerario": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "baleari-itinerario": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "andalusia-itinerario": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "spagna-nord-itinerario": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "messico-dia-de-los-muertos": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "messico-cdmx-baja-california": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "brasile-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "croazia-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "montenegro-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-17"
+  },
+  "egitto-mare-luxor-cairo": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-17"
+  },
+  "egitto-completo": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-17"
+  },
+  "turchia-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-10"
+  },
+  "filippine-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-10"
+  },
+  "california-road-trip": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-10"
+  },
+  "india-rajasthan-10-giorni": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "india-rajasthan-varanasi": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "india-sud-taj-mahal": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "maldive-guida": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-10"
+  },
+  "canada-itinerario": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "giava-bali-gili": {
+   "pubblicato": "2026-11-04",
+   "aggiornato": "2026-11-15"
+  },
+  "sumatra-mentawai": {
+   "pubblicato": "2026-11-04",
+   "aggiornato": "2026-11-15"
+  },
+  "peru-due-settimane": {
+   "pubblicato": "2026-11-04",
+   "aggiornato": "2026-11-17"
+  },
+  "bali-nusa-komodo": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "bali-sulawesi-raja-ampat": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "indonesia-isola-per-isola": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "marocco-citta-imperiali": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "classic-japan": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-10"
+  },
+  "okinawa-estate": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "hokkaido-sci-giappone": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-10"
+  },
+  "thailandia-nord": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "messico-yucatan-completo": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "londra-cotswolds": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-10"
+  },
+  "scozia-highlands-distillerie": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-10"
+  },
+  "irlanda-due-irlande": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-17"
+  },
+  "manchester-liverpool-premier-league": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  }
+ },
+ "paesi": {
+  "arabia-saudita": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "austria": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "belize": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-17"
+  },
+  "bolivia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "borneo": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "brasile": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-18"
+  },
+  "bulgaria": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "california": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "canada": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-17"
+  },
+  "cina": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "corea-del-sud": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "costa-rica": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "croazia": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "danimarca": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "egitto": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "emirati-arabi-uniti": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "estonia": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "filippine": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "florida": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "francia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-17"
+  },
+  "germania": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "giappone": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "giordania": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "guatemala": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "india": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "indonesia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "inghilterra": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "irlanda-del-nord": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "irlanda": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "islanda": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "italia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "lettonia": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "lituania": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "maldive": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-18"
+  },
+  "malesia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "marocco": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "messico-centro-baja": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "messico": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "montenegro": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-15"
+  },
+  "new-york": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "norvegia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "paesi-bassi": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "panama": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-17"
+  },
+  "peru": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "polonia": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-11"
+  },
+  "portogallo": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "qatar": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "repubblica-ceca": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-10"
+  },
+  "scozia": {
+   "pubblicato": "2026-11-05",
+   "aggiornato": "2026-11-15"
+  },
+  "singapore": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "spagna": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  },
+  "sri-lanka": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "svezia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "svizzera": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-18"
+  },
+  "tanzania": {
+   "pubblicato": "2026-11-04",
+   "aggiornato": "2026-11-17"
+  },
+  "thailandia": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "transilvania": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-15"
+  },
+  "turchia": {
+   "pubblicato": "2026-10-30",
+   "aggiornato": "2026-11-17"
+  },
+  "ungheria": {
+   "pubblicato": "2026-09-29",
+   "aggiornato": "2026-11-15"
+  }
+ },
+ "meraviglie": {
+  "chichen-itza": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "colosseo": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "cristo-redentore": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "grande-muraglia-cinese": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "machu-picchu": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "petra": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  },
+  "taj-mahal": {
+   "pubblicato": "2026-09-14",
+   "aggiornato": "2026-11-18"
+  }
+ },
+ "consigli": {
+  "aurora-boreale-dove-quando": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "bali-o-thailandia": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "bangkok-rooftop-bar": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "citta-del-messico-di-sera": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-andare-a-dicembre": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-febbraio": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-gennaio": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-giugno": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-luglio": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-maggio": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-marzo": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-novembre": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-ottobre": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-a-settembre": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-ad-agosto": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-andare-ad-aprile": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "dove-dormire-a-bangkok": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-dormire-a-citta-del-messico": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-dormire-a-dubai": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-dormire-a-edimburgo": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-dormire-a-hong-kong": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-15"
+  },
+  "dove-dormire-a-istanbul": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-dormire-a-kyoto": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-dormire-a-lisbona": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-dormire-a-londra": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-dormire-a-marrakech": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-dormire-a-new-york": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-15"
+  },
+  "dove-dormire-a-parigi": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-dormire-a-roma": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-dormire-a-seoul": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-dormire-a-singapore": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-15"
+  },
+  "dove-dormire-a-tokyo": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-mangiare-a-bangkok": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-15"
+  },
+  "dove-mangiare-a-citta-del-messico": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-mangiare-a-dubai": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-mangiare-a-edimburgo": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-mangiare-a-hong-kong": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-15"
+  },
+  "dove-mangiare-a-istanbul": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-mangiare-a-kyoto": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-mangiare-a-lisbona": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-mangiare-a-londra": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-mangiare-a-marrakech": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-15"
+  },
+  "dove-mangiare-a-new-york": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-mangiare-a-parigi": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-mangiare-a-roma": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "dove-mangiare-a-seoul": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "dove-mangiare-a-tokyo": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-15"
+  },
+  "dubai-rooftop-bar-e-punti-panoramici": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "edimburgo-whisky-bar": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "giappone-o-corea-del-sud": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "guida-a-sinistra": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "hong-kong-panorami-rooftop": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "islanda-in-tenda": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "islanda-o-norvegia": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "istanbul-rooftop-bar": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "kyoto-all-alba": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "lisbona-miradouros-e-rooftop-bar": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "marocco-o-giordania": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "mercati-di-londra": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "messico-o-costa-rica": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "new-york-rooftop-bar": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "parigi-rooftop-e-punti-panoramici": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "peru-o-bolivia": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "portogallo-o-spagna-del-nord": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "quando-andare-in-giappone": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "quanto-costa-un-viaggio-in-india": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "seoul-di-sera": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "singapore-hawker-centre": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-15"
+  },
+  "singapore-rooftop-bar": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "souk-di-marrakech": {
+   "pubblicato": "2026-11-11",
+   "aggiornato": "2026-11-11"
+  },
+  "sri-lanka-o-maldive": {
+   "pubblicato": "2026-11-17",
+   "aggiornato": "2026-11-17"
+  },
+  "thailandia-quale-mare-quando": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  },
+  "tokyo-di-sera": {
+   "pubblicato": "2026-11-10",
+   "aggiornato": "2026-11-10"
+  }
+ }
+}

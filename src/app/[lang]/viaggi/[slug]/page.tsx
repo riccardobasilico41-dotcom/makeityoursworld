@@ -41,7 +41,7 @@ import Link from '@/components/ui/Link'
 import { datiRotta } from '@/lib/mappa-rotta'
 import { linkGoogleMaps, luoghiDellaRotta } from '@/lib/luoghi-rotta'
 import { localizza } from '@/lib/i18n/percorsi'
-import aggiornamenti from '@/content/aggiornamenti-viaggi.json'
+import { dateContenuto, dataLeggibile } from '@/lib/date-contenuti'
 import { Container } from '@/components/ui/Container'
 import { colorePaese, testaTitolo } from '@/lib/colori-etichette'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from '@/lib/viaggi'
@@ -312,7 +312,8 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
               descrizione: viaggio.descrizione,
               percorso: `/viaggi/${viaggio.slug}`,
               sezioni: viaggio.sezioni.map((s) => s.titolo),
-              aggiornato: (aggiornamenti as Record<string, string>)[viaggio.slug],
+              aggiornato: dateContenuto('viaggi', viaggio.slug)?.aggiornato,
+              pubblicato: dateContenuto('viaggi', viaggio.slug)?.pubblicato,
             },
             lingua,
           ),
@@ -420,11 +421,9 @@ function SignatureViaggioContent({
   const rotta = meta.tappeMappa.length > 0 ? datiRotta(viaggio.slug, lingua) : null
   // hotel con il nome scritto in «Dove abbiamo dormito»: «Prenota» lì e accanto ai pernottamenti
   const hotel = hotelNoti(viaggio.doveDormito)
-  // data dell'ultima modifica del testo (da git, tools/aggiornamenti-viaggi.mjs)
-  const iso = (aggiornamenti as Record<string, string>)[viaggio.slug]
-  const dataAggiornamento = iso
-    ? { iso, testo: new Date(`${iso}T12:00:00Z`).toLocaleDateString({ it: 'it-IT', en: 'en-GB', es: 'es-ES' }[lingua], { day: 'numeric', month: 'long', year: 'numeric' }) }
-    : null
+  // data dell'ultima modifica del testo (da git, tools/date-contenuti.mjs)
+  const iso = dateContenuto('viaggi', viaggio.slug)?.aggiornato
+  const dataAggiornamento = iso ? { iso, testo: dataLeggibile(iso, lingua) } : null
   const mapsUrl = linkGoogleMaps(luoghiDellaRotta(viaggio.slug, lingua))
   const nTappa = new Map(rotta?.tappe.map((q) => [q.id, q.n]))
   const unica = rotta?.punti.length === 1 ? rotta.punti[0] : null

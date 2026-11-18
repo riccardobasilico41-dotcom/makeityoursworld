@@ -65,6 +65,7 @@ export function articoloViaggioJsonLd(
     percorso,
     sezioni,
     aggiornato,
+    pubblicato,
   }: {
     titolo: string
     descrizione: string
@@ -72,6 +73,8 @@ export function articoloViaggioJsonLd(
     sezioni: string[]
     /** Data dell'ultima modifica, AAAA-MM-GG. */
     aggiornato?: string
+    /** Data di pubblicazione, AAAA-MM-GG. */
+    pubblicato?: string
   },
   lingua: Lingua,
 ) {
@@ -91,8 +94,54 @@ export function articoloViaggioJsonLd(
       url: siteConfig.url,
     },
     articleSection: sezioni,
+    ...(pubblicato ? { datePublished: pubblicato } : {}),
     ...(aggiornato ? { dateModified: aggiornato } : {}),
   }
+}
+
+/**
+ * La pagina web che descrive un luogo (destinazione, meraviglia): porta autore e date,
+ * che su TouristDestination/TouristAttraction non esistono. `about` rimanda al luogo.
+ */
+export function paginaLuogoJsonLd(
+  {
+    nome,
+    percorso,
+    pubblicato,
+    aggiornato,
+    luogo,
+  }: { nome: string; percorso: string; pubblicato?: string; aggiornato?: string; luogo: Record<string, unknown> },
+  lingua: Lingua,
+) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: nome,
+    url: url(percorso, lingua),
+    inLanguage: LOCALE[lingua].html,
+    author: autore(lingua),
+    ...(pubblicato ? { datePublished: pubblicato } : {}),
+    ...(aggiornato ? { dateModified: aggiornato } : {}),
+    about: { ...luogo, url: url(percorso, lingua) },
+  }
+}
+
+/**
+ * Domande e risposte dalla sezione «Domande frequenti» di un testo markdown
+ * (formato: **Domanda?** a capo risposta). I link markdown diventano testo.
+ */
+export function faqDaMarkdown(corpo: string): DomandaRisposta[] {
+  const inizio = corpo.search(/^## (Domande frequenti|FAQ|Frequently asked questions|Preguntas frecuentes)\s*$/m)
+  if (inizio < 0) return []
+  const resto = corpo.slice(inizio).split('\n').slice(1).join('\n')
+  const fine = resto.search(/^## /m)
+  const sezione = fine < 0 ? resto : resto.slice(0, fine)
+  const voci: DomandaRisposta[] = []
+  for (const m of sezione.matchAll(/\*\*(.+?)\*\*\s*\n((?:(?!\*\*)[^\n]+\n?)+)/g)) {
+    const risposta = m[2].replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*?/g, '').trim()
+    voci.push({ domanda: m[1].trim(), risposta })
+  }
+  return voci
 }
 
 /** Indice di raccolta: usato dalle pagine elenco (viaggi, destinazioni, meraviglie). */

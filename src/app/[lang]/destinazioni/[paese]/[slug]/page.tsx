@@ -20,7 +20,8 @@ import { ElencoNumerato, ErroriDaEvitare, InfoPratiche, Ricordo, SchedaTesto, Ti
 import { ExperienceCard } from '@/components/ExperienceCard'
 import { ComparisonBlock } from '@/components/ComparisonBlock'
 import { JsonLd } from '@/components/JsonLd'
-import { breadcrumbJsonLd, faqJsonLd } from '@/lib/structured-data'
+import { breadcrumbJsonLd, faqJsonLd, paginaLuogoJsonLd } from '@/lib/structured-data'
+import { dateContenuto, dataLeggibile, ETICHETTA_AGGIORNATO } from '@/lib/date-contenuti'
 import { RelatedContent } from '@/components/RelatedContent'
 import { consigliDellaDestinazione } from '@/lib/consigli'
 import {
@@ -240,13 +241,22 @@ export default async function DestinazionePage({
   const areaSlug = areaDelPaese(paeseSlug)
   const area = areaSlug ? getArea(areaSlug) : undefined
 
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'TouristDestination',
-    name: destinazione.nome,
-    description: destinazione.introduzione,
-    inLanguage: LOCALE[lingua].html,
-  }
+  const date = dateContenuto('paesi', paeseSlug)
+  const jsonLd = paginaLuogoJsonLd(
+    {
+      nome: destinazione.nome,
+      percorso: `/destinazioni/${paeseSlug}/${destinazione.slug}`,
+      pubblicato: date?.pubblicato,
+      aggiornato: date?.aggiornato,
+      luogo: {
+        '@type': 'TouristDestination',
+        name: destinazione.nome,
+        description: destinazione.introduzione,
+        inLanguage: LOCALE[lingua].html,
+      },
+    },
+    lingua,
+  )
 
   return (
     <>
@@ -282,6 +292,13 @@ export default async function DestinazionePage({
         title={destinazione.nome}
         lead={<Rich text={destinazione.introduzione} as="p" />}
         media={destinazione.immagine ? { tipo: 'foto', src: destinazione.immagine, alt: destinazione.imageAlt } : undefined}
+        meta={
+          date ? (
+            <p className="text-sm text-stone">
+              {ETICHETTA_AGGIORNATO[lingua]} <time dateTime={date.aggiornato}>{dataLeggibile(date.aggiornato, lingua)}</time>
+            </p>
+          ) : undefined
+        }
         pieno
         actions={
           <SalvaBottone
@@ -291,6 +308,7 @@ export default async function DestinazionePage({
       />
 
       <InfoPratiche
+        titolo={{ it: 'In breve', en: 'At a glance', es: 'En breve' }[lingua]}
         voci={[
           { label: t.giorniConsigliati, value: destinazione.giorniConsigliati, icona: Clock },
           { label: t.periodoMigliore, value: destinazione.periodoMigliore, icona: CalendarDays },
