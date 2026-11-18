@@ -34,6 +34,7 @@ const T = {
     esplora: 'Esplora il Paese',
     nDest: (n: number) => `${n} ${n === 1 ? 'destinazione' : 'destinazioni'}`,
     vediPaese: 'Apri il Paese',
+    anche: 'Anche:',
     tuttiIViaggi: (a: string) => `Tutti i viaggi in ${a}`,
     nViaggi: (n: number) => `${n} ${n === 1 ? 'itinerario' : 'itinerari'} giorno per giorno`,
   },
@@ -50,6 +51,7 @@ const T = {
     esplora: 'Explore the country',
     nDest: (n: number) => `${n} ${n === 1 ? 'destination' : 'destinations'}`,
     vediPaese: 'Open the country',
+    anche: 'Also:',
     tuttiIViaggi: (a: string) => `All trips in ${a}`,
     nViaggi: (n: number) => `${n} day-by-day ${n === 1 ? 'itinerary' : 'itineraries'}`,
   },
@@ -66,6 +68,7 @@ const T = {
     esplora: 'Explorar el país',
     nDest: (n: number) => `${n} ${n === 1 ? 'destino' : 'destinos'}`,
     vediPaese: 'Abrir el país',
+    anche: 'También:',
     tuttiIViaggi: (a: string) => `Todos los viajes en ${a}`,
     nViaggi: (n: number) => `${n} ${n === 1 ? 'itinerario' : 'itinerarios'} día a día`,
   },
@@ -73,6 +76,8 @@ const T = {
 
 // slug fuori dall'elenco: nessuna rotta, quindi la 404 vera di global-not-found.tsx (già nell'HTML)
 export const dynamicParams = false
+
+const CARD_PER_PAESE = 3
 
 export function generateStaticParams() {
   return AREE.map((a) => ({ area: a.slug }))
@@ -225,13 +230,27 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
                       {t.vediPaese} <span aria-hidden="true">&nbsp;→</span>
                     </Link>
                   </div>
+                  {/* tre card per Paese, le altre come link: con tutte le card la pagina Europa superava i 3.500 elementi */}
                   <ul className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-                    {destinazioni.map((dest) => (
+                    {destinazioni.slice(0, CARD_PER_PAESE).map((dest) => (
                       <li key={dest.slug}>
                         <DestinationCard destinazione={dest} paeseSlug={paese.slug} />
                       </li>
                     ))}
                   </ul>
+                  {destinazioni.length > CARD_PER_PAESE && (
+                    <p className="mt-5 text-sm leading-relaxed text-stone">
+                      <span className="font-semibold text-ink">{t.anche}</span>{' '}
+                      {destinazioni.slice(CARD_PER_PAESE).map((dest, i) => (
+                        <span key={dest.slug}>
+                          {i > 0 && ', '}
+                          <Link href={`/destinazioni/${paese.slug}/${dest.slug}`} className="text-alpine underline decoration-alpine/30 underline-offset-4 hover:text-rosso">
+                            {dest.nome}
+                          </Link>
+                        </span>
+                      ))}
+                    </p>
+                  )}
                 </div>
               ))}
           </div>

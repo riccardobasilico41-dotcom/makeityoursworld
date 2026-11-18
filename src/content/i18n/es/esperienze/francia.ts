@@ -345,7 +345,7 @@ export const esperienzeFrancia: Esperienza[] = [
       "todo el año; **de mayo a septiembre** por el tiempo. **Hacia el 6 de junio** hay conmemoraciones oficiales: es el momento más intenso y el más difícil, con calles cortadas, alojamientos agotados con un año de antelación y zonas de acceso regulado.",
     costo: 'los cementerios, la Pointe du Hoc y las baterías son **de entrada libre**; los museos y el Mémorial de Caen tienen entradas económicas',
     comePrenotare:
-      "Para los sitios al aire libre no hay nada que reservar. **Las visitas guiadas de un día desde Bayeux y Caen hay que reservarlas**, y aquí más que en ningún otro sitio merece la pena: el relato es la mitad de la visita, porque el paisaje por sí solo no explica nada.",
+      "Para los sitios al aire libre no hay nada que reservar. **Las visitas guiadas de un día desde Bayeux y Caen hay que reservarlas**, y aquí más que en ningún otro sitio hace falta un guía: el relato es la mitad de la visita, porque el paisaje por sí solo no explica nada.",
     cosaPortare:
       "Un cortavientos en cualquier mes: en la costa normanda el viento no para nunca. Zapatos cómodos, porque en la Pointe du Hoc se camina sobre un terreno trastocado por los cráteres.",
     perChiEAdatta:

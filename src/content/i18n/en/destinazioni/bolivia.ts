@@ -1179,7 +1179,7 @@ export const destinazioniBolivia: Destinazione[] = [
               'The cheaper of the two',
             ],
             contro: [
-              "It's not the \"imagined\" Amazon rainforest: it's flooded savanna",
+              "It's flooded savanna, not the \"imagined\" Amazon rainforest",
               'A remarkable number of mosquitoes',
               "Some practices of the cheapest operators with caimans and anacondas are ethically questionable",
             ],

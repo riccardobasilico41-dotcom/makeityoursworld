@@ -1912,7 +1912,7 @@ export const destinazioniPeru: Destinazione[] = [
         "risposta": "Due giorni con la notte ad Amantaní bastano per il lato peruviano. Con tre si aggiungono Sillustani e Chucuito, con quattro o cinque si passa anche in Bolivia."
       },
       {
-        "domanda": "Vale la pena dormire ad Amantaní?",
+        "domanda": "Conviene dormire ad Amantaní?",
         "risposta": "Sì, è il modo più diretto di vedere come si vive sul lago. Le case sono semplici, con bagno condiviso, acqua calda non garantita e niente riscaldamento: serve un sacco a pelo caldo."
       },
       {

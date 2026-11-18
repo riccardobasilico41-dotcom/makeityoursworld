@@ -62,7 +62,7 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     costo: 'a half-liter of draft beer in a neighborhood pub costs roughly 55-80 CZK; a guided tour with several stops and tastings costs around €30-50 per person',
     comePrenotare: "Themed tours are booked on online tour platforms; on your own there's no need to book, just choose pubs away from the most touristy axis.",
     cosaPortare: "No special equipment.",
-    perChiEAdatta: "Those who want an authentic experience without paying tourist-area prices; less so for those who don't drink alcohol, who will still find food in the hospodas.",
+    perChiEAdatta: "Those who want to drink in neighborhood pubs, among locals, without paying tourist-area prices; less so for those who don't drink alcohol, who will still find food in the hospodas.",
     giudizio: 'da-verificare',
     alternative: ["A craft brewery with a tour and tasting, for those looking for something more structured than a simple evening at the pub"],
     tripSlugs: ['praga-weekend'],

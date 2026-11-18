@@ -1041,7 +1041,7 @@ export const destinazioniTransilvania: Destinazione[] = [
         risposta: "Fresca todo el año, incluso en verano: hace falta una sudadera o una chaqueta ligera."
       },
       {
-        domanda: "¿Vale la pena el paseo en barca por el lago subterráneo?",
+        domanda: "¿Conviene hacer el paseo en barca por el lago subterráneo?",
         risposta: "Es corto y se paga aparte. El lago impresiona más visto desde arriba, desde las pasarelas."
       },
       {

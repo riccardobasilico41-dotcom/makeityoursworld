@@ -158,7 +158,7 @@ Poi **Titanic Belfast**, aperto nel 2012 sull'area dell'ex cantiere dove il Tita
 Gli ingressi principali verificati per il 2026: Kilmainham Gaol 8 €, Glendalough (centro visitatori) 5 €, Kilkenny Castle 8 €, Rocca di Cashel 8 €, Cliffs of Moher 15 € alla cassa (meno online), Giant's Causeway Visitor Experience 15 £ (gli scogli sono gratis), Titanic Belfast 24,95 £, ETA 20 £ a persona. Per auto, carburante, alloggi e cene non abbiamo dati verificati da mettere qui: luglio e agosto sono i mesi più cari, e Dublino è la città più cara del giro.
 
 ## Chiusura personale
-L'Irlanda si attraversa per i paesaggi, e quelli non deludono: le scogliere, il Kerry, il Connemara, la costa di Antrim. Il motivo per cui vale la pena arrivare fino al nord è un altro. Tra Derry e Belfast si cammina dentro una storia ancora recente, e l'Accordo del 1998 smette di essere una data sul libro.
+L'Irlanda si attraversa per i paesaggi, e quelli non deludono: le scogliere, il Kerry, il Connemara, la costa di Antrim. Il motivo per arrivare fino al nord è un altro. Tra Derry e Belfast si cammina dentro una storia ancora recente, e l'Accordo del 1998 smette di essere una data sul libro.
 
 ## Nota su questa bozza
 Viaggio fatto da Rick; i ricordi in prima persona arriveranno. I tempi di guida tra le tappe sono indicativi, senza soste. Restano generici, per mancanza di fonti confermate, i prezzi di auto e alloggi, il biglietto del Book of Kells, i prezzi di Dunluce Castle e Kylemore Abbey, e la data esatta in cui riapre la Long Room. Il prezzo di Carrick-a-Rede viene da Wikipedia e va confermato sul sito del National Trust. Nessun nome di hotel, ristorante o operatore inventato.

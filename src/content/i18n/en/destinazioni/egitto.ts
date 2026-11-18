@@ -671,7 +671,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "risposta": "Three or four hours for the plateau with the panoramic point and the Sphinx, plus half a day for the Grand Egyptian Museum. Saqqara and Dahshur need a second day."
       },
       {
-        "domanda": "Is it worth going inside the Great Pyramid?",
+        "domanda": "Should you go inside the Great Pyramid?",
         "risposta": "Yes if you are curious about how it was built: the Grand Gallery is impressive. No if you expect paintings, because the chambers are bare, or if you dislike tight spaces."
       },
       {

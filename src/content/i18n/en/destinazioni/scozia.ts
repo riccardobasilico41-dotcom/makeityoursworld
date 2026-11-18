@@ -783,7 +783,7 @@ export const destinazioniScozia: Destinazione[] = [
     ],
     faq: [
       {
-        domanda: "Is Glencoe worth it?",
+        domanda: "Should you stop at Glencoe?",
         risposta: "Yes, it's the most spectacular mountain scenery you can see from the road in Scotland. Even without walking, the stops between Rannoch Moor, the Buachaille and the Three Sisters are worth the day.",
       },
       {
@@ -1757,7 +1757,7 @@ export const destinazioniScozia: Destinazione[] = [
     ],
     faq: [
       {
-        domanda: "Is Loch Ness worth it?",
+        domanda: "Should you go to Loch Ness?",
         risposta: "It's worth a stop on the way, with Urquhart and a view from Dores or Fort Augustus, but on its own it doesn't justify the trip. Better to fit it between Skye, Fort William and Speyside.",
       },
       {

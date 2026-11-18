@@ -1008,7 +1008,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "risposta": "Sì, partendo presto da Madaba o dal Mar Morto: Monte Nebo al mattino, Karak dopo pranzo e arrivo a Wadi Musa la sera."
       },
       {
-        "domanda": "Vale la pena dormire a Dana?",
+        "domanda": "Conviene dormire a Dana?",
         "risposta": "Sì per chi ama camminare: il villaggio è tranquillo e i sentieri partono dalla riserva. L'ingresso costa 10 JOD più il 16% di tasse."
       }
     ],
@@ -1293,7 +1293,7 @@ export const destinazioniGiordania: Destinazione[] = [
         risposta: "Si può, ma il biglietto per chi non dorme in Giordania sale a 90 JOD e si arriva quando il Siq è già pieno. Dormire a Wadi Musa permette di entrare alle 6, che è il vero vantaggio.",
       },
       {
-        domanda: "Petra by Night vale la pena?",
+        domanda: "Conviene fare Petra by Night?",
         risposta: "Sì come esperienza d'atmosfera, non come visita: si vedono solo Siq e Tesoro illuminati dalle candele. Costa 30 JOD, non è nel Jordan Pass e si tiene solo alcune sere a settimana.",
       },
       {

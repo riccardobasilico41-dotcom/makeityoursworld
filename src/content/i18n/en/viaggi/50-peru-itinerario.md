@@ -221,7 +221,7 @@ From Taullipampa the trail follows the valley floor and runs alongside the **Jat
 **In practice:** about 5-6 hours of walking, almost all gently downhill · detour to Alpamayo base camp only in good weather · water to filter or boil, never drunk straight from the streams · tips for guide, cook and arrieros to have ready in cash.
 
 ### Day 29 — Santa Cruz Trek, Day 4: Back to Huaraz
-The last stretch of walking to the end of the trail, then the colectivo back to **Huaraz**. Four demanding but non-technical days, repaid by scenery that holds its own against any Andean trek of this trip, at a fraction of the price and the crowds of the Cusco circuit: that's exactly why it's worth coming all the way here. A hot shower, a real meal and early to bed: the legs have given everything they had.
+The last stretch of walking to the end of the trail, then the colectivo back to **Huaraz**. Four demanding but non-technical days, repaid by scenery that holds its own against any Andean trek of this trip, at a fraction of the price and the crowds of the Cusco circuit: that's why you come all the way here. A hot shower, a real meal and early to bed: the legs have given everything they had.
 
 The last stage descends from Llamacorral through an ever narrower gorge to **Cashapampa**, at about 9,500 feet (2,900 meters), in three or four hours: you lose altitude fast and the vegetation changes, with the first cultivated fields. Here the agency's vehicle takes the group back to Huaraz via **Caraz**, a quiet little town where there's usually a break. *After four days your legs want stretching and a long night: better not to plan anything demanding for tomorrow.* The afternoon in Huaraz is for washing clothes and returning any rented gear to the agency.
 

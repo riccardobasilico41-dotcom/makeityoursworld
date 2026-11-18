@@ -330,7 +330,7 @@ export const destinazioniMalesia: Destinazione[] = [
         risposta: "Two full days for the Batu Caves, the Petronas, the museums and the neighbourhoods. A third adds KL Tower and the forest park, or a day trip to Malacca or Putrajaya."
       },
       {
-        domanda: "Is it worth going up the Petronas Twin Towers?",
+        domanda: "Should you go up the Petronas Twin Towers?",
         risposta: "The skybridge costs about 80 ringgit and sunset slots sell out early. The towers look better from below at blue hour, or from KL Tower, which is higher and faces them."
       },
       {

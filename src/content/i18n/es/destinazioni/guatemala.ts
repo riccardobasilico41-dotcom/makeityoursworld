@@ -530,7 +530,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "risposta": "Por la mañana: desde primera hora de la tarde se levanta el Xocomil, el viento que agita las travesías. Conviene moverse en lancha antes del mediodía."
       },
       {
-        "domanda": "¿Vale la pena el amanecer en el Indian Nose?",
+        "domanda": "¿Conviene subir al Indian Nose al amanecer?",
         "risposta": "Sí, pero solo con el cielo despejado: en la temporada de lluvias se sube a oscuras para encontrar nubes. Se sale hacia las 4 con un guía local."
       },
       {
@@ -783,7 +783,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "risposta": "Dos o tres días: uno entero para Tikal, la noche anterior en Flores y, si se puede, un día más para Yaxhá o el Mirador del Rey Canek."
       },
       {
-        "domanda": "¿Vale la pena la entrada al amanecer?",
+        "domanda": "¿Conviene la entrada al amanecer?",
         "risposta": "Sí, más por los sonidos que por la vista: en la temporada seca el amanecer suele estar brumoso, pero el coro de monos aulladores y aves se oye antes de la apertura de las 6. La entrada al amanecer (4-6) cuesta Q100 más y exige guía."
       },
       {
@@ -899,7 +899,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       },
       {
         "nome": "Grutas de Lanquín",
-        "testo": "Un sistema de cuevas de caliza justo a las afueras del pueblo, de donde sale el río Lanquín. Al atardecer miles de murciélagos salen a la vez por la entrada, el espectáculo por el que vale la pena venir.",
+        "testo": "Un sistema de cuevas de caliza justo a las afueras del pueblo, de donde sale el río Lanquín. Al atardecer miles de murciélagos salen a la vez por la entrada: es el motivo para venir.",
         "come": "A pie o en tuk tuk desde Lanquín, aproximadamente un kilómetro; el primer tramo de la cueva está iluminado y resbala.",
         "quando": "Final de la tarde, para quedarse en la entrada al atardecer.",
         "tempo": "1-1,5 horas",

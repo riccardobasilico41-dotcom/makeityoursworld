@@ -378,7 +378,7 @@ export const destinazioniGiappone: Destinazione[] = [
         url: "https://www.hachimangu.or.jp/",
         lat: 35.32472,
         lng: 139.55583,
-        consiglio: "Vale la pena bajar desde el santuario por la avenida hacia el mar al final del día.",
+        consiglio: "Conviene bajar desde el santuario por la avenida hacia el mar al final del día.",
       },
       {
         nome: "Hase-dera",
@@ -1914,7 +1914,7 @@ export const destinazioniGiappone: Destinazione[] = [
       { domanda: "¿Cómo funciona el servicio de equipaje?", risposta: "De finales de marzo a finales de noviembre se dejan las maletas en la oficina de turismo de salida entre las 8.30 y las 11.30 y se recogen al llegar de 13 a 17, a 1.000 yenes por bulto." },
       { domanda: "¿Es difícil el sendero?", risposta: "No: es un camino fácil por empedrado y tierra, con algunos escalones de piedra. Bastan zapatos cómodos y agua; en invierno los escalones pueden helarse." },
       { domanda: "¿Hay osos en el Nakasendō?", risposta: "En la zona viven osos negros. A lo largo del sendero hay campanas que se tocan al pasar, para hacerse oír." },
-      { domanda: "¿Vale la pena dormir en Magome o en Tsumago?", risposta: "Sí: por la noche y temprano por la mañana, sin grupos, los pueblos están en silencio. Las plazas en los minshuku son pocas y hay que reservar con antelación." },
+      { domanda: "¿Conviene dormir en Magome o en Tsumago?", risposta: "Sí: por la noche y temprano por la mañana, sin grupos, los pueblos están en silencio. Las plazas en los minshuku son pocas y hay que reservar con antelación." },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['classic-japan'],

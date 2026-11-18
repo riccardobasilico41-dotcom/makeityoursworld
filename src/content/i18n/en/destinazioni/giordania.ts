@@ -1004,7 +1004,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "risposta": "Yes, leaving early from Madaba or the Dead Sea: Mount Nebo in the morning, Karak after lunch and Wadi Musa by evening."
       },
       {
-        "domanda": "Is it worth sleeping in Dana?",
+        "domanda": "Should you sleep in Dana?",
         "risposta": "Yes for walkers: the village is quiet and the trails start from the reserve. Admission is 10 JOD plus 16% tax."
       }
     ],
@@ -1289,7 +1289,7 @@ export const destinazioniGiordania: Destinazione[] = [
         risposta: "You can, but the ticket for visitors not staying overnight in Jordan rises to 90 JOD and you arrive when the Siq is already crowded. Sleeping in Wadi Musa lets you enter at 6am, which is the real advantage.",
       },
       {
-        domanda: "Is Petra by Night worth it?",
+        domanda: "Should you do Petra by Night?",
         risposta: "Yes for the atmosphere, not as a visit: you only see the Siq and the Treasury lit by candles. It costs 30 JOD, isn't in the Jordan Pass and runs only on some nights a week.",
       },
       {

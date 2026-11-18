@@ -345,7 +345,7 @@ export const esperienzeFrancia: Esperienza[] = [
       'year-round; **May to September** for the weather. **Around June 6** there are the official commemorations: it is the most intense moment and the most difficult, with closed roads, lodging sold out a year ahead and areas with regulated access.',
     costo: 'the cemeteries, the Pointe du Hoc and the batteries are **free to enter**; the museums and the Mémorial de Caen have modest tickets',
     comePrenotare:
-      "For the outdoor sites there's nothing to book. **Day guided tours from Bayeux and Caen need to be booked**, and here more than elsewhere it's worth it: the telling is half the visit, because the landscape alone explains nothing.",
+      "For the outdoor sites there's nothing to book. **Day guided tours from Bayeux and Caen need to be booked**, and here more than elsewhere a guide matters: the telling is half the visit, because the landscape alone explains nothing.",
     cosaPortare:
       "A windbreaker in any month: on the Normandy coast the wind never stops. Comfortable shoes, because at the Pointe du Hoc you walk on ground torn up by craters.",
     perChiEAdatta:

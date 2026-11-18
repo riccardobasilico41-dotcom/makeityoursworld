@@ -254,7 +254,7 @@ export const destinazioniCroazia: Destinazione[] = [
         "risposta": "One day for the Upper Town, Dolac and the main museums; two to add Mirogoj, the Lower Town and a relaxed evening on Tkalčićeva."
       },
       {
-        "domanda": "Is it worth stopping in Zagreb before the coast?",
+        "domanda": "Should you stop in Zagreb before the coast?",
         "risposta": "Yes, at least one night: it's a Central European city very different from Dalmatia and the natural stop before Plitvice."
       },
       {

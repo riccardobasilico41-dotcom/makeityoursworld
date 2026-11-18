@@ -1202,7 +1202,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         "nome": "Taghazout Bay",
         "perChi": "those who want a resort",
-        "testo": "The area of large hotels with pools and a golf course just south of Taghazout village, comfortable but less authentic."
+        "testo": "The area of large hotels with pools and a golf course just south of Taghazout village, comfortable but far from village life."
       }
     ],
     sapori: [

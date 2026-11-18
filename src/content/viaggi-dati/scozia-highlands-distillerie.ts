@@ -32,7 +32,7 @@ export const scoziaHighlandsDistillerieMeta: TripMeta = {
     'Il viadotto di Glenfinnan e l\'Isola di Skye con il Quiraing',
     'Il pesce di Ee-Usk a Oban',
     'Le distillerie famose, da Talisker allo Speyside, e due chicche come Dalwhinnie e Glen Ord',
-    'La North Coast 500, la strada del nord: Rick l\'ha fatta ed è mozzafiato',
+    'La North Coast 500, 830 km lungo l\'estremo nord: Rick l\'ha fatta',
   ],
   criticita: [
     'Si guida a sinistra, spesso su strade a una corsia con le piazzole di scambio',

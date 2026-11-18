@@ -489,7 +489,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       { nome: "Lofoten vía Moskenes", distanza: "unas 3 horas y cuarto de ferri", come: "Ferri de Torghatten Nord a Moskenes, con o sin coche.", testo: "Más que una excursión es el paso hacia Reine y Å: en verano con coche hay que reservar, a pie se sube sin problema." },
     ],
     faq: [
-      { domanda: "¿Vale la pena parar en Bodø?", risposta: "Como parada de unas horas, sí: el centro se recorre a pie, el mirador de Nyholms Fort está a diez minutos y Saltstraumen a media hora. Para más de una noche hace falta un interés concreto, como Kjerringøy o un partido del Bodø/Glimt." },
+      { domanda: "¿Conviene parar en Bodø?", risposta: "Como parada de unas horas, sí: el centro se recorre a pie, el mirador de Nyholms Fort está a diez minutos y Saltstraumen a media hora. Para más de una noche hace falta un interés concreto, como Kjerringøy o un partido del Bodø/Glimt." },
       { domanda: "¿Cómo se va de Bodø a las Lofoten?", risposta: "Con el ferri a Moskenes, unas 3 horas y cuarto: el coche de hasta 6 metros paga 605 NOK y los pasajeros viajan gratis. Como alternativa, se vuela a Leknes o Svolvær, o se conduce hacia el norte y se toma el ferri Bognes-Lødingen." },
       { domanda: "¿Hay que reservar el ferri a Moskenes?", risposta: "Con coche, en verano sí: la plaza se reserva en la web de Torghatten Nord y sin reserva uno se arriesga a quedarse en tierra. A pie se sube sin problema; de todos modos conviene estar en el puerto 40 minutos antes." },
       { domanda: "¿A qué distancia está el aeropuerto del centro?", risposta: "Unos 1,5 km: un cuarto de hora a pie, 5-10 minutos con los autobuses 1 y 4 (unos 45 NOK) o pocos minutos en taxi." },

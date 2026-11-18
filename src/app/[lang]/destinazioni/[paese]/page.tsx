@@ -51,7 +51,8 @@ const T = {
     destinazioni: 'Destinazioni',
     destinazioniDesc: "Ogni tappa dell'itinerario esplorata singolarmente: quanto fermarsi, cosa fare, dove ho dormito e mangiato io.",
     esperienze: 'Esperienze',
-    esperienzeDesc: 'Le attività che valgono davvero il tempo — con un giudizio sincero su ciascuna.',
+    esperienzeDesc: 'Le attività per cui trovare tempo, con un giudizio sincero su ciascuna.',
+    anche: 'Anche:',
     organizza: 'Organizza il viaggio',
     organizzaConScheda: (nome: string) => `Tutto quello che serve per organizzare un viaggio in ${nome}, al di là del singolo itinerario.`,
     organizzaSenzaScheda: 'Le informazioni pratiche raccolte nella scheda del viaggio: verificale sempre prima di partire, prezzi e orari cambiano.',
@@ -89,7 +90,8 @@ const T = {
     destinazioni: 'Destinations',
     destinazioniDesc: 'Every stop on the itinerary on its own: how long to stay, what to do, where I slept and ate.',
     esperienze: 'Experiences',
-    esperienzeDesc: 'The activities that are really worth your time, with an honest verdict on each one.',
+    esperienzeDesc: 'The activities to make time for, with an honest verdict on each one.',
+    anche: 'Also:',
     organizza: 'Plan your trip',
     organizzaConScheda: (nome: string) => `Everything you need to plan a trip to ${nome}, beyond the single itinerary.`,
     organizzaSenzaScheda: 'The practical information collected in the trip guide: always double-check it before you go, prices and opening hours change.',
@@ -127,7 +129,8 @@ const T = {
     destinazioni: 'Destinos',
     destinazioniDesc: 'Cada parada del itinerario por separado: cuánto quedarse, qué hacer, dónde dormí y comí yo.',
     esperienze: 'Experiencias',
-    esperienzeDesc: 'Las actividades que de verdad merecen tu tiempo, con una opinión sincera de cada una.',
+    esperienzeDesc: 'Las actividades para las que buscar tiempo, con una opinión sincera de cada una.',
+    anche: 'También:',
     organizza: 'Organiza el viaje',
     organizzaConScheda: (nome: string) => `Todo lo que necesitas para organizar un viaje a ${nome}, más allá del itinerario concreto.`,
     organizzaSenzaScheda: 'La información práctica recogida en la ficha del viaje: compruébala siempre antes de salir, los precios y los horarios cambian.',
@@ -386,12 +389,26 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
             description={t.esperienzeDesc}
           />
           <RevealGroup className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3" stagger={0.04}>
-            {esperienze.map((e) => (
+            {esperienze.slice(0, 6).map((e) => (
               <RevealItem key={e.slug}>
                 <ExperienceCard esperienza={e} paeseSlug={paeseSlug} />
               </RevealItem>
             ))}
           </RevealGroup>
+          {/* oltre sei, le esperienze diventano link: le card intere appesantivano troppo le pagine dei Paesi grandi */}
+          {esperienze.length > 6 && (
+            <p className="mt-6 text-sm leading-relaxed text-stone">
+              <span className="font-semibold text-ink">{t.anche}</span>{' '}
+              {esperienze.slice(6).map((e, i) => (
+                <span key={e.slug}>
+                  {i > 0 && ', '}
+                  <Link href={`/esperienze/${paeseSlug}/${e.slug}`} className="text-alpine underline decoration-alpine/30 underline-offset-4 hover:text-rosso">
+                    {e.nome}
+                  </Link>
+                </span>
+              ))}
+            </p>
+          )}
         </Container>
       </section>
       )}

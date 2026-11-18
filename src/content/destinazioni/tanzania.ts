@@ -743,7 +743,7 @@ export const destinazioniTanzania: Destinazione[] = [
     ],
     faq: [
       {
-        "domanda": "Vale la pena vedere Tarangire se poi si va al Serengeti?",
+        "domanda": "Ha senso vedere Tarangire se poi si va al Serengeti?",
         "risposta": "Sì, soprattutto da luglio a ottobre: la concentrazione di elefanti e i baobab sono diversi da tutto il resto del circuito. È anche il parco più vicino ad Arusha, comodo per il primo giorno."
       },
       {

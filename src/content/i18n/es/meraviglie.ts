@@ -39,7 +39,7 @@ export const meraviglie: Meraviglia[] = [
       },
       {
         nome: "Jinshanling",
-        perche: "parcialmente restaurado, ideal para quien quiere caminar mucho entre atalayas más auténticas y panorámicas menos transitadas.",
+        perche: "parcialmente restaurado, ideal para quien quiere caminar mucho entre atalayas en parte originales, no reconstruidas, y panorámicas menos transitadas.",
       },
       {
         nome: "Simatai",

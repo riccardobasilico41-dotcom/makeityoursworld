@@ -225,7 +225,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "risposta": "The beach is wide and good for walking, but not as beautiful as those in the south, and the sea is often rough. For proper beach days, save time for Hikkaduwa and the south coast."
       },
       {
-        "domanda": "Is it worth staying in Negombo more than one night?",
+        "domanda": "Should you stay in Negombo more than one night?",
         "risposta": "One day is enough for the fish market, fort, churches and lagoon. With more time you can add Muthurajawela Marsh or a day in Colombo."
       },
       {

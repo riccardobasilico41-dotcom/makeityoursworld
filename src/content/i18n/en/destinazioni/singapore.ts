@@ -970,7 +970,7 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Carrot cake",
-        testo: "Not the dessert: it is a savory omelet of daikon and rice, stir-fried in the white or black version. Eaten at hawker centres."
+        testo: "Despite the name, it is a savory omelet of daikon and rice, stir-fried in the white or black version. Eaten at hawker centres."
       },
       {
         nome: "Kopi and teh",
@@ -1021,7 +1021,7 @@ export const destinazioniSingapore: Destinazione[] = [
         risposta: "MRT to Tanah Merah, bus 2 to Changi Point Ferry Terminal and a bumboat of about ten minutes, 4 SGD each way. The boat leaves when it has twelve passengers; on the island you hire a bike.",
       },
       {
-        domanda: "Is the Night Safari worth it?",
+        domanda: "Should you do the Night Safari?",
         risposta: "It's the most original of the Mandai parks, with nocturnal animals seen when they're awake. It costs 58 SGD for an adult on regular days and pairs well with the Zoo on the same afternoon.",
       },
       {

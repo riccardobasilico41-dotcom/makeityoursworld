@@ -1017,7 +1017,7 @@ export const destinazioniIslanda: Destinazione[] = [
         risposta: "One night is enough as a Ring Road stop. With two you can add Hoffell and Fláajökull, or an ice cave in winter.",
       },
       {
-        domanda: "Is the Stokksnes entry fee worth it?",
+        domanda: "Should you pay the Stokksnes entry fee?",
         risposta: "Yes, if the sky is clear: Vestrahorn reflected in the black dunes is one of the finest views in the East. The ticket costs about 1,200 ISK and is paid at the Viking Café.",
       },
       {

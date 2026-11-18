@@ -430,7 +430,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       },
       {
         nome: "Bribri community and chocolate workshop",
-        testo: "A visit to an indigenous Bribri community, where the village leader explains traditional plants and shows the little poison frogs, followed by a traditional chocolate workshop with tasting. It is a cultural experience, but don't picture it as something authentic deep in the jungle.",
+        testo: "A visit to an indigenous Bribri community, where the village leader explains traditional plants and shows the little poison frogs, followed by a traditional chocolate workshop with tasting. It is a cultural experience designed for visitors: don't expect an isolated village deep in the jungle.",
         come: "As part of the full Cahuita tour, in the afternoon, or on a dedicated tour.",
         quando: "Afternoon.",
         tempo: "2-3 hours",

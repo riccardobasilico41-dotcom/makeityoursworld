@@ -108,7 +108,7 @@ Para las comidas el presupuesto indicativo era de 10-15 € al día para los des
 - **No ir en Nochevieja si se puede evitar.** Es la época más cara del año para volar y dormir en esta zona. Yo lo hice porque quería precisamente esa Nochevieja allí, pero si el objetivo es solo ver la aurora boreal en la Laponia sueca, conviene saberlo antes.
 - **Febrero-marzo es la época adecuada para ahorrar bastante**: las probabilidades de aurora siguen siendo altas y vuelos y alojamientos cuestan mucho menos que a finales de diciembre.
 - **Con el frío extremo, a veces se cancelan los trenes.** No pasa a menudo, pero puede pasar. Cuando ocurre, los taxis de la zona (la única alternativa que queda) tienden a subir un poco los precios, porque en ese momento no hay muchas otras formas de moverse. Mejor dejar un margen extra en el presupuesto de transportes.
-- Vestirse con capas gruesas es obvio, pero merece la pena repetirlo: las temperaturas se mantienen muy por debajo de cero toda la semana.
+- Vestirse con capas gruesas parece obvio, pero lo repetimos: las temperaturas se mantienen muy por debajo de cero toda la semana.
 
 ## Chiusura personale
 Quería una Nochevieja distinta a todas las demás, y la tuve: en el pub de Kiruna, con el frío haciéndose notar desde el primer momento, y luego días de hasta -25/-26 °C. Es un frío seco: si te abrigas bien no se te mete en los huesos, pero la nariz es otra historia.

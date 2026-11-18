@@ -151,7 +151,7 @@ closing at 1:00).
 - **Live Muay Thai**: the Rajadamnern or Lumpinee stadiums offer regular
   bouts, to be seen at least once.
 
-## Floating market and train market: are they worth it?
+## Floating market and train market: go or skip?
 The classic day trip from Bangkok to the **Floating Market** (e.g. Damnoen
 Saduak or Amphawa) and the **Train Market** (Maeklong, where the stalls
 pull back at the last second when the train passes) is one of the
@@ -161,8 +161,8 @@ be said frankly: **it is very touristy**. The floating markets closest to
 Bangkok are organized almost exclusively for visitors, prices are
 inflated compared with any local market, and the "authentic" atmosphere
 of the photos is largely staged for the occasion. That said,
-**if it's your first time in Thailand and there is time, it is still worth
-doing**: they are curious, photogenic glimpses, the
+**if it's your first time in Thailand and there is time, it still makes
+sense to go**: they are curious, photogenic glimpses, the
 train passing a hand's breadth from the goods is really fun, and in half a day
 you satisfy the curiosity without sacrificing too much time from the rest of the
 itinerary. Those who want a Thai market used by local people

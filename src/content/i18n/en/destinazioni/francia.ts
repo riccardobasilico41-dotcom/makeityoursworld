@@ -4287,7 +4287,7 @@ export const destinazioniFrancia: Destinazione[] = [
       "Not buying piste rescue insurance, which costs a few euros a day and covers an item that in France is paid for",
       "Buying the lift pass at the ticket window on the first day: online and in advance it costs less",
       "Choosing a huge ski area as a beginner or if you ski only a few hours a day: you pay for a big pass to use a tenth of it",
-      "Going off-piste without a guide, without a transceiver, shovel and probe and without being able to read the avalanche bulletin. **The Vallée Blanche is not a piste**: it is a glacier route, with crevasses",
+      "Going off-piste without a guide, without a transceiver, shovel and probe and without being able to read the avalanche bulletin. **The Vallée Blanche is a glacier route, not a piste**, with crevasses",
       "Expecting wooden Alpine villages in an integrated resort from the 1970s: they were built for skiing, not to be looked at",
     ],
     confronti: [

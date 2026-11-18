@@ -115,7 +115,7 @@ In the afternoon we went back to Osaka for the **Kuromon Market** and the fluffy
 ### Day 10 (15.04) — Osaka-Tokyo: Harajuku and Shibuya
 Very early at Shin-Osaka we took the Hikari Shinkansen to Tokyo, about three hours. With the luggage dropped off we went to **Harajuku**: Takeshita Dori, the hyper-pop street with Totti's rainbow cotton candy cloud, and ten minutes away the **Meiji-Jingu**, an oasis of calm after that chaos. The shrine is dedicated to Emperor Meiji and is reached along a gravel avenue through the woods, under large wooden torii: you walk about ten minutes before reaching the main hall. At weekends Takeshita Dori is packed from mid-morning, so it's worth going early. We had lunch at **Gyozaro**, gyoza specialty.
 
-The afternoon we were in **Shibuya**: the Hachiko statue and Shibuya Crossing, this time from a different angle than on the first day. It's worth going up Shibuya Scramble Square, fourteenth floor and then the Sky Observatory, or looking out for free from the art gallery next door. *Sky Observatory tickets are timed and the sunset slots go first: buy them online a few days ahead.* Toward evening we checked in at the Sunshine City Prince Hotel and had dinner at **Kyomachi Koishigure Shinjuku**, a place with a 1950s atmosphere.
+The afternoon we were in **Shibuya**: the Hachiko statue and Shibuya Crossing, this time from a different angle than on the first day. For the view from above you go up Shibuya Scramble Square, fourteenth floor and then the Sky Observatory, or look out for free from the art gallery next door. *Sky Observatory tickets are timed and the sunset slots go first: buy them online a few days ahead.* Toward evening we checked in at the Sunshine City Prince Hotel and had dinner at **Kyomachi Koishigure Shinjuku**, a place with a 1950s atmosphere.
 
 **In practice:** Hikari Shinkansen Shin-Osaka-Tokyo about 3 hours, covered by the JR Pass · Meiji-Jingu free, open from sunrise to sunset · Shibuya Sky charges admission with timed entry, and the open-air section closes in rain or strong wind · from Shibuya to Ikebukuro, where the Sunshine City Prince is, about 20 minutes on the JR Yamanote line.
 
@@ -145,7 +145,7 @@ Food is probably the real thread of this trip, and it's worth approaching it wit
 - **A few more addresses**, for those who want to widen the list beyond the places already mentioned in the plan: in Tokyo high-end izakaya like Tanakada (Nishi-Azabu) are excellent for a special occasion; in Kyoto Muromachi Kaji is a kappo-izakaya much appreciated for its kaiseki-style dishes in a more casual version. Both are listed by the Michelin Guide as Bib Gourmand (good value), and need to be booked in advance.
 
 ## Onsen: The Other Side of the Trip
-Japan offers more chances than the plan includes for a traditional hot bath, and it's worth fitting in at least a couple at a leisurely pace (Funaoka Onsen in Kyoto, the Kawaguchiko onsen on the Mount Fuji day):
+Japan offers more chances than the plan includes for a traditional hot bath, and it makes sense to fit in at least a couple at a leisurely pace (Funaoka Onsen in Kyoto, the Kawaguchiko onsen on the Mount Fuji day):
 
 - **Onsen and sentō**: the onsen uses natural hot spring water, the sentō is a public bath with heated tap water. The rules are the same.
 - **You enter naked**, after washing carefully at the side showers, before getting into the shared tub (the tub water must not be soaped).

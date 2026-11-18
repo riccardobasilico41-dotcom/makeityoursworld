@@ -387,7 +387,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "quando": "Mañana o última hora de la tarde, con menos calor.",
         "tempo": "2-3 horas",
         "url": "https://www.experiencealula.com/en/places-to-go/hegra",
-        "consiglio": "Reservar con semanas de antelación en los meses punta. No es «Petra sin multitud»: es más pequeña y más silenciosa.",
+        "consiglio": "Reservar con semanas de antelación en los meses punta. Comparada con Petra es más pequeña y más silenciosa.",
         "costo": "Hegra Day Tour con guía 95 SAR por persona, unos 22 €; Hegra Premium Tour en 4x4 privado desde 1.000 SAR por vehículo, unos 230 € (2026)",
         "lat": 26.79167,
         "lng": 37.95278
@@ -1143,7 +1143,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     introduzione:
       "La costa septentrional del Mar Rojo saudí, con un archipiélago de un centenar de islas de arena blanca y arrecifes de coral entre los menos dañados del planeta, porque hasta hace pocos años ningún turista podía llegar. Con una exageración perdonable lo llaman «las Maldivas saudíes».",
     percheAndarci:
-      "Son arrecifes que no han sufrido décadas de presión turística. Y es la parte del país que cambia más deprisa: aquí están surgiendo los grandes proyectos costeros, y quien va ahora la ve antes. Está en la lista por una razón que tiene fecha de caducidad. Estos arrecifes están entre los menos dañados del Mar Rojo porque hasta 2019 casi ningún turista podía llegar, y ahora en esta costa están naciendo algunos de los mayores proyectos turísticos jamás iniciados en el mundo. El periodo en que Umluj sigue siendo un puerto de pescadores con un centenar de islas blancas delante y ninguna infraestructura será, con toda probabilidad, breve. También hay que decir con honestidad lo que implica: ningún servicio, pocos operadores, ningún estándar garantizado, y las normas del país valen también en la playa, donde en las playas públicas se entra en el agua vestido. No es un destino de playa como lo entendemos nosotros: es una costa que se está abriendo ahora.",
+      "Son arrecifes que no han sufrido décadas de presión turística. Y es la parte del país que cambia más deprisa: aquí están surgiendo los grandes proyectos costeros, y quien va ahora la ve antes. Está en la lista por una razón que tiene fecha de caducidad. Estos arrecifes están entre los menos dañados del Mar Rojo porque hasta 2019 casi ningún turista podía llegar, y ahora en esta costa están naciendo algunos de los mayores proyectos turísticos jamás iniciados en el mundo. El periodo en que Umluj sigue siendo un puerto de pescadores con un centenar de islas blancas delante y ninguna infraestructura será, con toda probabilidad, breve. También hay que decir con honestidad lo que implica: ningún servicio, pocos operadores, ningún estándar garantizado, y las normas del país valen también en la playa, donde en las playas públicas se entra en el agua vestido. Es una costa que se está abriendo ahora, lejos de nuestra idea de destino de playa.",
     cosaVedere: [
       "El archipiélago frente a Umluj, con las islas de arena blanca y los bancos de coral",
       "Los arrecifes del Mar Rojo septentrional, con una visibilidad altísima",

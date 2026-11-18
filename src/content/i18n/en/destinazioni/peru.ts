@@ -1905,7 +1905,7 @@ export const destinazioniPeru: Destinazione[] = [
         "risposta": "Two days with a night on Amantaní are enough for the Peruvian side. With three you can add Sillustani and Chucuito, and with four or five you can also cross into Bolivia."
       },
       {
-        "domanda": "Is it worth sleeping on Amantaní?",
+        "domanda": "Should you sleep on Amantaní?",
         "risposta": "Yes, it is the most direct way to see how people live on the lake. The houses are simple, with shared bathrooms, no guaranteed hot water and no heating: you need a warm sleeping bag."
       },
       {

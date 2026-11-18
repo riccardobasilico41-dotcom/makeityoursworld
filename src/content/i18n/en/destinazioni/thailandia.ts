@@ -2335,7 +2335,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: 'Baan Dam, the Black House',
-        testo: "A complex of dark buildings designed by the artist Thawan Duchanee, filled with his work. It isn't a temple: it's a private art museum, dark and strange.",
+        testo: "A complex of dark buildings designed by the artist Thawan Duchanee, filled with his work. It looks like a temple, but it's a private art museum, dark and strange.",
         come: 'North of the city, by Grab or with a driver.',
         quando: "In the morning or after one o'clock, so as not to find it closed over lunch.",
         tempo: '1-1.5 hours',

@@ -158,7 +158,7 @@ This is the part of the trip worth reading before you leave. With a few dates in
 The main entrance fees checked for 2026: Kilmainham Gaol €8, Glendalough (visitor centre) €5, Kilkenny Castle €8, Rock of Cashel €8, Cliffs of Moher €15 at the ticket desk (less online), Giant's Causeway Visitor Experience £15 (the stones are free), Titanic Belfast £24.95, ETA £20 per person. For the car, fuel, accommodation and dinners we have no checked figures to put here: July and August are the most expensive months, and Dublin is the most expensive city on the route.
 
 ## Chiusura personale
-You cross Ireland for the landscapes, and they don't disappoint: the cliffs, Kerry, Connemara, the Antrim coast. The reason it's worth going all the way to the north is another one. Between Derry and Belfast you walk inside a history that is still recent, and the 1998 Agreement stops being a date in a book.
+You cross Ireland for the landscapes, and they don't disappoint: the cliffs, Kerry, Connemara, the Antrim coast. The reason to go all the way to the north is another one. Between Derry and Belfast you walk inside a history that is still recent, and the 1998 Agreement stops being a date in a book.
 
 ## Nota su questa bozza
 A trip Rick took; his first-person memories will follow. Driving times between stops are approximate, without stops. Left generic, for lack of confirmed sources: car and accommodation prices, the Book of Kells ticket, the prices of Dunluce Castle and Kylemore Abbey, and the exact date the Long Room reopens. The Carrick-a-Rede price comes from Wikipedia and needs confirming on the National Trust website. No hotel, restaurant or operator names have been made up.

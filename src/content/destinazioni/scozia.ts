@@ -790,7 +790,7 @@ export const destinazioniScozia: Destinazione[] = [
     ],
     faq: [
       {
-        domanda: "Glencoe vale la pena?",
+        domanda: "Conviene fermarsi a Glencoe?",
         risposta: "Sì, è il paesaggio di montagna più spettacolare che si vede dalla strada in Scozia. Anche senza camminare, le soste tra il Rannoch Moor, il Buachaille e le Three Sisters valgono la giornata.",
       },
       {
@@ -1764,7 +1764,7 @@ export const destinazioniScozia: Destinazione[] = [
     ],
     faq: [
       {
-        domanda: "Loch Ness vale la pena?",
+        domanda: "Conviene andare a Loch Ness?",
         risposta: "Vale la sosta lungo la strada, con Urquhart e un affaccio da Dores o Fort Augustus, ma da solo non giustifica il viaggio. Meglio inserirlo tra Skye, Fort William e lo Speyside.",
       },
       {

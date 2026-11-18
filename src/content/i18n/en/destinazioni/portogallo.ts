@@ -623,7 +623,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "risposta": "Usually not: private cars cannot go up to Pena and parking in the centre is scarce at weekends. A car is only useful for the Capuchos and the coast."
       },
       {
-        "domanda": "Is it worth staying overnight in Sintra?",
+        "domanda": "Should you stay overnight in Sintra?",
         "risposta": "Yes, if you want Pena at opening time and the centre in the evening without groups. There are few hotels and they cost more than in Lisbon, so book early."
       }
     ],

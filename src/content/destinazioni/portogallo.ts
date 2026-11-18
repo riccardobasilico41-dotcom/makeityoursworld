@@ -632,7 +632,7 @@ export const destinazioniPortogallo: Destinazione[] = [
         "risposta": "Di solito no: le auto private non salgono alla Pena e in centro il parcheggio scarseggia nei fine settimana. L'auto serve solo per Capuchos e la costa."
       },
       {
-        "domanda": "Vale la pena dormire a Sintra?",
+        "domanda": "Conviene dormire a Sintra?",
         "risposta": "Sì per chi vuole la Pena all'apertura e il centro la sera senza gruppi. Gli alberghi sono pochi e costano più che a Lisbona, quindi si prenota presto."
       }
     ],

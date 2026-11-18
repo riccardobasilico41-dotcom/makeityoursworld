@@ -62,7 +62,7 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     costo: "media pinta de cerveza de barril en un pub de barrio cuesta aproximadamente 55-80 CZK; un tour guiado con varias paradas y catas cuesta unos 30-50 € por persona",
     comePrenotare: "Los tours temáticos se reservan en las plataformas de tours online; por libre no hace falta reservar, basta elegir pubs fuera del eje más turístico.",
     cosaPortare: 'Ningún equipamiento especial.',
-    perChiEAdatta: "Para quien quiere una experiencia auténtica sin pagar precios de zona turística; menos para quien no bebe alcohol, aunque en las hospodas encuentra igualmente comida.",
+    perChiEAdatta: "Para quien quiere beber en pubs de barrio, entre los vecinos, sin pagar precios de zona turística; menos para quien no bebe alcohol, aunque en las hospodas encuentra igualmente comida.",
     giudizio: 'da-verificare',
     alternative: ["Una cervecería artesanal con visita y cata, para quien busca algo más estructurado que una simple velada en el pub"],
     tripSlugs: ['praga-weekend'],

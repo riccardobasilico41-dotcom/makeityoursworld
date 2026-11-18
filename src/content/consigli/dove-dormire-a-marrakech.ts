@@ -44,7 +44,7 @@ Il quartiere a nord-ovest della piazza, intorno alla fontana di Mouassine e a Le
 
 ## 3. Medina nord: Ben Youssef e Bab Doukkala
 
-**Per chi:** chi vuole la medina autentica e prezzi più bassi.
+**Per chi:** chi vuole una medina con meno turisti e prezzi più bassi.
 **Fascia:** 40-120 €.
 
 La parte settentrionale della medina, intorno alla Medersa Ben Youssef e alla Maison de la Photographie, e verso Bab Doukkala. Meno turisti, artigiani al lavoro e riad più economici. Da Jemaa el-Fna sono 15-20 minuti a piedi nei souk, e la sera i vicoli sono bui: meglio farsi accompagnare.
@@ -149,7 +149,7 @@ The quarter north-west of the square, around the Mouassine fountain and Le Jardi
 
 ## 3. North medina: Ben Youssef and Bab Doukkala
 
-**Best for:** the authentic medina at lower prices.
+**Best for:** a medina with fewer tourists and lower prices.
 **Price range:** €40-120.
 
 The northern part of the medina, around the Ben Youssef Madrasa and the Maison de la Photographie, and towards Bab Doukkala. Fewer tourists, craftsmen at work and cheaper riads. Jemaa el-Fna is 15-20 minutes' walk through the souks, and the alleys are dark at night: better to be accompanied.
@@ -254,7 +254,7 @@ El barrio al noroeste de la plaza, alrededor de la fuente de Mouassine y Le Jard
 
 ## 3. Medina norte: Ben Youssef y Bab Doukkala
 
-**Para quién:** quien quiere la medina auténtica y precios más bajos.
+**Para quién:** quien quiere una medina con menos turistas y precios más bajos.
 **Precio:** 40-120 €.
 
 La parte norte de la medina, alrededor de la Medersa Ben Youssef y la Maison de la Photographie, y hacia Bab Doukkala. Menos turistas, artesanos trabajando y riads más baratos. Desde Jemaa el-Fna son 15-20 minutos a pie por los zocos, y por la noche los callejones están oscuros: mejor ir acompañado.

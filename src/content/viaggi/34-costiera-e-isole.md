@@ -85,7 +85,7 @@ La mattina abbiamo preso il traghetto per **Capri**. Si sbarca a **Marina Grande
 
 Il pomeriggio l'abbiamo dedicato alla parte alta: la **Piazzetta**, minuscola, che vive di essere osservata, e poi i **Giardini di Augusto** con l'affaccio sui **Faraglioni** e su **Via Krupp**, la strada a tornanti scavata nella roccia che scende a Marina Piccola. **Via Krupp è stata chiusa a tratti per rischio di caduta massi: conviene controllare prima se è aperta.**
 
-Verso sera, quando le escursioni giornaliere sono ripartite, **Capri cambia**. La sera l'isola si svuota di due terzi e diventa all'improvviso silenziosa, ed è per questo che vale la pena dormirci invece di farla in giornata.
+Verso sera, quando le escursioni giornaliere sono ripartite, **Capri cambia**. La sera l'isola si svuota di due terzi e diventa all'improvviso silenziosa, ed è per questo che conviene dormirci invece di farla in giornata.
 
 **In pratica:** traghetto o aliscafo per Capri da Amalfi, Positano, Sorrento o Napoli · funicolare da Marina Grande alla Piazzetta, biglietti alla stazione · Giardini di Augusto con biglietto · Via Krupp spesso chiusa: chiedere in paese se è aperta · dormire sull'isola costa caro, prenotare presto.
 
@@ -184,7 +184,7 @@ Nel pomeriggio siamo rientrati a Napoli.
 - **Non aspettare due ore per la Grotta Azzurra**, e controllare prima lo stato del mare.
 - **Non cuocere la colatura di alici.**
 - **Controllare gli accessi**: Via Krupp, la Valle delle Ferriere, Vivara e la Grotta dello Smeraldo hanno tutti regole che cambiano.
-- **Mettere in conto gli scalini.** Non è una vacanza di mare in piano: è una costa verticale.
+- **Mettere in conto gli scalini.** La costa è verticale, e al mare si scende a piedi.
 
 ## Chiusura personale
 Dei gradini da Nocelle a Positano, più di 1.700, le gambe si ricordano ancora il giorno dopo. La Costiera per me va fatta così: niente auto, tutto in traghetto, e salire sui sentieri sopra la strada, dove non c'è nessuno. Le isole non sono intercambiabili, e farne due bene è meglio che farne tre di corsa.

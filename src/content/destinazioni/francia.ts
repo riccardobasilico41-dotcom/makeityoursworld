@@ -4293,7 +4293,7 @@ export const destinazioniFrancia: Destinazione[] = [
       'Non comprare l\'assicurazione del soccorso sulle piste, che costa pochi euro al giorno e copre una voce che in Francia si paga',
       'Comprare il forfait alla cassa il primo giorno: online e in anticipo costa meno',
       'Scegliere un comprensorio enorme da principianti o se si scia poche ore al giorno: si paga un forfait grande per usarne un decimo',
-      'Andare fuoripista senza guida, senza ARVA, pala e sonda e senza saper leggere il bollettino valanghe. **La Vallée Blanche non è una pista**: è un itinerario su ghiacciaio, con i crepacci',
+      'Andare fuoripista senza guida, senza ARVA, pala e sonda e senza saper leggere il bollettino valanghe. **La Vallée Blanche è un itinerario su ghiacciaio, non una pista**, con i crepacci',
       'Aspettarsi villaggi alpini di legno in una stazione integrata degli anni Settanta: sono state costruite per sciare, non per essere guardate',
     ],
     confronti: [

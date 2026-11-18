@@ -187,7 +187,7 @@ Ci siamo spostati verso il vulcano, per la giornata per cui si viene a est.
 
 **Strati veri:** si parte da Catania con venticinque gradi e a tremila metri ce ne possono essere cinque, con vento forte.
 
-Nel pomeriggio ci sono i **crateri Silvestri** a quota bassa, gratuiti e raggiungibili in auto, oppure una **cantina dell'Etna su appuntamento**. Le viti qui sono spesso **a piede franco**, perché sul suolo lavico la **fillossera** non è mai arrivata, e ci sono ceppi di oltre cento anni. In vent'anni l'Etna è diventato uno dei territori vinicoli più interessanti d'Europa, e vale la pena capirne il motivo sul posto.
+Nel pomeriggio ci sono i **crateri Silvestri** a quota bassa, gratuiti e raggiungibili in auto, oppure una **cantina dell'Etna su appuntamento**. Le viti qui sono spesso **a piede franco**, perché sul suolo lavico la **fillossera** non è mai arrivata, e ci sono ceppi di oltre cento anni. In vent'anni l'Etna è diventato uno dei territori vinicoli più interessanti d'Europa, e in cantina si capisce il perché.
 
 **In pratica:** bollettino INGV la sera prima · funivia dal Rifugio Sapienza, poi fuoristrada e guida, da prenotare · scarpe da trekking, giacca a vento, strati · crateri Silvestri gratuiti · cantine dell'Etna solo su appuntamento.
 

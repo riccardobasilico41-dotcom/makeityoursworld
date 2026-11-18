@@ -62,7 +62,7 @@ export const esperienzeAustria: Esperienza[] = [
     cosaPortare: 'No special equipment; handy to have cash for the more traditional cafés, although cards are now accepted almost everywhere.',
     perChiEAdatta: 'Suitable for everyone; for those short on time, even a single stop in a historic café is enough to get an idea of the custom.',
     giudizio: 'da-verificare',
-    alternative: ['A neighborhood café outside the more touristy center, cheaper and just as authentic for those who want to avoid the prices of the most famous names'],
+    alternative: ['A neighborhood café outside the more touristy center, cheaper and mostly used by people who live nearby, for those who want to avoid the prices of the most famous names'],
     tripSlugs: ['vienna-weekend'],
     imageAlt: 'The decorated groin vaults and globe chandeliers of Café Central in Vienna, with the neo-Gothic style columns',
     immagine: '/images/austria/vienna-giro-caffe-storici.jpg',

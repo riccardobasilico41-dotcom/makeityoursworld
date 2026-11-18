@@ -239,7 +239,7 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     faq: [
       {
-        "domanda": "Vale la pena visitare Malé?",
+        "domanda": "Conviene visitare Malé?",
         "risposta": "Per mezza giornata sì: mercato del pesce, Moschea del Venerdì, Museo Nazionale e lungomare si vedono a piedi in poche ore. Per dormire conviene Hulhumalé."
       },
       {
@@ -554,7 +554,7 @@ export const destinazioniMaldive: Destinazione[] = [
         "nome": "Ukulhas con Reef Rangers",
         "lng": 72.86444,
         "lat": 4.21389,
-        "testo": "Un'isola locale di Ari Nord, bella e molto autentica, più isola vissuta che paradiso tropicale. Ci abbiamo passato una settimana: era un imprevisto, perché i voli sono stati cancellati allo scoppio della guerra in Medio Oriente. Abbiamo fatto immersioni e brevetti con Reef Rangers Ukulhas, bravissimi.",
+        "testo": "Un'isola locale di Ari Nord, bella, più isola vissuta che paradiso tropicale. Ci abbiamo passato una settimana: era un imprevisto, perché i voli sono stati cancellati allo scoppio della guerra in Medio Oriente. Abbiamo fatto immersioni e brevetti con Reef Rangers Ukulhas, bravissimi.",
         "come": "Speedboat da Malé, circa 1 ora-1 ora e mezza.",
         "tempo": "3-4 giorni, o di più per un brevetto",
         "consiglio": "Per diving e brevetti: Reef Rangers Ukulhas. Tenere sempre un giorno di margine prima del volo."
@@ -653,7 +653,7 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "nome": "Ukulhas",
         "perChi": "chi cerca un'isola vissuta",
-        "testo": "Autentica, con diving e brevetti. Meno paradiso tropicale che a Dhigurah.",
+        "testo": "Isola locale vissuta, con diving e brevetti. Meno paradiso tropicale che a Dhigurah.",
         "fascia": "50-85 €"
       },
       {
@@ -1040,7 +1040,7 @@ export const destinazioniMaldive: Destinazione[] = [
         "tempo": "mezza giornata o 2-3 giorni",
         "lat": 5.02306,
         "lng": 72.83972,
-        "consiglio": "Gli oggetti di lacca sono il souvenir più autentico dell'atollo."
+        "consiglio": "Gli oggetti di lacca, torniti e dipinti a mano nelle botteghe dell'isola, sono il souvenir da comprare qui."
       },
       {
         "nome": "Eydhafushi",

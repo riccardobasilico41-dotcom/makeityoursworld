@@ -1201,7 +1201,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         risposta: "By bus 246 from the station, about 40-50 minutes, or by taxi. Services are few: check the return time before setting off.",
       },
       {
-        domanda: "Is it worth sleeping in Hahoe?",
+        domanda: "Should you sleep in Hahoe?",
         risposta: "Yes. At five in the afternoon the coaches leave and the village becomes a village again, with the river and a few old people sitting outside.",
       },
       {
@@ -1967,7 +1967,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         risposta: "One day with a night is enough for the hanok village and the food; with two you add Jaman, Deokjin and the night market at leisure.",
       },
       {
-        domanda: "Is it worth sleeping in a hanok?",
+        domanda: "Should you sleep in a hanok?",
         risposta: "Yes: it is the reason to stop. You sleep on mattresses on the heated floor; before booking, check whether the bathroom is en suite.",
       },
       {

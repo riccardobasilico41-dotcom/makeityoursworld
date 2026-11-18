@@ -534,7 +534,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "risposta": "Al mattino: dal primo pomeriggio si alza lo Xocomil, il vento che rende le traversate mosse. Conviene fare gli spostamenti in barca entro mezzogiorno."
       },
       {
-        "domanda": "Vale la pena l'alba all'Indian Nose?",
+        "domanda": "Conviene salire all'alba all'Indian Nose?",
         "risposta": "Sì, ma solo con il cielo sereno: nella stagione delle piogge si sale al buio per trovare le nuvole. Si parte verso le 4 con una guida del posto."
       },
       {
@@ -787,7 +787,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "risposta": "Due o tre giorni: uno intero per Tikal, la sera prima a Flores e, se si può, un giorno in più per Yaxhá o il Mirador del Rey Canek."
       },
       {
-        "domanda": "Vale la pena l'ingresso all'alba?",
+        "domanda": "Conviene l'ingresso all'alba?",
         "risposta": "Sì, più per i suoni che per la vista: nella stagione secca l'alba è spesso velata, ma il coro di scimmie urlatrici e uccelli si sente prima dell'apertura delle 6. L'ingresso all'alba (4-6) costa Q100 in più e richiede la guida."
       },
       {
@@ -903,7 +903,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       },
       {
         "nome": "Grutas de Lanquín",
-        "testo": "Un sistema di grotte calcaree appena fuori dal paese, da cui esce il fiume Lanquín. Al tramonto migliaia di pipistrelli escono dall'ingresso tutti insieme, lo spettacolo per cui vale la pena venire.",
+        "testo": "Un sistema di grotte calcaree appena fuori dal paese, da cui esce il fiume Lanquín. Al tramonto migliaia di pipistrelli escono dall'ingresso tutti insieme: è il motivo per venirci.",
         "come": "A piedi o in tuk tuk da Lanquín, circa un chilometro; il primo tratto della grotta è illuminato e scivoloso.",
         "quando": "Tardo pomeriggio, per restare all'ingresso al tramonto.",
         "tempo": "1-1,5 ore",

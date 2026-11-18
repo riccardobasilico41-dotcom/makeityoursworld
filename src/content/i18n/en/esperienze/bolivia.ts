@@ -17,7 +17,7 @@ export const esperienzeBolivia: Esperienza[] = [
     costo:
       "roughly $80-170 per person depending on the operator. Budget operators are around $80-100, premium ones between $120 and $170, with real differences in bikes, groups and safety protocols.",
     comePrenotare:
-      "Through the agencies in La Paz, even a day ahead. It's worth reading recent reviews and asking explicitly which bikes will be used, how many people per guide and whether full protective gear is included.",
+      "Through the agencies in La Paz, even a day ahead. Before choosing, read recent reviews and ask explicitly which bikes will be used, how many people per guide and whether full protective gear is included.",
     cosaPortare:
       "Layered clothing: you start at 4,650 meters near freezing and arrive at 1,200 meters with a tropical climate. Gloves, glasses, sun protection and a full change of clothes for the end.",
     perChiEAdatta:
@@ -81,7 +81,7 @@ export const esperienzeBolivia: Esperienza[] = [
       "May-October for the dry salar that can be crossed in full; January-March for the mirror effect, though with several stops inaccessible",
     costo: 'roughly $150-250 per person depending on the operator, plus the entrance to the Eduardo Avaroa reserve',
     comePrenotare:
-      "Through the agencies in Uyuni or La Paz. It's worth choosing based on vehicle maintenance and not on price: you travel on isolated tracks above 4,500 meters, where a serious breakdown is a hard problem to solve.",
+      "Through the agencies in Uyuni or La Paz. Choose the agency on vehicle maintenance, not on price: you travel on isolated tracks above 4,500 meters, where a serious breakdown is a hard problem to solve.",
     cosaPortare:
       "A heavy sleeping bag (not always included, and in the Sud Lípez lodgings you sleep below freezing), layered clothing, very high sun protection (at that altitude the sun reflected by the salt burns), a swimsuit for the hot springs and cash for admissions.",
     perChiEAdatta: 'Suitable for everyone physically, but the altitude makes itself felt: on the second day you go above 4,800 meters.',

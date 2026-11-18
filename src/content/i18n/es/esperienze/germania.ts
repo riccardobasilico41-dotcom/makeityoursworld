@@ -80,7 +80,7 @@ export const esperienzeGermania: Esperienza[] = [
     cosE:
       "La escena de los clubes techno berlineses, crecida a partir de principios de los años noventa en los espacios industriales abandonados de la antigua Berlín Este tras la caída del Muro (el club Tresor, abierto en 1991 en una cámara acorazada bancaria subterránea, es uno de los pioneros) y hoy identificada a nivel internacional con locales como el Berghain, instalado en una antigua central eléctrica, famoso por la puerta de entrada muy selectiva e imprevisible y por la prohibición absoluta de hacer fotos en el interior. En marzo de 2024 la cultura techno berlinesa fue inscrita en el registro alemán del patrimonio cultural inmaterial, un paso formal hacia un posible reconocimiento internacional futuro.",
     percheFarla:
-      "Es un fenómeno nacido y crecido aquí, ligado precisamente a los espacios que dejó libres la caída del Muro, y es una de las razones por las que Berlín se considera desde hace décadas una de las capitales mundiales de la música electrónica. Merece la pena conocerlo incluso para quien no es del sector.",
+      "Es un fenómeno nacido y crecido aquí, ligado precisamente a los espacios que dejó libres la caída del Muro, y es una de las razones por las que Berlín se considera desde hace décadas una de las capitales mundiales de la música electrónica. Interesa también a quien no es del sector.",
     durata: 'una noche (los clubes suelen abrir tarde, pasada la medianoche, y algunos siguen abiertos hasta la mañana o más allá)',
     periodo: 'todo el año, porque transcurre de noche y en interior',
     costo: 'entrada a los clubes, orientativamente 10-25 € según el local y el evento',

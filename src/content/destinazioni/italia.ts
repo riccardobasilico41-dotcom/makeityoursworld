@@ -156,7 +156,7 @@ export const destinazioniItalia: Destinazione[] = [
             costo: 'mezza pensione indicativamente 60-80 €, con sconti soci CAI che rendono la tessera conveniente in tre notti',
             durata: 'da una notte a un\'Alta Via intera',
             pro: [
-              'Si è già in quota all\'alba e al tramonto, che sono le due ore per cui vale la pena essere lì',
+              'Si è già in quota all\'alba e al tramonto',
               'Permette trekking a tappe senza tenda né cibo: è il modello alpino, e altrove non c\'è una rete così fitta',
               'La cena in comune con gli altri escursionisti è metà dell\'esperienza',
               'Sconti importanti per i soci delle associazioni alpinistiche',
@@ -520,7 +520,7 @@ export const destinazioniItalia: Destinazione[] = [
       'Sciare di notte, dove le piste illuminate restano aperte fino a tardi',
     ],
     doveDormire:
-      'Vale la regola opposta a quella estiva: d\'inverno **stare sulle piste conta**, perché mezz\'ora di navetta con gli scarponi ai piedi due volte al giorno pesa. Le formule ski-in/ski-out costano di più e spesso ne vale la pena. La settimana bianca in mezza pensione resta il formato più conveniente, e i pacchetti che includono skipass e noleggio fanno risparmiare parecchio rispetto a comprare tutto separatamente.',
+      'Vale la regola opposta a quella estiva: d\'inverno **stare sulle piste conta**, perché mezz\'ora di navetta con gli scarponi ai piedi due volte al giorno pesa. Le formule ski-in/ski-out costano di più, ma spesso conviene pagarle. La settimana bianca in mezza pensione resta il formato più conveniente, e i pacchetti che includono skipass e noleggio fanno risparmiare parecchio rispetto a comprare tutto separatamente.',
     doveMangiare:
       'Qui l\'Italia batte tutti sulla neve: i rifugi di pista sono veri ristoranti. Si mangiano canederli, polenta, gulasch e casunziei in Dolomiti, polenta concia e fonduta in Valle d\'Aosta, pizzoccheri in Valtellina, e si beve bene. Il conto è più alto che a valle, ma lontano da quelli di Francia e Svizzera. In alta stagione i rifugi migliori vanno prenotati, anche a pranzo.',
     comeArrivare:

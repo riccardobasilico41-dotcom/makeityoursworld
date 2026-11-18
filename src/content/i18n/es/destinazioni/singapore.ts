@@ -970,7 +970,7 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Carrot cake",
-        testo: "No es el dulce: es una tortilla salada de daikon y arroz, salteada en la versión blanca o negra. Se come en los centros hawker."
+        testo: "Pese al nombre, es una tortilla salada de daikon y arroz, salteada en la versión blanca o negra. Se come en los centros hawker."
       },
       {
         nome: "Kopi y teh",

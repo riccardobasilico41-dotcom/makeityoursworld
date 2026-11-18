@@ -69,7 +69,7 @@ export const esperienzeAustria: Esperienza[] = [
     cosaPortare: 'Nessuna attrezzatura particolare; comodo avere contante per i caffè più tradizionali, anche se ormai le carte si accettano quasi ovunque.',
     perChiEAdatta: 'Adatta a tutti; per chi ha poco tempo, anche una sola tappa in un caffè storico basta a farsi un\'idea dell\'usanza.',
     giudizio: 'da-verificare',
-    alternative: ['Un caffè di quartiere fuori dal centro più turistico, più economico e altrettanto autentico per chi vuole evitare i prezzi delle insegne più famose'],
+    alternative: ['Un caffè di quartiere fuori dal centro più turistico, più economico e frequentato soprattutto da chi abita in zona, per chi vuole evitare i prezzi delle insegne più famose'],
     tripSlugs: ['vienna-weekend'],
     imageAlt: 'Le volte a crociera decorate e i lampadari a globo del Café Central di Vienna, con le colonne in stile neogotico',
     immagine: '/images/austria/vienna-giro-caffe-storici.jpg',

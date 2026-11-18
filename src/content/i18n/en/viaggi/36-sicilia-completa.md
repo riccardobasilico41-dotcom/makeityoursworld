@@ -187,7 +187,7 @@ We moved toward the volcano, for the day you come east for.
 
 **Real layers:** you leave Catania at twenty-five degrees and at three thousand meters it can be five, with strong wind.
 
-In the afternoon there are the **Silvestri craters** at low altitude, free and reachable by car, or an **Etna winery by appointment**. The vines here are often **ungrafted**, because **phylloxera** never reached the volcanic soil, and there are vines over a hundred years old. In twenty years Etna has become one of the most interesting wine territories in Europe, and it's worth understanding why on the spot.
+In the afternoon there are the **Silvestri craters** at low altitude, free and reachable by car, or an **Etna winery by appointment**. The vines here are often **ungrafted**, because **phylloxera** never reached the volcanic soil, and there are vines over a hundred years old. In twenty years Etna has become one of the most interesting wine territories in Europe, and in a winery you understand why.
 
 **In practice:** INGV bulletin the evening before · cable car from Rifugio Sapienza, then off-road vehicle and guide, to book · trekking shoes, windproof jacket, layers · Silvestri craters free · Etna wineries by appointment only.
 

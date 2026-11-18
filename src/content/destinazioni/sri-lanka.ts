@@ -227,7 +227,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "risposta": "La spiaggia è larga e comoda per passeggiare, ma non bella come quelle del sud e il mare è spesso mosso. Per il mare vero conviene tenere i giorni per Hikkaduwa e la costa meridionale."
       },
       {
-        "domanda": "Vale la pena restare a Negombo più di una notte?",
+        "domanda": "Conviene restare a Negombo più di una notte?",
         "risposta": "Un giorno basta per mercato del pesce, forte, chiese e laguna. Con più tempo si aggiungono le paludi di Muthurajawela o una giornata a Colombo."
       },
       {

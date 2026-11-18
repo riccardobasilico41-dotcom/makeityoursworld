@@ -21,7 +21,7 @@ export const consiglioIstanbulRooftop: Consiglio = {
         'Istanbul è costruita su sette colli e affacciata su tre mari, e da quasi ogni terrazza si vede l\'acqua. Ecco dodici rooftop e punti panoramici, dai cocktail bar di Beyoğlu alle terrazze gratuite delle moschee, con prezzi e consigli.',
       corpo: `Per un aperitivo con vista le scelte sicure sono tre: **Mikla**, sul tetto del Marmara Pera, con una vista a 360 gradi su Beyoğlu, il Corno d'Oro e il Bosforo; **360 Istanbul**, in cima a un palazzo di viale İstiklal; e **Leb-i Derya**, più informale, verso Tünel. Per cenare davanti al Bosforo con i ponti illuminati si sale a **Ulus**, sulla riva europea. Chi non vuole spendere ha la **terrazza della Süleymaniye**, gratuita, con il Corno d'Oro ai piedi.
 
-Al tramonto la luce cade alle spalle della penisola storica e accende di arancione le cupole e i minareti: è il momento per cui vale la pena salire. Quasi tutti i rooftop bar sono a Beyoğlu, Galata e Karaköy; quelli di Sultanahmet hanno di fronte Santa Sofia e la Moschea Blu.
+Al tramonto la luce cade alle spalle della penisola storica e accende di arancione le cupole e i minareti: è il momento migliore per salire. Quasi tutti i rooftop bar sono a Beyoğlu, Galata e Karaköy; quelli di Sultanahmet hanno di fronte Santa Sofia e la Moschea Blu.
 
 ## I rooftop bar di Beyoğlu e Galata
 
@@ -92,7 +92,7 @@ Molti sì, ma con la terrazza coperta e riscaldata; alcuni aprono la parte all'a
         'Istanbul is built on seven hills and faces three seas, and you see water from almost every terrace. Here are twelve rooftops and viewpoints, from the cocktail bars of Beyoğlu to the free mosque terraces, with prices and tips.',
       corpo: `For a drink with a view, three choices are safe bets: **Mikla**, on the roof of the Marmara Pera, with 360-degree views over Beyoğlu, the Golden Horn and the Bosphorus; **360 Istanbul**, on top of a building on İstiklal Avenue; and **Leb-i Derya**, more relaxed, towards Tünel. For dinner facing the Bosphorus with the bridges lit up, head up to **Ulus** on the European shore. If you don't want to spend, the **Süleymaniye terrace** is free, with the Golden Horn at your feet.
 
-At sunset the light falls behind the historic peninsula and turns the domes and minarets orange: that's the moment worth going up for. Almost all the rooftop bars are in Beyoğlu, Galata and Karaköy; those in Sultanahmet face Hagia Sophia and the Blue Mosque.
+At sunset the light falls behind the historic peninsula and turns the domes and minarets orange: that's the best time to go up. Almost all the rooftop bars are in Beyoğlu, Galata and Karaköy; those in Sultanahmet face Hagia Sophia and the Blue Mosque.
 
 ## Rooftop bars in Beyoğlu and Galata
 
@@ -131,7 +131,7 @@ At sunset the light falls behind the historic peninsula and turns the domes and 
 - **Sunset.** In summer it's after 8pm, in winter around 5pm. At the best-known rooftops the edge tables fill an hour before: book the right time.
 - **Dress code.** Mikla, Sunset and Ulus 29 ask for smart casual: no flip-flops or tank tops. Elsewhere, neat clothes are enough.
 - **Prices.** A cocktail at a Beyoğlu rooftop costs about the same as in a European capital; imported wine is expensive because of alcohol taxes.
-- **Winter.** Many terraces are seasonal or enclosed with glass from November to April. Still worth going, but the view is behind glass.
+- **Winter.** Many terraces are seasonal or enclosed with glass from November to April. You can still go, but the view is behind glass.
 - **The view from the water.** The public Bosphorus ferry (Şehir Hatları) leaves Eminönü daily at 10:35am and runs up to Anadolu Kavağı: a few euros return, and the most beautiful view of the city, from below.
 - **Scams.** Be wary of strangers suggesting a bar "with the best view": it's a known scam with inflated bills.
 
@@ -163,7 +163,7 @@ Many are, but with the terrace covered and heated; some open the outdoor part on
         'Estambul está construida sobre siete colinas y asomada a tres mares, y desde casi cualquier terraza se ve el agua. Aquí van doce rooftops y miradores, de los bares de cócteles de Beyoğlu a las terrazas gratis de las mezquitas, con precios y consejos.',
       corpo: `Para tomar algo con vistas hay tres opciones seguras: **Mikla**, en la azotea del Marmara Pera, con vistas de 360 grados sobre Beyoğlu, el Cuerno de Oro y el Bósforo; **360 Istanbul**, en lo alto de un edificio de la avenida İstiklal; y **Leb-i Derya**, más informal, hacia Tünel. Para cenar frente al Bósforo con los puentes iluminados hay que subir a **Ulus**, en la orilla europea. Quien no quiera gastar tiene la **terraza de la Süleymaniye**, gratis, con el Cuerno de Oro a los pies.
 
-Al atardecer la luz cae detrás de la península histórica y enciende de naranja las cúpulas y los minaretes: es el momento por el que merece la pena subir. Casi todos los rooftops están en Beyoğlu, Gálata y Karaköy; los de Sultanahmet tienen enfrente Santa Sofía y la Mezquita Azul.
+Al atardecer la luz cae detrás de la península histórica y enciende de naranja las cúpulas y los minaretes: es el mejor momento para subir. Casi todos los rooftops están en Beyoğlu, Gálata y Karaköy; los de Sultanahmet tienen enfrente Santa Sofía y la Mezquita Azul.
 
 ## Los rooftops de Beyoğlu y Gálata
 
@@ -202,7 +202,7 @@ Al atardecer la luz cae detrás de la península histórica y enciende de naranj
 - **El atardecer.** En verano cae después de las 20, en invierno hacia las 17. En los rooftops más conocidos las mesas del borde se ocupan una hora antes: conviene reservar a la hora buena.
 - **Código de vestimenta.** Mikla, Sunset y Ulus 29 piden smart casual: nada de chanclas ni camisetas de tirantes. En los demás basta ir arreglado.
 - **Precios.** Un cóctel en un rooftop de Beyoğlu cuesta más o menos lo mismo que en una capital europea; el vino importado es caro por los impuestos al alcohol.
-- **Invierno.** Muchas terrazas son de temporada o se cierran con cristaleras de noviembre a abril. Vale la pena ir igual, pero la vista queda tras el cristal.
+- **Invierno.** Muchas terrazas son de temporada o se cierran con cristaleras de noviembre a abril. Se puede ir igual, pero la vista queda tras el cristal.
 - **La vista desde el agua.** El ferry público del Bósforo (Şehir Hatları) sale cada día a las 10.35 de Eminönü y sube hasta Anadolu Kavağı: cuesta pocos euros ida y vuelta y es la vista más bonita de la ciudad, desde abajo.
 - **Estafas.** Desconfiar de los desconocidos que proponen un bar «con la mejor vista»: es una estafa conocida, con cuentas infladas.
 

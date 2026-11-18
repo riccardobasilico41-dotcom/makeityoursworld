@@ -1108,7 +1108,7 @@ export const destinazioniMessico: Destinazione[] = [
         risposta: "Una notte basta per il centro e il lungomare; con due notti si aggiungono Edzná e il Fuerte de San Miguel al tramonto senza correre.",
       },
       {
-        domanda: "Campeche vale la pena rispetto a Mérida?",
+        domanda: "Campeche o Mérida?",
         risposta: "È più piccola e molto più tranquilla, con le mura e il mare a due passi. Mérida ha più vita e ristoranti; Campeche funziona bene come notte di passaggio verso Palenque, Calakmul o Mahahual.",
       },
       {

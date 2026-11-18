@@ -153,7 +153,7 @@ cierre a la 1:00).
 - **Muay Thai en directo**: los estadios Rajadamnern o Lumpinee ofrecen combates
   regulares, para ver al menos una vez.
 
-## Mercado flotante y mercado del tren: ¿merece la pena?
+## Mercado flotante y mercado del tren: ¿ir o no?
 La clásica excursión de un día desde Bangkok al **Floating Market** (p. ej. Damnoen
 Saduak o Amphawa) y al **Train Market** (Maeklong, donde los puestos se
 recogen en el último segundo al paso del tren) es una de las
@@ -163,8 +163,8 @@ decirlo con franqueza: **es muy turístico**. Los mercados flotantes más
 cercanos a Bangkok están organizados casi exclusivamente para los visitantes, los
 precios están inflados respecto a cualquier mercado local, y la atmósfera
 «auténtica» de las fotos está en gran parte construida para la ocasión. Dicho
-esto, **si es la primera vez en Tailandia y hay tiempo, merece en cualquier caso la
-pena hacerlo**: son rincones curiosos y fotogénicos, el
+esto, **si es la primera vez en Tailandia y hay tiempo, conviene ir de todos
+modos**: son rincones curiosos y fotogénicos, el
 tren que pasa a un palmo de las mercancías divierte de verdad, y en media
 jornada se quita uno la curiosidad sin sacrificar demasiado tiempo al resto
 del itinerario. Quien quiera en cambio un mercado tailandés frecuentado por

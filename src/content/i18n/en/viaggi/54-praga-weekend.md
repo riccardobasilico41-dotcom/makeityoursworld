@@ -30,7 +30,7 @@ Three or four days are enough to do the essential Prague well: the Old Town with
 ## Itinerario giorno per giorno
 
 ### Day 1 — Staré Město and Old Town Square
-We started from the heart of the city: **Staroměstské náměstí**, Old Town Square, dominated by the town hall's **Astronomical Clock Tower**. The clock was built starting in 1410: it's the third-oldest astronomical clock in the world and the only one of that era still working. Every hour, from 9 to 23, the mechanical figures of the twelve Apostles appear while the skeleton of Death pulls the bell rope. It's worth being in the square on the hour.
+We started from the heart of the city: **Staroměstské náměstí**, Old Town Square, dominated by the town hall's **Astronomical Clock Tower**. The clock was built starting in 1410: it's the third-oldest astronomical clock in the world and the only one of that era still working. Every hour, from 9 to 23, the mechanical figures of the twelve Apostles appear while the skeleton of Death pulls the bell rope. To see them you need to be in the square on the hour.
 
 On the opposite side of the square rises the Gothic **Church of Our Lady before Týn**, with the two dark spires that have become the symbol of the Prague skyline, and not far away is the Baroque **Church of St. Nicholas** (not to be confused with the one of the same name in Malá Strana). Then we got lost in the streets of Staré Město, between the Powder Tower and the Art Nouveau Municipal House.
 

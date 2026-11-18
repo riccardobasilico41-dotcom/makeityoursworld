@@ -62,7 +62,7 @@ export const esperienzeAustria: Esperienza[] = [
     cosaPortare: "Ningún equipo especial; viene bien llevar efectivo para los cafés más tradicionales, aunque ya se aceptan tarjetas casi en todas partes.",
     perChiEAdatta: "Apta para todos; para quien tiene poco tiempo, incluso una sola parada en un café histórico basta para hacerse una idea de la costumbre.",
     giudizio: 'da-verificare',
-    alternative: ['Un café de barrio fuera del centro más turístico, más económico y igual de auténtico para quien quiere evitar los precios de los locales más famosos'],
+    alternative: ['Un café de barrio fuera del centro más turístico, más económico y frecuentado sobre todo por quien vive en la zona, para quien quiere evitar los precios de los locales más famosos'],
     tripSlugs: ['vienna-weekend'],
     imageAlt: 'Las bóvedas de crucería decoradas y las lámparas de globo del Café Central de Viena, con las columnas de estilo neogótico',
     immagine: '/images/austria/vienna-giro-caffe-storici.jpg',

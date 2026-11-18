@@ -35,7 +35,7 @@ Empezamos por el **Duomo**, y empezamos subiendo. **Las terrazas** por la mañan
 
 Luego el interior, enorme y oscuro, con las vidrieras, y **el descenso a la iglesia paleocristiana bajo el atrio**, donde está el **baptisterio en el que, según la tradición, Ambrosio bautizó a Agustín**.
 
-Atravesamos la **Galería Vittorio Emanuele II** (con el rito del talón sobre el toro del mosaico, turístico pero inofensivo) hasta la **Piazza della Scala**. Por fuera el **Teatro alla Scala** es deliberadamente anónimo, y eso forma parte de su identidad. El **Museo Teatral** permite entrar y, cuando no hay ensayos, **asomarse a la sala desde un palco**. Merece la pena aunque solo sea para ver lo pequeña que es comparada con como uno se la imagina.
+Atravesamos la **Galería Vittorio Emanuele II** (con el rito del talón sobre el toro del mosaico, turístico pero inofensivo) hasta la **Piazza della Scala**. Por fuera el **Teatro alla Scala** es deliberadamente anónimo, y eso forma parte de su identidad. El **Museo Teatral** permite entrar y, cuando no hay ensayos, **asomarse a la sala desde un palco**. Desde el palco se ve lo pequeña que es comparada con como uno se la imagina.
 
 La tarde la pasamos en **Brera**. La **Pinacoteca** es uno de los grandes museos italianos y tiene tres obras que por sí solas justifican la entrada: el **Cristo muerto** de Mantegna, con el escorzo de los pies en primer plano que en el Cuatrocientos era una provocación técnica; los **Desposorios de la Virgen** de Rafael; **El beso** de Hayez, que es la imagen del Risorgimento. Al lado está el **Jardín Botánico de Brera**, un jardín escondido entre los palacios que casi nadie encuentra.
 

@@ -55,7 +55,7 @@ export const meraviglie: Meraviglia[] = [
       },
       {
         nome: 'Jinshanling',
-        perche: 'parzialmente restaurata, ottima per chi vuole camminare a lungo tra torri di guardia più autentiche e panorami meno battuti.',
+        perche: 'parzialmente restaurata, ottima per chi vuole camminare a lungo tra torri di guardia in parte originali, non ricostruite, e panorami meno battuti.',
       },
       {
         nome: 'Simatai',
@@ -160,7 +160,7 @@ export const meraviglie: Meraviglia[] = [
     storiaBreve:
       'Costruita tra il 1922 e il 1931 su progetto dell\'ingegnere Heitor da Silva Costa con la collaborazione dello scultore francese Paul Landowski, fu concepita per celebrare il centenario dell\'indipendenza del Brasile. Si trova all\'interno del Parco Nazionale della Foresta di Tijuca, Patrimonio UNESCO dal 2012 (nell\'ambito del paesaggio culturale di Rio). New7Wonder dal 2007.',
     visitataPersonalmente: true,
-    periodoMigliore: 'stagione secca, maggio-settembre, per cieli più tersi — ma la nuvolosità sulla cima del Corcovado è imprevedibile in ogni stagione: vale la pena tenere un giorno di riserva se il programma lo permette.',
+    periodoMigliore: 'stagione secca, maggio-settembre, per cieli più tersi — ma la nuvolosità sulla cima del Corcovado è imprevedibile in ogni stagione: meglio tenere un giorno di riserva se il programma lo permette.',
     durataConsigliata: 'mezza giornata, incluso il trasporto di andata e ritorno e il tempo sulla piattaforma panoramica',
     comeArrivareInternazionale: 'Aeroporto di Rio de Janeiro-Galeão (GIG), in alternativa Santos Dumont (SDU) per i voli nazionali.',
     comeArrivareLocale:

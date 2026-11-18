@@ -112,7 +112,7 @@ L'area dell'Expo 98, moderna e verde sul Tago, con l'Oceanário e la stazione di
 ## Consigli pratici
 
 - **Le salite.** Con le valigie conviene arrivare in taxi o con Uber e Bolt fino alla porta, soprattutto in Alfama, Graça e Bairro Alto.
-- **Ascensore.** Molti palazzi del centro sono antichi e senza ascensore: vale la pena controllare prima di prenotare un terzo o quarto piano.
+- **Ascensore.** Molti palazzi del centro sono antichi e senza ascensore: meglio controllare prima di prenotare un terzo o quarto piano.
 - **Rumore.** Nel Bairro Alto, a Cais do Sodré e nelle vie del fado dell'Alfama si fa tardi: meglio una camera sul retro.
 - **Tassa di soggiorno.** Lisbona applica una tassa comunale a persona a notte, pagata in hotel, per un massimo di sette notti; l'importo va verificato al momento della prenotazione.
 - **Dall'aeroporto.** La metro, linea rossa, arriva in centro in 20-25 minuti con un cambio. In taxi si spendono circa 12-20 €, con Uber e Bolt 10-15 €.
@@ -356,7 +356,7 @@ La zona de la Expo 98, moderna y verde junto al Tajo, con el Oceanário y la est
 ## Consejos prácticos
 
 - **Las cuestas.** Con maletas conviene llegar en taxi, Uber o Bolt hasta la puerta, sobre todo en Alfama, Graça y el Bairro Alto.
-- **Ascensor.** Muchos edificios del centro son antiguos y sin ascensor: vale la pena comprobarlo antes de reservar un tercer o cuarto piso.
+- **Ascensor.** Muchos edificios del centro son antiguos y sin ascensor: conviene comprobarlo antes de reservar un tercer o cuarto piso.
 - **Ruido.** En el Bairro Alto, Cais do Sodré y las calles del fado de Alfama se trasnocha: mejor una habitación interior.
 - **Tasa turística.** Lisboa cobra una tasa municipal por persona y noche, que se paga en el hotel, hasta un máximo de siete noches; el importe se comprueba al reservar.
 - **Desde el aeropuerto.** El metro, línea roja, llega al centro en 20-25 minutos con un transbordo. En taxi se gastan unos 12-20 €, con Uber y Bolt 10-15 €.

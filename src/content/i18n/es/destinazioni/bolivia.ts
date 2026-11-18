@@ -1179,7 +1179,7 @@ export const destinazioniBolivia: Destinazione[] = [
               'El más económico de los dos',
             ],
             contro: [
-              'No es la selva amazónica «del imaginario»: es sabana inundada',
+              'Es sabana inundada, no la selva amazónica «del imaginario»',
               'Mosquitos en cantidad notable',
               'Algunas prácticas de los operadores más baratos con caimanes y anacondas son discutibles en el plano ético',
             ],

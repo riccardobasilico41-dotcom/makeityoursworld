@@ -383,7 +383,7 @@ export const destinazioniGiappone: Destinazione[] = [
         url: "https://www.hachimangu.or.jp/",
         lat: 35.32472,
         lng: 139.55583,
-        consiglio: "Vale la pena scendere dal santuario lungo il viale verso il mare, a fine giornata.",
+        consiglio: "Conviene scendere dal santuario lungo il viale verso il mare, a fine giornata.",
       },
       {
         nome: "Hase-dera",
@@ -838,7 +838,7 @@ export const destinazioniGiappone: Destinazione[] = [
         costo: "circa 1.000 yen con tè matcha (circa 6 €)",
         lat: 35.0175,
         lng: 135.67,
-        consiglio: "Dopo la folla del bambù è un posto molto più quieto: vale la pena fermarsi per il tè.",
+        consiglio: "Dopo la folla del bambù è un posto molto più quieto, dove fermarsi per il tè.",
       },
       {
         nome: "Monkey Park Iwatayama",
@@ -1575,7 +1575,7 @@ export const destinazioniGiappone: Destinazione[] = [
         risposta: "La linea Kintetsu da Namba è privata e non rientra nel JR Pass. Con il pass si va a Nara con la linea JR da Osaka o da Tennoji, che arriva alla stazione JR Nara, un po' più lontana dal parco.",
       },
       {
-        domanda: "Vale la pena Universal Studios Japan?",
+        domanda: "Conviene andare a Universal Studios Japan?",
         risposta: "Per chi ama Nintendo o Harry Potter sì, ma richiede una giornata intera e i biglietti cambiano prezzo secondo la data. Nei weekend e nelle vacanze giapponesi senza Express Pass si passa gran parte del tempo in coda.",
       },
       {
@@ -1922,7 +1922,7 @@ export const destinazioniGiappone: Destinazione[] = [
       { domanda: "Come funziona il servizio bagagli?", risposta: "Da fine marzo a fine novembre si lasciano le valigie all'ufficio turistico di partenza tra le 8.30 e le 11.30 e si ritirano all'arrivo dalle 13 alle 17, a 1.000 yen a collo." },
       { domanda: "Il sentiero è difficile?", risposta: "No: è un cammino facile su lastricato e sterrato, con qualche gradino di pietra. Bastano scarpe comode e acqua; d'inverno i gradini possono gelare." },
       { domanda: "Ci sono orsi sul Nakasendō?", risposta: "Nella zona vivono orsi neri. Lungo il sentiero ci sono campanelli da suonare passando, per farsi sentire." },
-      { domanda: "Vale la pena dormire a Magome o a Tsumago?", risposta: "Sì: la sera e la mattina presto, senza i gruppi, i paesi sono silenziosi. I posti nei minshuku sono pochi e vanno prenotati con anticipo." },
+      { domanda: "Conviene dormire a Magome o a Tsumago?", risposta: "Sì: la sera e la mattina presto, senza i gruppi, i paesi sono silenziosi. I posti nei minshuku sono pochi e vanno prenotati con anticipo." },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['classic-japan'],

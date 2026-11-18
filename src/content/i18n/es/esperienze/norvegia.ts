@@ -34,7 +34,7 @@ export const esperienzeNorvegia: Esperienza[] = [
       'El trekking más icónico de las Lofoten: 1.978 escalones de piedra construidos por sherpas nepalíes, para 448 metros de desnivel en apenas 1,1 km, hasta un mirador que domina Reine y los fiordos circundantes.',
     percheFarla: 'Es el panorama emblema de todas las Lofoten, el que se ve en cada postal y en cada guía de viaje.',
     durata: 'tiempo medio 2-4 horas; mi tiempo total fue de 1 h 50 (45 min de subida, 30 min de parada, 30 min de bajada)',
-    periodo: 'verano, con el cielo despejado: es la única condición en la que el trekking vale la pena',
+    periodo: 'verano, con el cielo despejado: es la única condición en la que desde la cima se ve el panorama',
     costo: 'gratuito (aparcamiento en Reine 200 NOK/3 h)',
     comePrenotare: 'no hace falta reservar, acceso libre al sendero',
     cosaPortare: 'botas de trekking con buen agarre, agua, capas para el viento en altura',

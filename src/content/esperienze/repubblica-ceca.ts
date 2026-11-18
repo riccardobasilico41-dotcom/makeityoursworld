@@ -69,7 +69,7 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     costo: 'un mezzo litro di birra alla spina in un pub di quartiere costa indicativamente 55-80 CZK; un tour guidato con più tappe e assaggi costa sui 30-50 € a persona',
     comePrenotare: 'I tour tematici si prenotano sulle piattaforme di tour online; da soli non serve prenotare, basta scegliere pub fuori dall\'asse più turistico.',
     cosaPortare: 'Nessuna attrezzatura particolare.',
-    perChiEAdatta: 'A chi vuole un\'esperienza autentica senza pagare prezzi da zona turistica; meno a chi non beve alcolici, che però negli hospoda trova comunque il cibo.',
+    perChiEAdatta: 'A chi vuole bere nei pub di quartiere, tra i residenti, senza pagare prezzi da zona turistica; meno a chi non beve alcolici, che però negli hospoda trova comunque il cibo.',
     giudizio: 'da-verificare',
     alternative: ['Un birrificio artigianale con visita e degustazione, per chi cerca qualcosa di più strutturato di una semplice serata al pub'],
     tripSlugs: ['praga-weekend'],

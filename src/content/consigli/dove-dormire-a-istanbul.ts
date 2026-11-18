@@ -91,7 +91,7 @@ Il quartiere elegante a nord di Taksim, con le boutique, i caffè e i palazzi de
 
 - **Istanbulkart.** La carta ricaricabile vale per metro, tram, funicolari, Marmaray e traghetti, e si può usare per più persone. Si compra ai distributori delle stazioni.
 - **Salite.** Galata, Cihangir e Beyoğlu sono in collina, con vie ripide e lastricate: con le valigie conviene il taxi fino alla porta.
-- **Terrazza.** Molti hotel di Sultanahmet e Galata hanno la colazione sul tetto: vale la pena sceglierne uno con la terrazza.
+- **Terrazza.** Molti hotel di Sultanahmet e Galata hanno la colazione sul tetto: conviene sceglierne uno con la terrazza.
 - **Taxi.** Solo con tassametro acceso o con le app; i taxi abusivi davanti agli alberghi vanno evitati.
 - **Quando prenotare.** Aprile, maggio, settembre e ottobre sono i mesi migliori e più richiesti; d'inverno i prezzi scendono molto.
 
@@ -193,7 +193,7 @@ The elegant district north of Taksim, with boutiques, cafés and early-20th-cent
 
 - **Istanbulkart.** The top-up card works on metro, trams, funiculars, Marmaray and ferries, and can be used for several people. Buy it from station machines.
 - **Hills.** Galata, Cihangir and Beyoğlu are hilly, with steep cobbled streets: with suitcases, take a taxi to the door.
-- **Terraces.** Many hotels in Sultanahmet and Galata serve breakfast on the roof: it's worth picking one with a terrace.
+- **Terraces.** Many hotels in Sultanahmet and Galata serve breakfast on the roof: pick one with a terrace if you can.
 - **Taxis.** Only with the meter on or via apps; avoid unlicensed drivers outside hotels.
 - **When to book.** April, May, September and October are the best and busiest months; in winter prices drop a lot.
 
@@ -295,7 +295,7 @@ El barrio elegante al norte de Taksim, con boutiques, cafés y edificios de prin
 
 - **Istanbulkart.** La tarjeta recargable vale para metro, tranvía, funiculares, Marmaray y ferris, y puede usarse para varias personas. Se compra en las máquinas de las estaciones.
 - **Cuestas.** Gálata, Cihangir y Beyoğlu están en colina, con calles empinadas y empedradas: con maletas, mejor taxi hasta la puerta.
-- **Terraza.** Muchos hoteles de Sultanahmet y Gálata sirven el desayuno en la azotea: vale la pena elegir uno con terraza.
+- **Terraza.** Muchos hoteles de Sultanahmet y Gálata sirven el desayuno en la azotea: conviene elegir uno con terraza.
 - **Taxis.** Solo con taxímetro encendido o por aplicación; hay que evitar los taxis piratas frente a los hoteles.
 - **Cuándo reservar.** Abril, mayo, septiembre y octubre son los mejores meses y los más solicitados; en invierno los precios bajan mucho.
 

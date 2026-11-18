@@ -108,7 +108,7 @@ For meals the estimated budget was €10-15 a day for breakfasts (often included
 - **Don't go at New Year if you can avoid it.** It is the most expensive time of year to fly and sleep in this area. I did it because I wanted that particular New Year, but if the goal is just to see the northern lights in Swedish Lapland, it is worth knowing beforehand.
 - **February-March is the right time to save a lot**: the chances of aurora stay high and flights and accommodation cost much less than in late December.
 - **In extreme cold, trains are sometimes canceled.** It doesn't happen often, but it can. When it does, the local taxis (the only alternative left) tend to raise prices a bit, because at that moment there aren't many other ways to get around. Better to keep an extra margin in the transport budget.
-- Dressing in heavy layers goes without saying, but it is worth repeating: temperatures stay well below zero all week.
+- Dressing in heavy layers seems obvious, but we'll say it again: temperatures stay well below zero all week.
 
 ## Chiusura personale
 I wanted a New Year's Eve unlike any other, and I got it: at the pub in Kiruna, with the cold making itself felt right away, and then days down to -25/-26 °C. It's a dry cold: if you wrap up well it doesn't get into your bones, but your nose is another story.

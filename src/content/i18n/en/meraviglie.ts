@@ -39,7 +39,7 @@ export const meraviglie: Meraviglia[] = [
       },
       {
         nome: "Jinshanling",
-        perche: "partly restored, great if you want to walk a long way along more authentic watchtowers and less-trodden views.",
+        perche: "partly restored, great if you want to walk a long way past watchtowers that are partly original, not rebuilt, and less-trodden views.",
       },
       {
         nome: "Simatai",
@@ -127,7 +127,7 @@ export const meraviglie: Meraviglia[] = [
     descrizione: "The 38-meter Art Deco statue that dominates Rio de Janeiro from the top of Corcovado, inside Tijuca Forest. Here how you get up matters as much as the visit: the Corcovado train, authorized vans or a helicopter.",
     storiaBreve: "Built between 1922 and 1931 to a design by the engineer Heitor da Silva Costa with the collaboration of the French sculptor Paul Landowski, it was conceived to celebrate the centenary of Brazil's independence. It stands inside Tijuca Forest National Park, a UNESCO World Heritage Site since 2012 (as part of Rio's cultural landscape). A New7Wonder since 2007.",
     visitataPersonalmente: true,
-    periodoMigliore: "dry season, May-September, for clearer skies, but cloud cover on the summit of Corcovado is unpredictable in every season: it's worth keeping a spare day if your schedule allows.",
+    periodoMigliore: "dry season, May-September, for clearer skies, but cloud cover on the summit of Corcovado is unpredictable in every season: keep a spare day if your schedule allows.",
     durataConsigliata: "half a day, including the round-trip transport and the time on the viewing platform",
     comeArrivareInternazionale: "Rio de Janeiro-Galeão Airport (GIG), or alternatively Santos Dumont (SDU) for domestic flights.",
     comeArrivareLocale: "The best-known official way up is the Corcovado train, which leaves from Cosme Velho station; there are also authorized vans departing from several points in the city, and helicopter tours as a premium option. Check on the official channels which access options are running, and where they leave from, before you go.",

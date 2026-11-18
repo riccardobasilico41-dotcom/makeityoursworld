@@ -52,7 +52,7 @@ export const esperienzeSriLanka: Esperienza[] = [
     nome: 'Ceremonia nocturna en el Templo del Diente',
     localita: 'Kandy',
     cosE: 'La ceremonia nocturna en el Temple of the Tooth, que custodia una reliquia sagrada de Buda: tambores, la luz que baja, una atmósfera espiritual intensa.',
-    percheFarla: 'Es una de las experiencias más auténticas y sentidas de todo Sri Lanka, mucho más que una visita turística.',
+    percheFarla: 'Es una ceremonia religiosa a la que acuden los fieles del lugar, no un espectáculo montado para turistas.',
     durata: 'aproximadamente 1 hora, más la espera en la cola',
     periodo: 'última hora de la tarde o noche',
     costo: '2.000 LKR',

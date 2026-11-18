@@ -34,7 +34,7 @@ export const esperienzeNorvegia: Esperienza[] = [
       "The most iconic hike in the Lofoten: 1,978 stone steps built by Nepalese sherpas, for 448 meters of elevation gain in just 1.1 km, up to a viewpoint overlooking Reine and the surrounding fjords.",
     percheFarla: "It's the signature view of the whole Lofoten, the one you see on every postcard and every travel guide.",
     durata: "average time 2-4 hours; my total time was 1h50 (45 min up, 30 min break, 30 min down)",
-    periodo: "summer, with a clear sky: it's the only condition in which the hike is worth it",
+    periodo: "summer, with a clear sky: it's the only condition in which you get the view from the top",
     costo: 'free (parking in Reine 200 NOK/3h)',
     comePrenotare: 'no booking needed, free access to the trail',
     cosaPortare: 'hiking shoes with good grip, water, layers for the wind at altitude',

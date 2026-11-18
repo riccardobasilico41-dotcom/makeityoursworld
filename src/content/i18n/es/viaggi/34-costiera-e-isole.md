@@ -85,7 +85,7 @@ Por la mañana cogimos el ferri a **Capri**. Se desembarca en **Marina Grande** 
 
 La tarde la dedicamos a la parte alta: la **Piazzetta**, minúscula, que vive de ser observada, y luego los **Jardines de Augusto** con la vista a los **Faraglioni** y a **Via Krupp**, la carretera de curvas excavada en la roca que baja a Marina Piccola. **Via Krupp ha estado cerrada por tramos por riesgo de desprendimientos: conviene comprobar antes si está abierta.**
 
-Hacia la noche, cuando las excursiones de un día se han marchado, **Capri cambia**. Por la noche la isla se vacía en dos tercios y de pronto se queda en silencio, y por eso vale la pena dormir allí en vez de hacerla en el día.
+Hacia la noche, cuando las excursiones de un día se han marchado, **Capri cambia**. Por la noche la isla se vacía en dos tercios y de pronto se queda en silencio, y por eso conviene dormir allí en vez de hacerla en el día.
 
 **En la práctica:** ferry o hidroala a Capri desde Amalfi, Positano, Sorrento o Nápoles · funicular de Marina Grande a la Piazzetta, billetes en la estación · Jardines de Augusto con entrada · la Via Krupp a menudo está cerrada: preguntar en el pueblo si está abierta · dormir en la isla es caro, reservar pronto.
 
@@ -184,7 +184,7 @@ Por la tarde regresamos a Nápoles.
 - **No esperar dos horas por la Gruta Azul**, y comprobar antes el estado del mar.
 - **No cocer la colatura di alici.**
 - **Comprobar los accesos**: Via Krupp, el Valle de las Ferriere, Vivara y la Gruta de la Esmeralda tienen todos normas que cambian.
-- **Contar con los escalones.** No son unas vacaciones de mar en llano: es una costa vertical.
+- **Contar con los escalones.** La costa es vertical, y al mar se baja a pie.
 
 ## Chiusura personale
 De los escalones de Nocelle a Positano, más de 1.700, las piernas se siguen acordando al día siguiente. Para mí la Costa se hace así: nada de coche, todo en ferri, y subir a los senderos por encima de la carretera, donde no hay nadie. Las islas no son intercambiables, y hacer dos bien es mejor que hacer tres corriendo.

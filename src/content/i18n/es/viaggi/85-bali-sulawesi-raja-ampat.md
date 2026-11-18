@@ -78,7 +78,7 @@ Para bucear conviene comparar operadores, mirando la seguridad, los grupos peque
 ### Día 7 — Vuelo a Sorong, ferri a Waisai y Kri
 Vuelo de la mañana de Manado a **Sorong**, luego el ferri de las 14 a **Waisai**, unas 2 horas. El vuelo dura poco menos de hora y media, pero volando al este se pierde una hora por el huso horario. Del aeropuerto al puerto de Sorong hay poco en taxi: se llega con margen, se compran los billetes y se saca dinero por última vez, porque en las islas no hay cajeros. En Waisai se compra el permiso del parque, y la barca del homestay lleva a **Kri**.
 
-En Kri dormimos en **Paparisa Homestay**, la mezcla justa entre comodidad y local stay: los precios están por encima de la media de los otros homestays, pero delante de la playa nadan a menudo delfines y dugongos. Dormir en homestays en lugar de resorts es la elección que vale la pena, porque ese modelo sostiene la protección del parque. Se llega a última hora de la tarde, con tiempo para un primer baño desde el embarcadero antes de que oscurezca.
+En Kri dormimos en **Paparisa Homestay**, la mezcla justa entre comodidad y local stay: los precios están por encima de la media de los otros homestays, pero delante de la playa nadan a menudo delfines y dugongos. Conviene dormir en homestays en lugar de resorts, porque ese modelo sostiene la protección del parque. Se llega a última hora de la tarde, con tiempo para un primer baño desde el embarcadero antes de que oscurezca.
 
 **En la práctica:** Manado-Sorong directo unas 1,5 horas con Lion Air o TransNusa, horarios a comprobar · ferri Sorong-Waisai a las 14, billete en el puerto en economy o VIP · permiso del parque en Waisai o Sorong, guardar el recibo · barca Waisai-Kri a pactar con el homestay.
 

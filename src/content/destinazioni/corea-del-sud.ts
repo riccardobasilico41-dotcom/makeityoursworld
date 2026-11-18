@@ -1207,7 +1207,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         risposta: "Con il bus 246 dalla stazione, circa 40-50 minuti, oppure in taxi. Le corse sono poche: conviene controllare l'orario del ritorno prima di partire.",
       },
       {
-        domanda: "Vale la pena dormire a Hahoe?",
+        domanda: "Conviene dormire a Hahoe?",
         risposta: "Sì. Alle cinque del pomeriggio i pullman ripartono e il villaggio torna a essere un paese, con il fiume e qualche anziano seduto fuori.",
       },
       {
@@ -1973,7 +1973,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         risposta: "Un giorno con una notte basta per il villaggio di hanok e il cibo; con due si aggiungono Jaman, Deokjin e il mercato notturno con calma.",
       },
       {
-        domanda: "Vale la pena dormire in una hanok?",
+        domanda: "Conviene dormire in una hanok?",
         risposta: "Sì: è il motivo per fermarsi. Si dorme su materassi a terra sul pavimento riscaldato; prima di prenotare conviene controllare se il bagno è in camera.",
       },
       {

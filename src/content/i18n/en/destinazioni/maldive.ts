@@ -234,7 +234,7 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     faq: [
       {
-        "domanda": "Is Malé worth visiting?",
+        "domanda": "Should you visit Malé?",
         "risposta": "For half a day, yes: the fish market, Friday Mosque, National Museum and seafront can be seen on foot in a few hours. For sleeping, Hulhumalé is better."
       },
       {
@@ -549,7 +549,7 @@ export const destinazioniMaldive: Destinazione[] = [
         "nome": "Ukulhas with Reef Rangers",
         "lng": 72.86444,
         "lat": 4.21389,
-        "testo": "A local island in North Ari, beautiful and very authentic, more a lived-in island than a tropical paradise. We spent a week there: it was unplanned, because flights were cancelled when war broke out in the Middle East. We dived and got our certifications with Reef Rangers Ukulhas, who were excellent.",
+        "testo": "A local island in North Ari, beautiful, more a lived-in island than a tropical paradise. We spent a week there: it was unplanned, because flights were cancelled when war broke out in the Middle East. We dived and got our certifications with Reef Rangers Ukulhas, who were excellent.",
         "come": "Speedboat from Malé, about 1-1.5 hours.",
         "tempo": "3-4 days, or more for a certification",
         "consiglio": "For diving and courses: Reef Rangers Ukulhas. Always keep a spare day before the flight."
@@ -648,7 +648,7 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "nome": "Ukulhas",
         "perChi": "those after a lived-in island",
-        "testo": "Authentic, with diving and courses. Less tropical paradise than Dhigurah.",
+        "testo": "A lived-in local island, with diving and courses. Less tropical paradise than Dhigurah.",
         "fascia": "50-85 €"
       },
       {
@@ -1035,7 +1035,7 @@ export const destinazioniMaldive: Destinazione[] = [
         "tempo": "half a day or 2-3 days",
         "lat": 5.02306,
         "lng": 72.83972,
-        "consiglio": "Lacquerware is the atoll's most authentic souvenir."
+        "consiglio": "Lacquerware, turned and painted by hand in the island's workshops, is the souvenir to buy here."
       },
       {
         "nome": "Eydhafushi",

@@ -78,7 +78,7 @@ For diving, compare operators, looking at safety, small groups and the state of 
 ### Day 7 — Flight to Sorong, ferry to Waisai and Kri
 Morning flight from Manado to **Sorong**, then the 2 pm ferry to **Waisai**, about 2 hours. The flight takes just under an hour and a half, but flying east you lose an hour to the time zone. From the airport to Sorong port is a short taxi ride: get there with time to spare, buy the tickets and make a last withdrawal, because there are no ATMs on the islands. In Waisai you buy the park permit, and the homestay boat takes you to **Kri**.
 
-On Kri we stayed at **Paparisa Homestay**, the right mix of comfort and local stay: prices are above the average of other homestays, but dolphins and dugongs often swim right off the beach. Staying in homestays instead of resorts is the choice worth making, because that model keeps the park's protection going. You arrive in the late afternoon, with time for a first swim off the jetty before dark.
+On Kri we stayed at **Paparisa Homestay**, the right mix of comfort and local stay: prices are above the average of other homestays, but dolphins and dugongs often swim right off the beach. It makes sense to stay in homestays instead of resorts, because that model keeps the park's protection going. You arrive in the late afternoon, with time for a first swim off the jetty before dark.
 
 **In practice:** Manado to Sorong direct about 1.5 hours with Lion Air or TransNusa, schedules to check · Sorong-Waisai ferry at 2 pm, ticket at the port in economy or VIP · park permit in Waisai or Sorong, keep the receipt · Waisai-Kri boat to be arranged with the homestay.
 

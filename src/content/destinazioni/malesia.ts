@@ -333,7 +333,7 @@ export const destinazioniMalesia: Destinazione[] = [
         risposta: "Due giorni pieni per le Batu Caves, le Petronas, i musei e i quartieri. Con il terzo si aggiungono la KL Tower e il parco forestale, oppure una gita a Malacca o Putrajaya."
       },
       {
-        domanda: "Vale la pena salire sulle Petronas Twin Towers?",
+        domanda: "Conviene salire sulle Petronas Twin Towers?",
         risposta: "Lo skybridge costa circa 80 ringgit e i posti al tramonto finiscono presto. Le torri si vedono meglio dal basso all'ora blu, o dalla KL Tower, che sta più in alto e le ha di fronte."
       },
       {

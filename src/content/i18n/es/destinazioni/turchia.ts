@@ -886,7 +886,7 @@ export const destinazioniTurchia: Destinazione[] = [
         "risposta": "Sí, con un tour o en autobús, pero son unas 3 horas por trayecto y se pierde el atardecer. Mejor una noche en el pueblo, de camino entre Capadocia y la costa."
       },
       {
-        "domanda": "¿Vale la pena el Museum Pass?",
+        "domanda": "¿Conviene el Museum Pass?",
         "risposta": "El Museum Pass The Mediterranean, 90 € por 7 días, cubre los sitios estatales de las provincias de Antalya, Mersin, Adana y Denizli, así que también Pamukkale y Laodicea. Compensa a quien sigue hacia la costa licia y Antalya."
       }
     ],

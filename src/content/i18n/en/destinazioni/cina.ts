@@ -1173,7 +1173,7 @@ export const destinazioniCina: Destinazione[] = [
       'The waterfall that crosses the village, with the walkway that passes behind the veil of water',
       'The Tujia stilt houses clinging to the slope above the You River',
       'The main paved street, with steps that descend to the river',
-      'The village lit up after sunset, the moment worth sleeping there for',
+      'The village lit up after sunset, the reason to sleep there',
     ],
     cosaFare: [
       'Walk behind the waterfall along the walkway cut into the rock',
@@ -1371,7 +1371,7 @@ export const destinazioniCina: Destinazione[] = [
         risposta: "The village ticket costs 108 yuan (about €13) and is valid for 3 days. You pay it even if you sleep inside the area.",
       },
       {
-        domanda: "Is it worth staying the night in Furong Zhen?",
+        domanda: "Should you stay the night in Furong Zhen?",
         risposta: "Yes. Between ten and four the village is full of day-trip groups; in the evening, with the waterfall lit, and at dawn it is a different place.",
       },
       {
@@ -1629,7 +1629,7 @@ export const destinazioniCina: Destinazione[] = [
       'Board the cruise on the Three Gorges of the Yangtze, which leaves from here',
     ],
     doveDormire:
-      "The Yuzhong peninsula, the historic-financial center, is the most convenient base: Hongya Dong, Liziba and the piers are reachable on foot or with a few subway stops. It's worth spending a bit more for a room with a river view: here the view is the city.",
+      "The Yuzhong peninsula, the historic-financial center, is the most convenient base: Hongya Dong, Liziba and the piers are reachable on foot or with a few subway stops. It pays to spend a bit more for a room with a river view: here the view is the city.",
     doveMangiare:
       "Chongqing hot pot is the original and makes no concessions: red broth of beef fat and chili, without the sweetened version. The historic places still have tables with the shared compartment pot. Outside hot pot, the specialty is xiaomian, the spicy morning noodles, which here are eaten for breakfast sitting on plastic stools in the street. Also worth trying is laziji, the fried chicken buried under a mountain of dried chilies from which it has to be fished out.",
     comeArrivare:
@@ -1668,7 +1668,7 @@ export const destinazioniCina: Destinazione[] = [
         costo: "free from the platform under the station; a metro ticket to go up to the tracks",
         lat: 29.55083,
         lng: 106.53528,
-        consiglio: "For residents it is normal. It is worth seeing both from the street and from the platform inside the building.",
+        consiglio: "For residents it is normal. It is best seen both from the street and from the platform inside the building.",
       },
       {
         nome: "Ciqikou",

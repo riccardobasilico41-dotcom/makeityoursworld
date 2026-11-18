@@ -17,7 +17,7 @@ export const esperienzeBolivia: Esperienza[] = [
     costo:
       "unos 80-170 $ por persona según el operador. Los operadores económicos rondan los 80-100 $, los premium entre 120 y 170 $, con diferencias reales en bicicletas, grupos y protocolos de seguridad.",
     comePrenotare:
-      "A través de las agencias de La Paz, incluso con un día de antelación. Vale la pena leer reseñas recientes y preguntar de forma explícita qué bicicletas se usarán, cuántas personas hay por guía y si se incluyen las protecciones completas.",
+      "A través de las agencias de La Paz, incluso con un día de antelación. Antes de elegir, lee reseñas recientes y pregunta de forma explícita qué bicicletas se usarán, cuántas personas hay por guía y si se incluyen las protecciones completas.",
     cosaPortare:
       "Ropa por capas: se sale a 4.650 metros cerca de cero grados y se llega a 1.200 metros con clima tropical. Guantes, gafas, protección solar y una muda completa para el final.",
     perChiEAdatta:
@@ -81,7 +81,7 @@ export const esperienzeBolivia: Esperienza[] = [
       "mayo-octubre para el salar seco y transitable por completo; enero-marzo para el efecto espejo, aunque con varias paradas inaccesibles",
     costo: 'unos 150-250 $ por persona según el operador, más la entrada a la reserva Eduardo Avaroa',
     comePrenotare:
-      "A través de las agencias de Uyuni o de La Paz. Vale la pena elegir en función del mantenimiento de los vehículos y no del precio: se viaja por pistas aisladas a más de 4.500 metros, donde una avería seria es un problema difícil de resolver.",
+      "A través de las agencias de Uyuni o de La Paz. La agencia se elige por el mantenimiento de los vehículos, no por el precio: se viaja por pistas aisladas a más de 4.500 metros, donde una avería seria es un problema difícil de resolver.",
     cosaPortare:
       "Saco de dormir grueso (no siempre incluido, y en los alojamientos del Sur Lípez se duerme bajo cero), ropa por capas, protección solar muy alta (a esa altitud el sol reflejado por la sal quema), bañador para las termas y efectivo para las entradas.",
     perChiEAdatta: 'Apto para todos físicamente, pero la altitud se hace notar: el segundo día se superan los 4.800 metros.',

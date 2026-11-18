@@ -530,7 +530,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "risposta": "In the morning: from early afternoon the Xocomil wind rises and makes crossings choppy. Do your boat trips before midday."
       },
       {
-        "domanda": "Is the Indian Nose sunrise worth it?",
+        "domanda": "Should you climb the Indian Nose for sunrise?",
         "risposta": "Yes, but only with a clear sky: in the rainy season you climb in the dark to find clouds. You leave around 4 am with a local guide."
       },
       {
@@ -783,7 +783,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         "risposta": "Two or three days: a full one for Tikal, the evening before in Flores and, if you can, an extra day for Yaxhá or the Rey Canek lookout."
       },
       {
-        "domanda": "Is the sunrise entry worth it?",
+        "domanda": "Should you take the sunrise entry?",
         "risposta": "Yes, more for the sounds than the view: in the dry season sunrise is often hazy, but the chorus of howler monkeys and birds can be heard before the 6 am opening. Sunrise entry (4-6) costs Q100 more and requires a guide."
       },
       {
@@ -899,7 +899,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       },
       {
         "nome": "Lanquín Caves",
-        "testo": "A system of limestone caves just outside the village, from which the Lanquín river flows. At sunset thousands of bats pour out of the entrance at once, the show that makes the visit worthwhile.",
+        "testo": "A system of limestone caves just outside the village, from which the Lanquín river flows. At sunset thousands of bats pour out of the entrance at once: that's the reason to come.",
         "come": "On foot or by tuk tuk from Lanquín, about a kilometer; the first section of the cave is lit and slippery.",
         "quando": "Late afternoon, to stay at the entrance at sunset.",
         "tempo": "1-1.5 hours",

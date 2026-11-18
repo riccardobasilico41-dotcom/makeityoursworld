@@ -21,7 +21,7 @@ export const giappone: Paese = {
     salute:
       "No vaccinations required and very high health standards. Health insurance is still recommended, because without coverage care is very expensive.",
     sicurezza:
-      "Among the safest countries in the world: petty crime is almost nonexistent. The real risks are natural (earthquakes and typhoons), and it's worth installing an alert app (like Safety Tips, in English) and knowing where the emergency exits of your accommodation are.",
+      "Among the safest countries in the world: petty crime is almost nonexistent. The real risks are natural (earthquakes and typhoons), and it helps to install an alert app (like Safety Tips, in English) and knowing where the emergency exits of your accommodation are.",
     trasportiInterni:
       "The JR Pass only pays off if you make several long Shinkansen trips: it covers the Hikari and Sakura but not the faster Nozomi and Mizuho. It has to be activated with your passport, so allow for queues at the counter. On the days you change city, the lifesaver is takkyubin, the service that ships luggage from one hotel to another, bookable at the hotel or at 7-Eleven the evening before.",
     costoVita: 'Roughly €600-750 for twelve days on the ground, excluding flights and the JR Pass, with big variations depending on the restaurants you choose.',

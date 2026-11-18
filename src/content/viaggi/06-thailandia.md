@@ -151,7 +151,7 @@ chiusura all'1:00).
 - **Muay Thai dal vivo**: gli stadi Rajadamnern o Lumpinee offrono incontri
   regolari, da vedere almeno una volta.
 
-## Mercato galleggiante e mercato del treno: vale la pena?
+## Mercato galleggiante e mercato del treno: andarci o no?
 Il classico day trip da Bangkok verso il **Floating Market** (es. Damnoen
 Saduak o Amphawa) e il **Train Market** (Maeklong, dove le bancarelle si
 ritirano all'ultimo secondo al passaggio del treno) è uno dei
@@ -161,8 +161,8 @@ detto con franchezza: **è molto turistico**. I mercati galleggianti più
 vicini a Bangkok sono organizzati quasi esclusivamente per i visitatori, i
 prezzi sono gonfiati rispetto a un mercato locale qualunque, e l'atmosfera
 «autentica» delle foto è in gran parte costruita per l'occasione. Detto
-questo, **se è la prima volta in Thailandia e c'è tempo, vale comunque la
-pena farlo**: sono scorci curiosi e fotogenici, il
+questo, **se è la prima volta in Thailandia e c'è tempo, conviene comunque
+andarci**: sono scorci curiosi e fotogenici, il
 treno che passa a un palmo dalle merci diverte sul serio, e in mezza
 giornata si toglie la curiosità senza sacrificare troppo tempo al resto
 dell'itinerario. Chi invece vuole un mercato thailandese frequentato dalla

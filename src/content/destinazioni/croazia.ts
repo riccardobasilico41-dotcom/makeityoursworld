@@ -258,7 +258,7 @@ export const destinazioniCroazia: Destinazione[] = [
         "risposta": "Un giorno per Città Alta, Dolac e i musei principali; due per aggiungere Mirogoj, la Città Bassa e una sera tranquilla in via Tkalčićeva."
       },
       {
-        "domanda": "Vale la pena fermarsi a Zagabria prima della costa?",
+        "domanda": "Conviene fermarsi a Zagabria prima della costa?",
         "risposta": "Sì, almeno una notte: è una città mitteleuropea molto diversa dalla Dalmazia e la tappa naturale prima di Plitvice."
       },
       {

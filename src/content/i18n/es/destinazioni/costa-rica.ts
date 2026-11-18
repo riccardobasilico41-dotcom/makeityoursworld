@@ -430,7 +430,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       },
       {
         nome: "Comunidad bribri y taller de chocolate",
-        testo: "Una visita a una comunidad indígena bribri, donde el jefe del pueblo explica las plantas tradicionales y muestra las pequeñas ranas venenosas, y luego un taller de chocolate tradicional con degustación. Es una experiencia cultural, pero no hay que imaginarla como algo auténtico en plena selva.",
+        testo: "Una visita a una comunidad indígena bribri, donde el jefe del pueblo explica las plantas tradicionales y muestra las pequeñas ranas venenosas, y luego un taller de chocolate tradicional con degustación. Es una experiencia cultural pensada para los visitantes: no hay que esperar un pueblo aislado en plena selva.",
         come: "Dentro del tour completo de Cahuita, por la tarde, o con un tour dedicado.",
         quando: "Por la tarde.",
         tempo: "2-3 horas",

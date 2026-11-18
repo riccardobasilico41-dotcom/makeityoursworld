@@ -45,7 +45,7 @@ Un'avvertenza vale sempre: «stagione secca» non vuol dire zero pioggia. A Khao
 
 **Phuket** è il grande hub del sud-ovest, con l'aeroporto internazionale: Patong per la vita notturna, Kata e Karon più tranquille. È la base comoda per le gite in barca.
 
-**Krabi** è più autentica. Da Ao Nang la barca per Railay costa 200 baht a tratta e ci mette un quarto d'ora; da qui partono anche i tour in canoa nella baia di [Phang Nga](/destinazioni/thailandia/krabi).
+**Krabi** ha più vita locale. Da Ao Nang la barca per Railay costa 200 baht a tratta e ci mette un quarto d'ora; da qui partono anche i tour in canoa nella baia di [Phang Nga](/destinazioni/thailandia/krabi).
 
 **[Koh Phi Phi](/destinazioni/thailandia/koh-phi-phi)** è l'isola più fotografata, quella di Maya Bay (visite contingentate, niente bagno). Ci si arriva in due ore e mezza di traghetto da Krabi. È un'isola abitata, con hotel e bar, e il turismo di massa si sente.
 
@@ -208,7 +208,7 @@ Una advertencia vale siempre: «temporada seca» no significa cero lluvia. En Kh
 
 **Phuket** es el gran centro del suroeste, con aeropuerto internacional: Patong para la vida nocturna, Kata y Karon más tranquilas. Es la base cómoda para las excursiones en barco.
 
-**Krabi** es más auténtica. Desde Ao Nang, el barco a Railay cuesta 200 baht por trayecto y tarda un cuarto de hora; de aquí salen también los tours en kayak por la bahía de [Phang Nga](/destinazioni/thailandia/krabi).
+**Krabi** tiene más vida local. Desde Ao Nang, el barco a Railay cuesta 200 baht por trayecto y tarda un cuarto de hora; de aquí salen también los tours en kayak por la bahía de [Phang Nga](/destinazioni/thailandia/krabi).
 
 **[Koh Phi Phi](/destinazioni/thailandia/koh-phi-phi)** es la isla más fotografiada, la de Maya Bay (visitas con cupo, sin baño). Se llega en dos horas y media de ferry desde Krabi. Es una isla habitada, con hoteles y bares, y el turismo de masas se nota.
 

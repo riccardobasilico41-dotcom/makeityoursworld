@@ -35,7 +35,7 @@ We began with the **Duomo**, and we began by going up. **The terraces** in the m
 
 Then the interior, huge and dark, with the stained glass, and **the descent to the early Christian church beneath the square**, where there is the **baptistery in which, according to tradition, Ambrose baptized Augustine**.
 
-We crossed the **Galleria Vittorio Emanuele II** (with the ritual of spinning your heel on the bull in the mosaic, touristy but harmless) to **Piazza della Scala**. From outside the **Teatro alla Scala** is deliberately anonymous, and that's part of its identity. The **Museo Teatrale** lets you in and, when there are no rehearsals, **look out over the auditorium from a box**. It's worth it even just to realize how small it is compared with how you imagine it.
+We crossed the **Galleria Vittorio Emanuele II** (with the ritual of spinning your heel on the bull in the mosaic, touristy but harmless) to **Piazza della Scala**. From outside the **Teatro alla Scala** is deliberately anonymous, and that's part of its identity. The **Museo Teatrale** lets you in and, when there are no rehearsals, **look out over the auditorium from a box**. From the box you realize how small it is compared with how you imagine it.
 
 We spent the afternoon in **Brera**. The **Pinacoteca** is one of Italy's great museums and has three works that alone justify the ticket: Mantegna's **Dead Christ**, with the foreshortening of the feet in the foreground that in the fifteenth century was a technical provocation; Raphael's **Marriage of the Virgin**; Hayez's **The Kiss**, which is the image of the Risorgimento. Next door is the **Brera Botanical Garden**, a garden hidden among the buildings that almost nobody finds.
 

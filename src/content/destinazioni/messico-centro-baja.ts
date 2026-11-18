@@ -2924,7 +2924,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         risposta: "Due o tre: uno per El Arco e Cabo San Lucas, uno per le baie del Corridor e San José, e un terzo per Cabo Pulmo o le balene.",
       },
       {
-        domanda: "Vale la pena andare a Cabo Pulmo?",
+        domanda: "Conviene andare a Cabo Pulmo?",
         risposta: "Sì, per chi fa snorkeling o immersioni: è la barriera corallina più ricca del Golfo di California. Sono circa due ore di strada, e in paese non ci sono bancomat.",
       },
       {

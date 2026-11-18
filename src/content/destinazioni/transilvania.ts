@@ -1043,7 +1043,7 @@ export const destinazioniTransilvania: Destinazione[] = [
         risposta: "Fresca tutto l'anno, anche d'estate: serve una felpa o una giacca leggera."
       },
       {
-        domanda: "Vale la pena il giro in barca sul lago sotterraneo?",
+        domanda: "Conviene fare il giro in barca sul lago sotterraneo?",
         risposta: "È breve e si paga a parte. Il lago è più spettacolare visto dall'alto, dalle passerelle."
       },
       {

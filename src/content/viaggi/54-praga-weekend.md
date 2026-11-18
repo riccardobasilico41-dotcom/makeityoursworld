@@ -30,7 +30,7 @@ Tre o quattro giorni bastano per fare bene la Praga essenziale: la Città Vecchi
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Staré Město e la Piazza della Città Vecchia
-Abbiamo cominciato dal cuore della città: **Staroměstské náměstí**, la Piazza della Città Vecchia, dominata dalla **Torre dell'Orologio Astronomico** del municipio. L'orologio è stato costruito a partire dal 1410: è il terzo orologio astronomico più antico al mondo e l'unico di quell'epoca ancora funzionante. Ogni ora, dalle 9 alle 23, si affacciano le figure meccaniche dei dodici Apostoli mentre lo scheletro della Morte tira la corda della campana. Vale la pena trovarsi in piazza a un'ora in punto.
+Abbiamo cominciato dal cuore della città: **Staroměstské náměstí**, la Piazza della Città Vecchia, dominata dalla **Torre dell'Orologio Astronomico** del municipio. L'orologio è stato costruito a partire dal 1410: è il terzo orologio astronomico più antico al mondo e l'unico di quell'epoca ancora funzionante. Ogni ora, dalle 9 alle 23, si affacciano le figure meccaniche dei dodici Apostoli mentre lo scheletro della Morte tira la corda della campana. Per vederle bisogna essere in piazza a un'ora in punto.
 
 Sul lato opposto della piazza si alza la **Chiesa di Tyn**, gotica, con le due guglie scure diventate il simbolo dello skyline praghese, e poco distante c'è la **Chiesa di San Nicola**, barocca (da non confondere con l'omonima di Malá Strana). Poi ci siamo persi tra le vie di Staré Město, tra la Torre delle Polveri e la Casa Municipale in stile Liberty.
 

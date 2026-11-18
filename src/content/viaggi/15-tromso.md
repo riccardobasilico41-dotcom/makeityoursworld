@@ -23,7 +23,7 @@ Di questo viaggio mi sono rimasti soprattutto flash più che un diario minuto pe
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Tromsø
-Siamo atterrati e ci siamo sistemati in centro. Il primo giro della città l'abbiamo fatto a piedi, tra Storgata (la via pedonale principale, piena di negozi, bar e ristoranti) e il porto. Tra pomeriggio e sera siamo passati dalla **Cattedrale Artica** (Ishavskatedralen), il simbolo della città affacciato sul fiordo: una struttura bianca a forma di iceberg, con una delle vetrate a mosaico più grandi d'Europa, che di sera si illumina. Vale la pena tornarci al buio anche solo per vederla da fuori.
+Siamo atterrati e ci siamo sistemati in centro. Il primo giro della città l'abbiamo fatto a piedi, tra Storgata (la via pedonale principale, piena di negozi, bar e ristoranti) e il porto. Tra pomeriggio e sera siamo passati dalla **Cattedrale Artica** (Ishavskatedralen), il simbolo della città affacciato sul fiordo: una struttura bianca a forma di iceberg, con una delle vetrate a mosaico più grandi d'Europa, che di sera si illumina. Al buio si può ripassare anche solo per vederla illuminata da fuori.
 
 Se restano tempo ed energie, anche il **Fjellheisen** (la funivia sul monte Storsteinen, 465 m) è una buona prima serata: una cabina ogni 30 minuti, 4-5 minuti di salita, aperta fino a mezzanotte in inverno, biglietto A/R 495 NOK (43 € circa) per gli adulti. Da lassù, in una serata serena, si può tentare l'osservazione dell'aurora senza uscire dalla città.
 

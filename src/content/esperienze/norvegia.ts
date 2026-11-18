@@ -42,7 +42,7 @@ export const esperienzeNorvegia: Esperienza[] = [
       'Il trekking più iconico delle Lofoten: 1.978 scalini in pietra costruiti da sherpa nepalesi, per 448 metri di dislivello in appena 1,1 km, fino a un punto panoramico che domina Reine e i fiordi circostanti.',
     percheFarla: 'È il panorama-simbolo di tutte le Lofoten, quello che si vede su ogni cartolina e ogni guida di viaggio.',
     durata: 'tempo medio 2-4 ore; il mio tempo totale è stato di 1h50 (45 min salita, 30 min sosta, 30 min discesa)',
-    periodo: 'estate, con cielo sereno: è l\'unica condizione in cui il trekking vale la pena',
+    periodo: 'estate, con cielo sereno: è l\'unica condizione in cui dalla cima si vede il panorama',
     costo: 'gratuito (parcheggio a Reine 200 NOK/3h)',
     comePrenotare: 'nessuna prenotazione necessaria, accesso libero al sentiero',
     cosaPortare: 'scarpe da trekking con buon grip, acqua, strati per il vento in quota',

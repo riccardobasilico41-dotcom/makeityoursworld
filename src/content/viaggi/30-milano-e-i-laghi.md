@@ -35,7 +35,7 @@ Abbiamo cominciato dal **Duomo**, e abbiamo cominciato salendo. **Le terrazze** 
 
 Poi l'interno, enorme e scuro, con le vetrate, e **la discesa alla chiesa paleocristiana sotto il sagrato**, dove c'è il **battistero in cui, secondo la tradizione, Ambrogio battezzò Agostino**.
 
-Abbiamo attraversato la **Galleria Vittorio Emanuele II** (con il rito del tacco sul toro nel mosaico, turistico ma innocuo) fino a **Piazza della Scala**. Da fuori il **Teatro alla Scala** è volutamente anonimo, e fa parte della sua identità. Il **Museo Teatrale** permette di entrare e, quando non ci sono prove, di **affacciarsi sulla sala da un palco**. Vale la pena anche solo per capire quanto è piccola rispetto a come la si immagina.
+Abbiamo attraversato la **Galleria Vittorio Emanuele II** (con il rito del tacco sul toro nel mosaico, turistico ma innocuo) fino a **Piazza della Scala**. Da fuori il **Teatro alla Scala** è volutamente anonimo, e fa parte della sua identità. Il **Museo Teatrale** permette di entrare e, quando non ci sono prove, di **affacciarsi sulla sala da un palco**. Dal palco si capisce quanto è piccola rispetto a come la si immagina.
 
 Il pomeriggio l'abbiamo passato a **Brera**. La **Pinacoteca** è uno dei grandi musei italiani e ha tre opere che da sole giustificano il biglietto: il **Cristo morto** di Mantegna, con lo scorcio dei piedi in primo piano che nel Quattrocento era una provocazione tecnica; lo **Sposalizio della Vergine** di Raffaello; **Il bacio** di Hayez, che è l'immagine del Risorgimento. Accanto c'è l'**Orto Botanico di Brera**, un giardino nascosto in mezzo ai palazzi che quasi nessuno trova.
 

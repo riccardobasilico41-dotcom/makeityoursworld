@@ -1173,7 +1173,7 @@ export const destinazioniCina: Destinazione[] = [
       'La cascada que atraviesa el pueblo, con el pasadizo que pasa por detrás del velo de agua',
       'Las casas tujia sobre pilotes aferradas a la ladera sobre el río You',
       'La calle principal empedrada, con los escalones que bajan hasta el río',
-      'El pueblo iluminado tras el atardecer, el momento por el que vale la pena dormir aquí',
+      'El pueblo iluminado tras el atardecer, el motivo para dormir aquí',
     ],
     cosaFare: [
       'Pasar por detrás de la cascada por el pasadizo excavado en la roca',
@@ -1629,7 +1629,7 @@ export const destinazioniCina: Destinazione[] = [
       'Embarcar en el crucero por las Tres Gargantas del Yangtsé, que sale de aquí',
     ],
     doveDormire:
-      "La península de Yuzhong, el centro histórico-financiero, es la base más cómoda: Hongya Dong, Liziba y los muelles se alcanzan a pie o con pocas paradas de metro. Vale la pena gastar algo más en una habitación con vistas al río: aquí la vista es la ciudad.",
+      "La península de Yuzhong, el centro histórico-financiero, es la base más cómoda: Hongya Dong, Liziba y los muelles se alcanzan a pie o con pocas paradas de metro. Conviene gastar algo más en una habitación con vistas al río: aquí la vista es la ciudad.",
     doveMangiare:
       "El hot pot de Chongqing es el original y no hace concesiones: caldo rojo de grasa de buey y guindilla, sin la versión suavizada. Los locales históricos todavía tienen las mesas con la olla de compartimentos compartida. Aparte del hot pot, la especialidad son los xiaomian, los fideos picantes de la mañana, que aquí se comen en el desayuno sentados en taburetes de plástico en la calle. Para probar también el laziji, el pollo frito enterrado bajo una montaña de guindillas secas entre las que hay que pescarlo.",
     comeArrivare:

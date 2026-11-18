@@ -211,7 +211,7 @@ export const guidaCostieraEIsole: Guida = {
       titolo: 'Trasferimento a Capri',
       paginaSito: '/destinazioni/italia/isole-golfo-napoli',
       racconto:
-        'La mattina traghetto per Capri. Si sbarca a Marina Grande e si sale al centro in funicolare, o a piedi. Il pomeriggio nella parte alta: la Piazzetta e poi i Giardini di Augusto, con l\'affaccio sui Faraglioni e su Via Krupp. Verso sera, quando le escursioni giornaliere ripartono, l\'isola si svuota di due terzi e diventa silenziosa: per questo vale la pena dormirci.',
+        'La mattina traghetto per Capri. Si sbarca a Marina Grande e si sale al centro in funicolare, o a piedi. Il pomeriggio nella parte alta: la Piazzetta e poi i Giardini di Augusto, con l\'affaccio sui Faraglioni e su Via Krupp. Verso sera, quando le escursioni giornaliere ripartono, l\'isola si svuota di due terzi e diventa silenziosa: per questo conviene dormirci.',
       tratte: [],
       senzaStrada: 'Da Amalfi a Capri c\'è il traghetto diretto di NLG; da Sorrento e Napoli ci sono Caremar, SNAV, NLG e Alilauro. Le durate le pubblicano le compagnie nella prenotazione: controllale lì.',
       luoghi: [

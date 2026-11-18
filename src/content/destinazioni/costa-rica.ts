@@ -432,7 +432,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       },
       {
         nome: "Comunità Bribrì e laboratorio di cioccolato",
-        testo: "Una visita a una comunità indigena Bribrì, dove il capo villaggio racconta le piante tradizionali e mostra le piccole rane velenose, e poi un laboratorio di cioccolato tradizionale con degustazione. È un'esperienza culturale, ma non va immaginata come una cosa autentica dentro la giungla.",
+        testo: "Una visita a una comunità indigena Bribrì, dove il capo villaggio racconta le piante tradizionali e mostra le piccole rane velenose, e poi un laboratorio di cioccolato tradizionale con degustazione. È un'esperienza culturale pensata per i visitatori: non ci si deve aspettare un villaggio isolato nella giungla.",
         come: "Dentro il tour completo di Cahuita, nel pomeriggio, oppure con un tour dedicato.",
         quando: "Pomeriggio.",
         tempo: "2-3 ore",

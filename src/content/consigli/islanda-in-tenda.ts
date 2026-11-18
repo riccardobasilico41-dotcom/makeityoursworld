@@ -15,7 +15,7 @@ export const consiglioIslandaTenda: Consiglio = {
       titolo: 'Islanda in tenda: regole, costi e consigli per la Ring Road',
       descrizione:
         'Islanda in tenda d’estate: dove si può campeggiare, quanto costano i campeggi, noleggio di tenda e auto, notti fredde, assicurazione e cosa portare.',
-      lead: 'Sì, l’Islanda in tenda vale la pena, ma nei campeggi e con un margine nel programma. L’ho girata così per nove giorni sulla Ring Road, a fine luglio 2024: ecco cosa rifarei e cosa no.',
+      lead: 'Sì, l’Islanda in tenda funziona, ma nei campeggi e con un margine nel programma. L’ho girata così per nove giorni sulla Ring Road, a fine luglio 2024: ecco cosa rifarei e cosa no.',
       corpo: `L’Islanda in tenda conviene d’estate, da giugno ad agosto, quando la luce non finisce mai e i campeggi della Ring Road sono aperti e attrezzati. Si dorme quasi sempre in campeggio, perché il campeggio libero è molto limitato, si spende tra 1.500 e 2.800 ISK a persona per notte e si guida un’auto a noleggio. Io l’ho fatto a fine luglio 2024 con amici: sei notti in tenda e due in hotel, [nove giorni da Keflavík a Keflavík](/viaggi/islanda-2024). Lo rifarei, con due accortezze: l’assicurazione giusta sull’auto e meno tappe al giorno.
 
 ## Vale la pena girare l’Islanda in tenda?
@@ -88,7 +88,7 @@ Sì. Noi non l’avevamo e una batteria scarica ci è costata un carro attrezzi 
       titolo: 'Camping in Iceland: rules, costs and tips for the Ring Road',
       descrizione:
         'Camping in Iceland in summer: where you can legally pitch a tent, campsite prices, tent and car rental, cold nights, car insurance and what to pack.',
-      lead: 'Yes, Iceland by tent is worth it, as long as you use campsites and leave slack in your plan. I travelled the Ring Road this way for nine days in late July 2024: here is what I would do again and what I wouldn’t.',
+      lead: 'Yes, Iceland by tent works, as long as you use campsites and leave slack in your plan. I travelled the Ring Road this way for nine days in late July 2024: here is what I would do again and what I wouldn’t.',
       corpo: `Camping in Iceland makes sense in summer, June to August, when the light never really goes and the Ring Road campsites are open and well equipped. You sleep in campsites almost every night, because wild camping is very restricted, you pay roughly 1,500-2,800 ISK per person per night, and you drive a rental car. I did it in late July 2024 with friends: six nights in a tent and two in hotels, [nine days from Keflavík back to Keflavík](/viaggi/islanda-2024). I would do it again with two changes: the right car insurance and fewer stops per day.
 
 ## Is it worth seeing Iceland by tent?
@@ -161,7 +161,7 @@ Yes. We didn’t have it, and a dead battery cost us an expensive tow truck and 
       titolo: 'Islandia en tienda de campaña: normas, precios y consejos',
       descrizione:
         'Islandia en tienda de campaña en verano: dónde se puede acampar, precios de los campings, alquiler de tienda y coche, noches frías, seguro y equipaje.',
-      lead: 'Sí, Islandia en tienda merece la pena, siempre que duermas en campings y dejes margen en el plan. Así recorrí la Ring Road durante nueve días a finales de julio de 2024: esto es lo que repetiría y lo que no.',
+      lead: 'Sí, Islandia en tienda funciona, siempre que duermas en campings y dejes margen en el plan. Así recorrí la Ring Road durante nueve días a finales de julio de 2024: esto es lo que repetiría y lo que no.',
       corpo: `Recorrer Islandia en tienda de campaña tiene sentido en verano, de junio a agosto, cuando la luz casi no se va y los campings de la Ring Road están abiertos y bien equipados. Se duerme casi siempre en camping, porque la acampada libre está muy limitada, se paga entre 1.500 y 2.800 ISK por persona y noche y se conduce un coche de alquiler. Yo lo hice a finales de julio de 2024 con amigos: seis noches en tienda y dos en hotel, [nueve días de Keflavík a Keflavík](/viaggi/islanda-2024). Lo repetiría con dos cambios: el seguro adecuado para el coche y menos etapas al día.
 
 ## ¿Merece la pena Islandia en tienda?

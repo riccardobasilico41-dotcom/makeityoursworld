@@ -6,7 +6,7 @@ export const norvegia: Paese = {
   continente: 'Europa',
   titolo: 'Noruega: las Lofoten en 7 días, entre fiordos y sol de medianoche',
   descrizione:
-    "Siete días on the road entre Oslo, Bodø y el archipiélago de las Lofoten: trekkings emblemáticos, una excursión en zódiac entre las águilas marinas del Trollfjord, playas polares a las que solo se llega en ferri y pueblos de pescadores que siguen como antaño. Es un itinerario que hice yo, con los senderos que vale la pena hacer y los que conviene saltarse.",
+    "Siete días on the road entre Oslo, Bodø y el archipiélago de las Lofoten: trekkings emblemáticos, una excursión en zódiac entre las águilas marinas del Trollfjord, playas polares a las que solo se llega en ferri y pueblos de pescadores que siguen como antaño. Es un itinerario que hice yo, con los senderos que hay que hacer y los que conviene saltarse.",
   periodoMigliore: "verano polar (junio-agosto), por la luz larguísima y el clima menos riguroso, aunque en julio hace igualmente frío y hay viento",
   durataConsigliata: '7-9 días para cubrir Oslo, Bodø y las Lofoten sin ir con prisas',
   budgetIndicativo: '500-600 € por persona solo en comidas (es lo que gastamos nosotros); a añadir vuelos, alquiler de coche, ferris y alojamientos',

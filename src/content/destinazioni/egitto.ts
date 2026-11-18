@@ -676,7 +676,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "risposta": "Tre o quattro ore per l'altopiano con il punto panoramico e la Sfinge, mezza giornata in più per il Grand Egyptian Museum. Saqqara e Dahshur chiedono un secondo giorno."
       },
       {
-        "domanda": "Vale la pena entrare nella Grande Piramide?",
+        "domanda": "Conviene entrare nella Grande Piramide?",
         "risposta": "Sì per chi è curioso di come è costruita: la Grande Galleria impressiona. No per chi si aspetta pitture, perché le camere sono spoglie, e per chi soffre gli spazi stretti."
       },
       {

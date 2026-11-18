@@ -150,7 +150,7 @@ export const destinazioniItalia: Destinazione[] = [
             costo: "half board roughly €60-80, with CAI member discounts that make the membership worthwhile in three nights",
             durata: "from one night to a whole Alta Via",
             pro: [
-              "You're already up high at dawn and sunset, the two hours it's worth being there for",
+              "You're already up high at dawn and sunset",
               "It makes multi-day treks possible without a tent or food: it's the alpine model, and nowhere else has such a dense network",
               "Dinner together with the other hikers is half the experience",
               "Significant discounts for members of alpine clubs",
@@ -514,7 +514,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Night skiing, where the lit slopes stay open late",
     ],
     doveDormire:
-      "The opposite rule from summer applies: in winter **being on the slopes matters**, because half an hour of shuttle in ski boots twice a day wears you down. Ski-in/ski-out setups cost more and are often worth it. The ski week on half board remains the most convenient format, and packages that include lift pass and rental save quite a lot compared with buying everything separately.",
+      "The opposite rule from summer applies: in winter **being on the slopes matters**, because half an hour of shuttle in ski boots twice a day wears you down. Ski-in/ski-out setups cost more, but are often the better choice. The ski week on half board remains the most convenient format, and packages that include lift pass and rental save quite a lot compared with buying everything separately.",
     doveMangiare:
       "This is where Italy beats everyone on the snow: slope-side huts are real restaurants. You eat canederli, polenta, goulash and casunziei in the Dolomites, polenta concia and fonduta in Aosta Valley, pizzoccheri in Valtellina, and you drink well. The bill is higher than in the valley, but nowhere near those in France and Switzerland. In high season the best huts should be booked, even for lunch.",
     comeArrivare:

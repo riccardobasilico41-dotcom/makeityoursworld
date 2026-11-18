@@ -6,7 +6,7 @@ export const norvegia: Paese = {
   continente: 'Europa',
   titolo: 'Norway: the Lofoten in 7 Days, Between Fjords and the Midnight Sun',
   descrizione:
-    "Seven days on the road between Oslo, Bodø and the Lofoten archipelago: iconic hikes, a RIB boat excursion among the sea eagles of the Trollfjord, polar beaches reachable only by ferry and fishing villages that have stayed as they used to be. It's an itinerary I did myself, with the trails worth doing and the ones to skip.",
+    "Seven days on the road between Oslo, Bodø and the Lofoten archipelago: iconic hikes, a RIB boat excursion among the sea eagles of the Trollfjord, polar beaches reachable only by ferry and fishing villages that have stayed as they used to be. It's an itinerary I did myself, with the trails to do and the ones to skip.",
   periodoMigliore: "polar summer (June-August), for the very long daylight and milder weather, although in July it's still cold and windy",
   durataConsigliata: '7-9 days to cover Oslo, Bodø and the Lofoten without rushing too much',
   budgetIndicativo: "€500-600 per person for meals alone (that's what we spent); to be added: flights, car rental, ferries and lodging",

@@ -506,7 +506,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       { nome: "Lofoten via Moskenes", distanza: "circa 3 ore e un quarto di traghetto", come: "Traghetto Torghatten Nord per Moskenes, con o senza auto.", testo: "Più che una gita è il passaggio verso Reine e Å: con l'auto d'estate bisogna prenotare, a piedi si sale senza problemi." },
     ],
     faq: [
-      { domanda: "Vale la pena fermarsi a Bodø?", risposta: "Come tappa di qualche ora sì: il centro si gira a piedi, il belvedere di Nyholms Fort è a dieci minuti e Saltstraumen è a mezz'ora. Per più di una notte serve un interesse preciso, come Kjerringøy o una partita del Bodø/Glimt." },
+      { domanda: "Conviene fermarsi a Bodø?", risposta: "Come tappa di qualche ora sì: il centro si gira a piedi, il belvedere di Nyholms Fort è a dieci minuti e Saltstraumen è a mezz'ora. Per più di una notte serve un interesse preciso, come Kjerringøy o una partita del Bodø/Glimt." },
       { domanda: "Come si va da Bodø alle Lofoten?", risposta: "Con il traghetto per Moskenes, circa 3 ore e un quarto: l'auto fino a 6 metri paga 605 NOK, i passeggeri viaggiano gratis. In alternativa si vola su Leknes o Svolvær, oppure si guida verso nord e si prende il traghetto Bognes-Lødingen." },
       { domanda: "Bisogna prenotare il traghetto per Moskenes?", risposta: "Con l'auto, d'estate sì: il posto si prenota sul sito di Torghatten Nord e senza prenotazione si rischia di restare a terra. A piedi si sale senza problemi; conviene comunque essere al porto 40 minuti prima." },
       { domanda: "Quanto dista l'aeroporto dal centro?", risposta: "Circa 1,5 km: un quarto d'ora a piedi, 5-10 minuti con i bus 1 e 4 (circa 45 NOK) o pochi minuti di taxi." },

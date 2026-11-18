@@ -27,7 +27,7 @@ export const esperienzeBolivia: Esperienza[] = [
     costo:
       'indicativamente 80-170$ a persona secondo l\'operatore. Gli operatori economici stanno sugli 80-100$, quelli premium tra i 120 e i 170$, con differenze reali su bici, gruppi e protocolli di sicurezza.',
     comePrenotare:
-      'Tramite le agenzie di La Paz, anche con un giorno di anticipo. Vale la pena leggere recensioni recenti e chiedere in modo esplicito che bici verranno usate, quante persone per guida e se sono incluse le protezioni complete.',
+      'Tramite le agenzie di La Paz, anche con un giorno di anticipo. Prima di scegliere, leggere recensioni recenti e chiedere in modo esplicito che bici verranno usate, quante persone per guida e se sono incluse le protezioni complete.',
     cosaPortare:
       'Abbigliamento a strati: si parte a 4.650 metri vicino allo zero e si arriva a 1.200 metri con clima tropicale. Guanti, occhiali, protezione solare e un cambio completo per la fine.',
     perChiEAdatta:
@@ -91,7 +91,7 @@ export const esperienzeBolivia: Esperienza[] = [
       'maggio-ottobre per il salar asciutto e percorribile per intero; gennaio-marzo per l\'effetto specchio, con però diverse tappe inaccessibili',
     costo: 'indicativamente 150-250$ a persona secondo l\'operatore, più l\'ingresso alla riserva Eduardo Avaroa',
     comePrenotare:
-      'Tramite le agenzie di Uyuni o di La Paz. Vale la pena scegliere sulla base della manutenzione dei mezzi e non del prezzo: si viaggia su piste isolate a oltre 4.500 metri, dove un guasto serio è un problema difficile da risolvere.',
+      'Tramite le agenzie di Uyuni o di La Paz. L\'agenzia va scelta in base alla manutenzione dei mezzi, non al prezzo: si viaggia su piste isolate a oltre 4.500 metri, dove un guasto serio è un problema difficile da risolvere.',
     cosaPortare:
       'Sacco a pelo pesante (non sempre incluso, e negli alloggi del Sud Lípez si dorme sotto zero), abbigliamento a strati, protezione solare molto alta (a quella quota il sole riflesso dal sale brucia), costume per le terme e contanti per gli ingressi.',
     perChiEAdatta: 'Adatto a tutti fisicamente, ma la quota si fa sentire: il secondo giorno si superano i 4.800 metri.',

@@ -85,7 +85,7 @@ In the morning we took the ferry to **Capri**. You land at **Marina Grande** and
 
 We spent the afternoon on the upper part: the **Piazzetta**, tiny, which lives on being watched, and then the **Gardens of Augustus** with the view over the **Faraglioni** and over **Via Krupp**, the switchback road cut into the rock that goes down to Marina Piccola. **Via Krupp has been closed in stretches for rockfall risk: better to check beforehand whether it's open.**
 
-Toward evening, when the day excursions have left, **Capri changes**. In the evening the island empties by two thirds and suddenly becomes quiet, and that's why it's worth sleeping there instead of doing it as a day trip.
+Toward evening, when the day excursions have left, **Capri changes**. In the evening the island empties by two thirds and suddenly becomes quiet, and that's why it makes sense to sleep there instead of doing it as a day trip.
 
 **In practice:** ferry or hydrofoil to Capri from Amalfi, Positano, Sorrento or Naples · funicular from Marina Grande to the Piazzetta, tickets at the station · Gardens of Augustus with a ticket · Via Krupp is often closed: ask in town whether it's open · sleeping on the island is expensive, book early.
 
@@ -184,7 +184,7 @@ In the afternoon we returned to Naples.
 - **Don't wait two hours for the Blue Grotto**, and check the sea conditions first.
 - **Don't cook the anchovy colatura.**
 - **Check the access rules**: Via Krupp, the Valle delle Ferriere, Vivara and the Emerald Grotto all have rules that change.
-- **Factor in the steps.** It's not a flat beach vacation: it's a vertical coast.
+- **Factor in the steps.** The coast is vertical, and you walk down to the sea.
 
 ## Chiusura personale
 Of the steps from Nocelle down to Positano, more than 1,700, your legs still remember them the next day. For me the Coast is done like this: no car, everything by ferry, and climbing up to the paths above the road, where there's nobody. The islands aren't interchangeable, and doing two well is better than rushing three.

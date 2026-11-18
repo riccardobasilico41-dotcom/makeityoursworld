@@ -80,7 +80,7 @@ export const esperienzeGermania: Esperienza[] = [
     cosE:
       "The Berlin techno club scene, which grew from the early 1990s in the abandoned industrial spaces of former East Berlin after the fall of the Wall (the Tresor club, opened in 1991 in an underground bank vault, is among the pioneers) and is today identified internationally with venues like Berghain, housed in a former power station, famous for its very selective and unpredictable door and for the absolute ban on photography inside. In March 2024 Berlin techno culture was added to the German register of intangible cultural heritage, a formal step toward possible future international recognition.",
     percheFarla:
-      "It's a phenomenon born and raised here, tied to the very spaces left empty by the fall of the Wall, and it's one of the reasons Berlin has been considered for decades one of the world capitals of electronic music. It's worth knowing about even if you're not in the scene.",
+      "It's a phenomenon born and raised here, tied to the very spaces left empty by the fall of the Wall, and it's one of the reasons Berlin has been considered for decades one of the world capitals of electronic music. It's interesting even if you're not in the scene.",
     durata: 'one evening (clubs often open late, after midnight, and some stay open until the morning or beyond)',
     periodo: 'all year, because it happens at night and indoors',
     costo: 'club entry roughly €10-25 depending on the venue and the event',

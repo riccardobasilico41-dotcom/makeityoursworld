@@ -489,7 +489,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       { nome: "Lofoten via Moskenes", distanza: "about 3 hours 15 minutes by ferry", come: "Torghatten Nord ferry to Moskenes, with or without a car.", testo: "More a crossing than a day trip, it leads to Reine and Å: in summer a car space must be booked, foot passengers board without trouble." },
     ],
     faq: [
-      { domanda: "Is Bodø worth a stop?", risposta: "As a stop of a few hours, yes: the centre is walkable, Nyholms Fort is ten minutes away and Saltstraumen half an hour. For more than one night you need a specific reason, such as Kjerringøy or a Bodø/Glimt match." },
+      { domanda: "Should you stop in Bodø?", risposta: "As a stop of a few hours, yes: the centre is walkable, Nyholms Fort is ten minutes away and Saltstraumen half an hour. For more than one night you need a specific reason, such as Kjerringøy or a Bodø/Glimt match." },
       { domanda: "How do you get from Bodø to the Lofoten?", risposta: "By ferry to Moskenes, about 3 hours 15 minutes: a car up to 6 metres pays 605 NOK, passengers travel free. Alternatively fly to Leknes or Svolvær, or drive north and take the Bognes-Lødingen ferry." },
       { domanda: "Do you need to book the Moskenes ferry?", risposta: "With a car in summer, yes: book the space on the Torghatten Nord website, or you risk being left behind. Foot passengers board easily; still be at the port 40 minutes early." },
       { domanda: "How far is the airport from the centre?", risposta: "About 1.5 km: a 15-minute walk, 5-10 minutes on buses 1 and 4 (about 45 NOK) or a few minutes by taxi." },

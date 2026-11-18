@@ -54,7 +54,7 @@ export const esperienzeSriLanka: Esperienza[] = [
     nome: 'Cerimonia serale al Tempio del Dente',
     localita: 'Kandy',
     cosE: 'La cerimonia serale al Temple of the Tooth, che custodisce una reliquia sacra del Buddha: tamburi, luce che cala, un\'atmosfera spirituale intensa.',
-    percheFarla: 'È una delle esperienze più autentiche e sentite di tutto lo Sri Lanka, molto più di una visita turistica.',
+    percheFarla: 'È una cerimonia religiosa seguita dai fedeli del posto, non uno spettacolo organizzato per i turisti.',
     durata: 'circa 1 ora, più l\'attesa in fila',
     periodo: 'tardo pomeriggio o sera',
     costo: '2.000 LKR',

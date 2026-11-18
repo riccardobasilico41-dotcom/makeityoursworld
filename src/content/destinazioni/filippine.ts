@@ -764,7 +764,7 @@ export const destinazioniFilippine: Destinazione[] = [
         "risposta": "No: dal 2023 la Provincia di Cebu permette il canyoning solo con operatori e guide autorizzati, con casco e giubbotto. Il prezzo è di circa 2.000 PHP (circa 28 €) a persona più la navetta."
       },
       {
-        "domanda": "Vale la pena nuotare con gli squali balena a Oslob?",
+        "domanda": "Conviene nuotare con gli squali balena a Oslob?",
         "risposta": "È sconsigliato: gli animali vengono nutriti ogni giorno per tenerli vicino alla riva, una pratica criticata dai biologi marini. Tumalog e Sumilon, nella stessa zona, si visitano senza."
       },
       {

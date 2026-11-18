@@ -47,7 +47,7 @@ export const manchesterLiverpoolPremierLeagueMeta: TripMeta = {
     treEsperienzePiuBelle: undefined,
     cosaCambierei: undefined,
     aChiLoConsiglio:
-      'A chi vuole la Premier League e un\'Inghilterra più autentica di Londra, con qualche giorno di natura in più',
+      'A chi vuole la Premier League e un\'Inghilterra meno cosmopolita di Londra, con qualche giorno di natura in più',
   },
   tappeMappa: [
     { nome: 'Manchester', destinazioneSlug: 'manchester' },

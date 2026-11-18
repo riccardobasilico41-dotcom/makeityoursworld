@@ -378,7 +378,7 @@ export const destinazioniGiappone: Destinazione[] = [
         url: "https://www.hachimangu.or.jp/",
         lat: 35.32472,
         lng: 139.55583,
-        consiglio: "It's worth walking down from the shrine along the avenue towards the sea at the end of the day.",
+        consiglio: "Walk down from the shrine along the avenue towards the sea at the end of the day.",
       },
       {
         nome: "Hase-dera",
@@ -833,7 +833,7 @@ export const destinazioniGiappone: Destinazione[] = [
         costo: "about 1,000 yen with matcha tea (about €6)",
         lat: 35.0175,
         lng: 135.67,
-        consiglio: "After the bamboo crowds it is a much quieter place: it is worth stopping for the tea.",
+        consiglio: "After the bamboo crowds it is a much quieter place to stop for tea.",
       },
       {
         nome: "Monkey Park Iwatayama",
@@ -1570,7 +1570,7 @@ export const destinazioniGiappone: Destinazione[] = [
         risposta: "The Kintetsu line from Namba is private and is not included in the JR Pass. With the pass you go to Nara on the JR line from Osaka or Tennoji, which arrives at JR Nara station, a little further from the park.",
       },
       {
-        domanda: "Is Universal Studios Japan worth it?",
+        domanda: "Should you go to Universal Studios Japan?",
         risposta: "For Nintendo or Harry Potter fans yes, but it takes a full day and ticket prices change by date. At weekends and during Japanese holidays, without an Express Pass you spend most of your time queuing.",
       },
       {
@@ -1916,7 +1916,7 @@ export const destinazioniGiappone: Destinazione[] = [
       { domanda: "How does the luggage service work?", risposta: "From late March to late November you leave your bags at the starting tourist office between 8:30 and 11:30 and collect them on arrival from 13:00 to 17:00, at 1,000 yen per bag." },
       { domanda: "Is the trail difficult?", risposta: "No: it's an easy walk on paving and dirt track, with some stone steps. Comfortable shoes and water are enough; in winter the steps can ice over." },
       { domanda: "Are there bears on the Nakasendō?", risposta: "Black bears live in the area. Along the trail there are bells to ring as you pass, to make yourself heard." },
-      { domanda: "Is it worth sleeping in Magome or Tsumago?", risposta: "Yes: in the evening and early morning, without the groups, the villages are silent. Minshuku rooms are few and should be booked ahead." },
+      { domanda: "Should you sleep in Magome or Tsumago?", risposta: "Yes: in the evening and early morning, without the groups, the villages are silent. Minshuku rooms are few and should be booked ahead." },
     ],
     esperienzeSlugs: [],
     tripSlugs: ['classic-japan'],

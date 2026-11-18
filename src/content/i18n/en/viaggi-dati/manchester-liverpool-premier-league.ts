@@ -40,7 +40,7 @@ export const manchesterLiverpoolPremierLeagueMeta: TripMeta = {
     treEsperienzePiuBelle: undefined,
     cosaCambierei: undefined,
     aChiLoConsiglio:
-      'To anyone who wants the Premier League and a more authentic England than London, with a few extra days of nature',
+      'To anyone who wants the Premier League and a less cosmopolitan England than London, with a few extra days of nature',
   },
   tappeMappa: [
     { nome: 'Manchester', destinazioneSlug: 'manchester' },

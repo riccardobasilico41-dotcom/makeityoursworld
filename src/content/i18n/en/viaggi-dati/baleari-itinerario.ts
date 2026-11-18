@@ -17,7 +17,7 @@ export const baleariItinerarioMeta: TripMeta = {
   puntiForti: [
     "The Serra de Tramuntana, a UNESCO cultural heritage site, with the historic 1912 Palma-Sóller train",
     "Dalt Vila, the fortified upper town of Ibiza Town, beautiful even for those not looking for nightlife",
-    "Northern Ibiza (Sant Joan, Santa Gertrudis, Benirràs), the most authentic and least talked-about part of the island",
+    "Northern Ibiza (Sant Joan, Santa Gertrudis, Benirràs), the quietest and least talked-about part of the island",
     "Menorca's Camí de Cavalls and its coves (Cala Macarelleta, Cala Turqueta), among the least developed in the Balearics",
   ],
   criticita: [

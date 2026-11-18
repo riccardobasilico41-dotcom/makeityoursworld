@@ -1178,7 +1178,7 @@ export const destinazioniCina: Destinazione[] = [
       'La cascata che attraversa il borgo, con il camminamento che passa dietro il velo d\'acqua',
       'Le case Tujia su palafitte aggrappate al pendio sopra il fiume You',
       'La via lastricata principale, con i gradini che scendono fino al fiume',
-      'Il borgo illuminato dopo il tramonto, il momento per cui vale la pena dormirci',
+      'Il borgo illuminato dopo il tramonto, il motivo per dormirci',
     ],
     cosaFare: [
       'Passare dietro la cascata lungo il camminamento scavato nella roccia',
@@ -1376,7 +1376,7 @@ export const destinazioniCina: Destinazione[] = [
         risposta: "Il biglietto del borgo costa 108 yuan (circa 13 €) ed è valido 3 giorni. Si paga anche se si dorme dentro l'area.",
       },
       {
-        domanda: "Vale la pena dormire a Furong Zhen?",
+        domanda: "Conviene dormire a Furong Zhen?",
         risposta: "Sì. Tra le dieci e le sedici il borgo è pieno di gruppi in giornata; la sera, con la cascata illuminata, e all'alba si vede un altro posto.",
       },
       {
@@ -1634,7 +1634,7 @@ export const destinazioniCina: Destinazione[] = [
       'Imbarcarsi per la crociera sulle Tre Gole dello Yangtze, che parte da qui',
     ],
     doveDormire:
-      'La penisola di Yuzhong, il centro storico-finanziario, è la base più comoda: Hongya Dong, Liziba e i moli sono raggiungibili a piedi o con poche fermate di metropolitana. Vale la pena spendere qualcosa in più per una camera con vista sul fiume: qui la vista è la città.',
+      'La penisola di Yuzhong, il centro storico-finanziario, è la base più comoda: Hongya Dong, Liziba e i moli sono raggiungibili a piedi o con poche fermate di metropolitana. Conviene spendere qualcosa in più per una camera con vista sul fiume: qui la vista è la città.',
     doveMangiare:
       'L\'hot pot di Chongqing è l\'originale e non fa concessioni: brodo rosso di grasso di manzo e peperoncino, senza la versione addolcita. I locali storici hanno ancora i tavoli con la pentola a scomparti condivisa. Fuori dall\'hot pot, la specialità sono i xiaomian, i noodles piccanti del mattino, che qui si mangiano a colazione seduti su sgabelli di plastica in strada. Da provare anche il laziji, il pollo fritto sepolto sotto una montagna di peperoncini secchi da cui va pescato.',
     comeArrivare:
@@ -1673,7 +1673,7 @@ export const destinazioniCina: Destinazione[] = [
         costo: "gratuito dalla piattaforma sotto la stazione; biglietto della metro per salire in banchina",
         lat: 29.55083,
         lng: 106.53528,
-        consiglio: "Per chi vive lì è normale. Vale la pena vederlo sia dalla strada sia dalla banchina, dentro il palazzo.",
+        consiglio: "Per chi vive lì è normale. Conviene vederlo sia dalla strada sia dalla banchina, dentro il palazzo.",
       },
       {
         nome: "Ciqikou",

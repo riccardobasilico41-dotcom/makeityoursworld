@@ -886,7 +886,7 @@ export const destinazioniTurchia: Destinazione[] = [
         "risposta": "Yes, on a tour or by bus, but it is about 3 hours each way and you miss the sunset. Better a night in the village, on the way between Cappadocia and the coast."
       },
       {
-        "domanda": "Is the Museum Pass worth it?",
+        "domanda": "Does the Museum Pass pay off?",
         "risposta": "The Museum Pass The Mediterranean, €90 for 7 days, covers state sites in the provinces of Antalya, Mersin, Adana and Denizli, so Pamukkale and Laodicea too. It pays off if you continue to the Lycian coast and Antalya."
       }
     ],
@@ -940,7 +940,7 @@ export const destinazioniTurchia: Destinazione[] = [
         "lat": 37.94097,
         "lng": 27.34147,
         "url": "https://muze.gov.tr/muze-detay?SectionId=EFS01&DistId=EFS",
-        "consiglio": "The Terrace Houses have a separate €15 ticket: it is worth it, they are among the best parts of the site."
+        "consiglio": "The Terrace Houses have a separate €15 ticket, and you should buy it: they are among the best parts of the site."
       },
       {
         "nome": "Terrace Houses",

@@ -4287,7 +4287,7 @@ export const destinazioniFrancia: Destinazione[] = [
       "No comprar el seguro de rescate en pista, que cuesta pocos euros al día y cubre una partida que en Francia se paga",
       "Comprar el forfait en taquilla el primer día: en línea y con antelación cuesta menos",
       "Elegir un dominio enorme siendo principiante o si se esquía pocas horas al día: se paga un forfait grande para usar una décima parte",
-      "Ir fuera de pista sin guía, sin ARVA, pala y sonda y sin saber leer el boletín de aludes. **La Vallée Blanche no es una pista**: es un itinerario sobre glaciar, con grietas",
+      "Ir fuera de pista sin guía, sin ARVA, pala y sonda y sin saber leer el boletín de aludes. **La Vallée Blanche es un itinerario sobre glaciar, no una pista**, con grietas",
       "Esperar pueblos alpinos de madera en una estación integrada de los años setenta: se construyeron para esquiar, no para ser contempladas",
     ],
     confronti: [

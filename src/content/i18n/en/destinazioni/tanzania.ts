@@ -735,7 +735,7 @@ export const destinazioniTanzania: Destinazione[] = [
     ],
     faq: [
       {
-        "domanda": "Is Tarangire worth it if you're going to the Serengeti?",
+        "domanda": "Does Tarangire make sense if you're going to the Serengeti?",
         "risposta": "Yes, especially from July to October: the concentration of elephants and the baobabs are unlike anything else on the circuit. It's also the park closest to Arusha, handy for the first day."
       },
       {

@@ -549,7 +549,7 @@ export const destinazioniMaldive: Destinazione[] = [
         "nome": "Ukulhas con Reef Rangers",
         "lng": 72.86444,
         "lat": 4.21389,
-        "testo": "Una isla local de Ari Norte, bonita y muy auténtica, más isla vivida que paraíso tropical. Pasamos allí una semana: fue un imprevisto, porque los vuelos se cancelaron al estallar la guerra en Oriente Medio. Buceamos y sacamos los títulos con Reef Rangers Ukulhas, buenísimos.",
+        "testo": "Una isla local de Ari Norte, bonita, más isla vivida que paraíso tropical. Pasamos allí una semana: fue un imprevisto, porque los vuelos se cancelaron al estallar la guerra en Oriente Medio. Buceamos y sacamos los títulos con Reef Rangers Ukulhas, buenísimos.",
         "come": "Lancha rápida desde Malé, de 1 a 1,5 horas.",
         "tempo": "3-4 días, o más para un título",
         "consiglio": "Para buceo y cursos: Reef Rangers Ukulhas. Deja siempre un día de margen antes del vuelo."
@@ -648,7 +648,7 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "nome": "Ukulhas",
         "perChi": "quien busque una isla vivida",
-        "testo": "Auténtica, con buceo y cursos. Menos paraíso tropical que Dhigurah.",
+        "testo": "Isla local vivida, con buceo y cursos. Menos paraíso tropical que Dhigurah.",
         "fascia": "50-85 €"
       },
       {
@@ -1035,7 +1035,7 @@ export const destinazioniMaldive: Destinazione[] = [
         "tempo": "medio día o 2-3 días",
         "lat": 5.02306,
         "lng": 72.83972,
-        "consiglio": "Los objetos de laca son el recuerdo más auténtico del atolón."
+        "consiglio": "Los objetos de laca, torneados y pintados a mano en los talleres de la isla, son el recuerdo que comprar aquí."
       },
       {
         "nome": "Eydhafushi",

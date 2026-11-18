@@ -17,7 +17,7 @@ export const baleariItinerarioMeta: TripMeta = {
   puntiForti: [
     "La Serra de Tramuntana, patrimonio cultural de la UNESCO, con el tren histórico Palma-Sóller de 1912",
     "Dalt Vila, la ciudad alta fortificada de Ibiza Town, preciosa también para quien no busca la vida nocturna",
-    "El norte de Ibiza (Sant Joan, Santa Gertrudis, Benirràs), la parte más auténtica y menos contada de la isla",
+    "El norte de Ibiza (Sant Joan, Santa Gertrudis, Benirràs), la parte más tranquila y menos contada de la isla",
     "El Camí de Cavalls de Menorca y sus calas (Cala Macarelleta, Cala Turqueta), entre las menos desarrolladas de las Baleares",
   ],
   criticita: [

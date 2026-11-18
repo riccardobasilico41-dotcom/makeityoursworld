@@ -52,7 +52,7 @@ export const esperienzeSriLanka: Esperienza[] = [
     nome: 'Evening ceremony at the Temple of the Tooth',
     localita: 'Kandy',
     cosE: "The evening ceremony at the Temple of the Tooth, which houses a sacred relic of the Buddha: drums, fading light, an intense spiritual atmosphere.",
-    percheFarla: "It's one of the most authentic and heartfelt experiences in all of Sri Lanka, much more than a tourist visit.",
+    percheFarla: "It's a religious ceremony attended by local worshippers, not a show put on for tourists.",
     durata: 'about 1 hour, plus waiting in line',
     periodo: 'late afternoon or evening',
     costo: '2,000 LKR',

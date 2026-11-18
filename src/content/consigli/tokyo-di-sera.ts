@@ -213,7 +213,7 @@ Yo vi el cruce de Shibuya desde arriba gratis, desde la octava planta del centro
 
 ## Asakusa y Ebisu
 
-**12. Hoppy Street, Asakusa.** Izakaya de los de antes con mesas en la calle, a pocos pasos del Senso-ji. Muchos abren ya por la tarde y cierran hacia las 22:00-23:00. Precio: €. Después de cenar vale la pena pasear hasta el Senso-ji iluminado y el río Sumida, con la Skytree encendida en la otra orilla.
+**12. Hoppy Street, Asakusa.** Izakaya de los de antes con mesas en la calle, a pocos pasos del Senso-ji. Muchos abren ya por la tarde y cierran hacia las 22:00-23:00. Precio: €. Después de cenar, pasea hasta el Senso-ji iluminado y el río Sumida, con la Skytree encendida en la otra orilla.
 
 **13. Ebisu Yokocho.** Un antiguo mercado cubierto convertido en una veintena de localitos, donde uno se sienta codo con codo con la gente del barrio. A dos minutos de la salida este de la estación de Ebisu. Precio: €-€€. Es la versión más tranquila y local de los callejones de Shinjuku.
 

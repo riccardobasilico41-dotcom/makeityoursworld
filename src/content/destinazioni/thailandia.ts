@@ -2342,7 +2342,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: 'Baan Dam, la Casa Nera',
-        testo: 'Un complesso di edifici scuri progettato dall\'artista Thawan Duchanee, con le sue opere. Non è un tempio: è un museo d\'arte privato, cupo e strano.',
+        testo: 'Un complesso di edifici scuri progettato dall\'artista Thawan Duchanee, con le sue opere. Sembra un tempio, ma è un museo d\'arte privato, cupo e strano.',
         come: 'A nord della città, in Grab o con un autista.',
         quando: "In mattinata o dopo l'una, per non trovarlo chiuso nella pausa pranzo.",
         tempo: '1-1,5 ore',

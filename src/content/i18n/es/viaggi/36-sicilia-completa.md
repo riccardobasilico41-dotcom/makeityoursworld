@@ -187,7 +187,7 @@ Nos desplazamos hacia el volcán, para la jornada por la que se viene al este.
 
 **Capas de verdad:** se sale de Catania con veinticinco grados y a tres mil metros puede haber cinco, con viento fuerte.
 
-Por la tarde están los **cráteres Silvestri** a cota baja, gratuitos y accesibles en coche, o una **bodega del Etna con cita previa**. Las vides aquí suelen ser **de pie franco**, porque en el suelo de lava la **filoxera** nunca llegó, y hay cepas de más de cien años. En veinte años el Etna se ha convertido en uno de los territorios vinícolas más interesantes de Europa, y vale la pena entender el motivo sobre el terreno.
+Por la tarde están los **cráteres Silvestri** a cota baja, gratuitos y accesibles en coche, o una **bodega del Etna con cita previa**. Las vides aquí suelen ser **de pie franco**, porque en el suelo de lava la **filoxera** nunca llegó, y hay cepas de más de cien años. En veinte años el Etna se ha convertido en uno de los territorios vinícolas más interesantes de Europa, y en una bodega se entiende el porqué.
 
 **En la práctica:** boletín del INGV la noche antes · teleférico desde el Rifugio Sapienza, luego todoterreno y guía, a reservar · botas de trekking, cortavientos, capas · cráteres Silvestri gratuitos · bodegas del Etna solo con cita.
 

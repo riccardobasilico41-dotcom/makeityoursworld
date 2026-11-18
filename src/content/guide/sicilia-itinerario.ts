@@ -208,7 +208,7 @@ export const guidaSiciliaItinerario: Guida = {
           nome: 'Mercato di Ortigia',
           indirizzo: 'Via Emanuele De Benedictis, Ortigia',
           gps: [37.06512, 15.29351],
-          nota: 'È un mercato del mattino: il giorno dopo vale la pena ripassarci presto.',
+          nota: 'È un mercato del mattino: il giorno dopo conviene ripassarci presto.',
           fonti: ['osm'],
         },
       ],

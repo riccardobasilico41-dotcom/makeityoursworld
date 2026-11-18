@@ -392,7 +392,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "quando": "Mattina o tardo pomeriggio, con meno caldo.",
         "tempo": "2-3 ore",
         "url": "https://www.experiencealula.com/en/places-to-go/hegra",
-        "consiglio": "Prenotare con settimane di anticipo nei mesi di punta. Non è «Petra senza la folla»: è più piccola e più silenziosa.",
+        "consiglio": "Prenotare con settimane di anticipo nei mesi di punta. Rispetto a Petra è più piccola e più silenziosa.",
         "costo": "Hegra Day Tour con guida 95 SAR a persona, circa 22 €; Hegra Premium Tour in 4x4 privato da 1.000 SAR a veicolo, circa 230 € (2026)",
         "lat": 26.79167,
         "lng": 37.95278
@@ -1148,7 +1148,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     introduzione:
       'La costa settentrionale del Mar Rosso saudita, con un arcipelago di un centinaio di isole di sabbia bianca e reef corallini tra i meno danneggiati del pianeta, perché fino a pochi anni fa nessun turista poteva arrivarci. Con un\'esagerazione perdonabile la chiamano "le Maldive saudite".',
     percheAndarci:
-      'Sono reef che non hanno subito decenni di pressione turistica. Ed è la parte del paese che cambia più in fretta: qui stanno sorgendo i grandi progetti costieri, e chi ci va adesso la vede prima. È in lista per un motivo che ha una scadenza. Questi reef sono tra i meno danneggiati del Mar Rosso perché fino al 2019 quasi nessun turista poteva arrivarci, e adesso su questa costa stanno nascendo alcuni dei più grandi progetti turistici mai avviati al mondo. Il periodo in cui Umluj resta un porto di pescatori con un centinaio di isole bianche davanti e nessuna struttura sarà, con ogni probabilità, breve. Va anche detto con onestà cosa comporta: niente servizi, pochi operatori, nessuno standard garantito, e le regole del paese valgono anche in spiaggia, dove sulle spiagge pubbliche si entra in acqua vestiti. Non è una meta balneare come la intendiamo noi: è una costa che si sta aprendo adesso.',
+      'Sono reef che non hanno subito decenni di pressione turistica. Ed è la parte del paese che cambia più in fretta: qui stanno sorgendo i grandi progetti costieri, e chi ci va adesso la vede prima. È in lista per un motivo che ha una scadenza. Questi reef sono tra i meno danneggiati del Mar Rosso perché fino al 2019 quasi nessun turista poteva arrivarci, e adesso su questa costa stanno nascendo alcuni dei più grandi progetti turistici mai avviati al mondo. Il periodo in cui Umluj resta un porto di pescatori con un centinaio di isole bianche davanti e nessuna struttura sarà, con ogni probabilità, breve. Va anche detto con onestà cosa comporta: niente servizi, pochi operatori, nessuno standard garantito, e le regole del paese valgono anche in spiaggia, dove sulle spiagge pubbliche si entra in acqua vestiti. È una costa che si sta aprendo adesso, lontana dall\'idea di meta balneare che abbiamo noi.',
     cosaVedere: [
       'L\'arcipelago al largo di Umluj, con le isole di sabbia bianca e i banchi corallini',
       'I reef del Mar Rosso settentrionale, con una visibilità altissima',

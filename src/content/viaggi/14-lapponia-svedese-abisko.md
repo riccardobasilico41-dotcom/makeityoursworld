@@ -108,7 +108,7 @@ Per i pasti il budget indicativo era di 10-15 € al giorno per le colazioni (sp
 - **Non andare a Capodanno se puoi evitarlo.** È il periodo più caro dell'anno per volare e dormire in questa zona. Io l'ho fatto perché volevo proprio quel Capodanno lì, ma se l'obiettivo è solo vedere l'aurora boreale in Lapponia svedese, conviene saperlo prima.
 - **Febbraio-marzo è il periodo giusto per risparmiare parecchio**: le probabilità di aurora restano alte e voli e alloggi costano molto meno che a fine dicembre.
 - **Con il freddo estremo, a volte i treni vengono cancellati.** Non succede spesso, ma può succedere. Quando capita, i taxi della zona (l'unica alternativa rimasta) tendono ad alzare un po' i prezzi, perché in quel momento non ci sono molti altri modi per spostarsi. Meglio tenere un margine in più nel budget dei trasporti.
-- Vestirsi a strati pesanti è scontato, ma vale la pena ripeterlo: le temperature restano ben sotto lo zero per tutta la settimana.
+- Vestirsi a strati pesanti sembra ovvio, ma lo ripetiamo: le temperature restano ben sotto lo zero per tutta la settimana.
 
 ## Chiusura personale
 Volevo un Capodanno diverso da tutti gli altri, e l'ho avuto: al pub di Kiruna, con il freddo che si è fatto sentire da subito, e poi giorni fino a -25/-26 °C. È un freddo secco: se ti copri bene non ti entra nelle ossa, il naso però è un'altra storia.

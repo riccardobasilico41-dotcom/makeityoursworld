@@ -1,13 +1,21 @@
 // Scrive src/content/date-contenuti.json: per viaggi, Paesi (destinazioni), meraviglie e consigli
 // la data del primo commit (pubblicato) e dell'ultimo (aggiornato) che ha toccato i loro testi,
 // in qualsiasi lingua. Serve a datePublished/dateModified e alla data visibile in pagina.
-// Lanciarlo prima di pubblicare (su Vercel il clone è parziale e git log non basta):
-//   node tools/date-contenuti.mjs
+// Parte da solo con `npm run build` (prebuild); va lanciato anche prima di ogni commit
+// che tocca i testi:  node tools/date-contenuti.mjs
 import { execFileSync } from 'node:child_process'
 import fs from 'node:fs'
 
 const LINGUE = ['', 'i18n/en/', 'i18n/es/']
 const base = 'src/content/'
+
+// Su Vercel il clone è parziale: le date di git sarebbero sbagliate, si tiene il JSON già committato.
+const parziale = execFileSync('git', ['rev-parse', '--is-shallow-repository'], { encoding: 'utf8' }).trim() === 'true'
+if (process.env.VERCEL || parziale) {
+  console.log('date-contenuti: clone parziale, uso il JSON già salvato')
+  process.exit(0)
+}
+const oggi = new Date().toISOString().slice(0, 10)
 
 function date(files) {
   const esistenti = files.filter((f) => fs.existsSync(f))
@@ -16,8 +24,10 @@ function date(files) {
     .trim()
     .split('\n')
     .filter(Boolean)
-  if (!log.length) return null
-  return { pubblicato: log[log.length - 1], aggiornato: log[0] }
+  // modifiche non ancora committate: contano come aggiornamento di oggi
+  const modificato = execFileSync('git', ['status', '--porcelain', '--', ...esistenti], { encoding: 'utf8' }).trim() !== ''
+  if (!log.length) return modificato ? { pubblicato: oggi, aggiornato: oggi } : null
+  return { pubblicato: log[log.length - 1], aggiornato: modificato ? oggi : log[0] }
 }
 
 const out = { viaggi: {}, paesi: {}, meraviglie: {}, consigli: {} }

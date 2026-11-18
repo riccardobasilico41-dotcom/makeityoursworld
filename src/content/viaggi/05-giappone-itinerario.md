@@ -140,7 +140,7 @@ Nel pomeriggio siamo tornati a Osaka per il **Mercato di Kuromon** e la cheeseca
 ### Giorno 10 (15.04) — Osaka-Tokyo: Harajuku e Shibuya
 Molto presto a Shin-Osaka abbiamo preso lo Shinkansen Hikari per Tokyo, circa tre ore. Lasciati i bagagli siamo andati ad **Harajuku**: Takeshita Dori, la via iper pop con la nuvola di zucchero filato arcobaleno di Totti, e a dieci minuti il **Meiji-Jingu**, un'oasi di quiete dopo quel caos. Il santuario è dedicato all'imperatore Meiji e si raggiunge con un viale di ghiaia nel bosco, sotto grandi torii di legno: si cammina una decina di minuti prima di arrivare alla sala principale. Takeshita Dori nel fine settimana è piena da metà mattina, quindi conviene passarci presto. Abbiamo pranzato da **Gyozaro**, specialità gyoza.
 
-Il pomeriggio siamo stati a **Shibuya**: la statua di Hachiko e lo Shibuya Crossing, questa volta da un'altra angolazione rispetto al primo giorno. Vale la pena salire allo Shibuya Scramble Square, quattordicesimo piano e poi lo Sky Observatory, oppure affacciarsi gratis dalla galleria d'arte lì accanto. *Gli ingressi dello Sky Observatory sono a orario e quelli del tramonto finiscono per primi: si comprano online qualche giorno prima.* Verso sera abbiamo fatto il check-in al Sunshine City Prince Hotel e cenato da **Kyomachi Koishigure Shinjuku**, un locale in atmosfera anni Cinquanta.
+Il pomeriggio siamo stati a **Shibuya**: la statua di Hachiko e lo Shibuya Crossing, questa volta da un'altra angolazione rispetto al primo giorno. Per vederlo dall'alto si sale allo Shibuya Scramble Square, quattordicesimo piano e poi lo Sky Observatory, oppure ci si affaccia gratis dalla galleria d'arte lì accanto. *Gli ingressi dello Sky Observatory sono a orario e quelli del tramonto finiscono per primi: si comprano online qualche giorno prima.* Verso sera abbiamo fatto il check-in al Sunshine City Prince Hotel e cenato da **Kyomachi Koishigure Shinjuku**, un locale in atmosfera anni Cinquanta.
 
 **In pratica:** Shinkansen Hikari Shin-Osaka-Tokyo circa 3 ore, coperto dal JR Pass · Meiji-Jingu gratuito, aperto dall'alba al tramonto · Shibuya Sky a pagamento con ingresso a fascia oraria, chiuso con pioggia o vento forte per la parte all'aperto · da Shibuya a Ikebukuro, dove si trova il Sunshine City Prince, circa 20 minuti con la linea JR Yamanote.
 
@@ -194,7 +194,7 @@ pena affrontarlo con un metodo:
 
 ## Onsen: l'altra faccia del viaggio
 Il Giappone offre più occasioni di quante il programma ne preveda per
-un bagno caldo tradizionale, e vale la pena inserirne almeno un paio con
+un bagno caldo tradizionale, e conviene inserirne almeno un paio con
 calma (Funaoka Onsen a Kyoto, l'onsen di Kawaguchiko nella giornata del
 Monte Fuji):
 

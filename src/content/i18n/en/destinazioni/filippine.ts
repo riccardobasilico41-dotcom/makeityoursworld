@@ -760,7 +760,7 @@ export const destinazioniFilippine: Destinazione[] = [
         "risposta": "No: since 2023 Cebu Province only allows canyoning with licensed operators and guides, with helmet and life jacket. It costs about 2,000 PHP (about €28) per person plus the shuttle."
       },
       {
-        "domanda": "Is it worth swimming with the whale sharks in Oslob?",
+        "domanda": "Should you swim with the whale sharks in Oslob?",
         "risposta": "It is not recommended: the animals are fed every day to keep them close to shore, a practice criticised by marine biologists. Tumalog and Sumilon, in the same area, can be visited without it."
       },
       {

@@ -305,7 +305,7 @@ export const guidaDolomitiRoadtrip: Guida = {
       titolo: 'Val di Sole, l\'altra faccia del Trentino',
       paginaSito: '/destinazioni/italia/dolomiti',
       racconto:
-        'L\'unica zona che non è Dolomiti in senso stretto: è il gruppo Ortles-Cevedale, affacciato sulle Dolomiti di Brenta. Vale la deviazione per il contrasto: prezzi più bassi, sentieri vuoti, il Parco dello Stelvio che parte da qui e le terme di Pejo e Rabbi a fine giornata.',
+        'È l\'unica zona fuori dalle Dolomiti in senso stretto: siamo nel gruppo Ortles-Cevedale, affacciato sulle Dolomiti di Brenta. Vale la deviazione per il contrasto: prezzi più bassi, sentieri vuoti, il Parco dello Stelvio che parte da qui e le terme di Pejo e Rabbi a fine giornata.',
       tratte: [{ da: 'Bolzano', a: 'Peio', km: 96, minuti: 130, nelMioViaggio: 'circa 2 ore' }],
       luoghi: [
         {

@@ -1041,7 +1041,7 @@ export const destinazioniTransilvania: Destinazione[] = [
         risposta: "Cool all year round, even in summer: bring a sweatshirt or a light jacket."
       },
       {
-        domanda: "Is the boat ride on the underground lake worth it?",
+        domanda: "Should you do the boat ride on the underground lake?",
         risposta: "It is short and paid separately. The lake is more spectacular seen from above, from the walkways."
       },
       {

@@ -27,7 +27,7 @@ Io a Hong Kong ho assaggiato il primo cha chaan teng la prima sera, a Tsim Sha T
 
 **1. Tim Ho Wan, Sham Shui Po.** Al 9-11 di Fuk Wing Street, la sede che ha reso famosa la catena: il bun di maiale al forno con la crosta croccante è il piatto da ordinare. Bib Gourmand 2026, l'unica sede della catena nella guida. Dalle 8 alle 21.30. Prezzo: €. Non si prenota: si prende il numero all'ingresso.
 
-**2. Luk Yu Tea House (Central).** Al 24-26 di Stanley Street, la casa da tè degli anni Trenta con i ventilatori a pale, i paraventi di legno e i camerieri in giacca bianca. Dalle 7 alle 22, nella selezione della guida Michelin. Prezzo: €€. La mattina presto è il momento più autentico.
+**2. Luk Yu Tea House (Central).** Al 24-26 di Stanley Street, la casa da tè degli anni Trenta con i ventilatori a pale, i paraventi di legno e i camerieri in giacca bianca. Dalle 7 alle 22, nella selezione della guida Michelin. Prezzo: €€. La mattina presto ci sono meno turisti.
 
 **3. Maxim's Palace, City Hall (Central).** La grande sala al City Hall, accanto al porto, dove i dim sum passano ancora sui carrelli tra i tavoli. Prezzo: €€, intorno ai 35-50 dollari di Hong Kong a cestino. Si arriva all'apertura, perché a mezzogiorno la coda è lunga.
 
@@ -118,7 +118,7 @@ I had my first cha chaan teng meal on the first evening, in Tsim Sha Tsui, after
 
 **1. Tim Ho Wan, Sham Shui Po.** At 9-11 Fuk Wing Street, the branch that made the chain famous: the baked barbecue pork bun with its crisp crust is the dish to order. Bib Gourmand 2026, the only branch of the chain in the guide. 8am to 9.30pm. Price: €. No bookings: take a number at the door.
 
-**2. Luk Yu Tea House (Central).** At 24-26 Stanley Street, the 1930s teahouse with ceiling fans, wooden screens and waiters in white jackets. 7am to 10pm, in the Michelin selection. Price: €€. Early morning is the most authentic time.
+**2. Luk Yu Tea House (Central).** At 24-26 Stanley Street, the 1930s teahouse with ceiling fans, wooden screens and waiters in white jackets. 7am to 10pm, in the Michelin selection. Price: €€. Early morning has fewer tourists.
 
 **3. Maxim's Palace, City Hall (Central).** The big hall at City Hall, by the harbour, where dim sum still goes round on trolleys between the tables. Price: €€, around HK$35-50 a basket. Arrive at opening, as the noon queue is long.
 
@@ -209,7 +209,7 @@ Mi primer cha chaan teng fue la primera noche, en Tsim Sha Tsui, después del pa
 
 **1. Tim Ho Wan, Sham Shui Po.** En el 9-11 de Fuk Wing Street, el local que hizo famosa a la cadena: el bollo de cerdo al horno con su costra crujiente es el plato que hay que pedir. Bib Gourmand 2026, el único local de la cadena en la guía. De 8 a 21.30. Precio: €. No se reserva: se coge número en la entrada.
 
-**2. Luk Yu Tea House (Central).** En el 24-26 de Stanley Street, la casa de té de los años treinta con ventiladores de techo, biombos de madera y camareros de chaqueta blanca. De 7 a 22, en la selección de la guía Michelin. Precio: €€. A primera hora de la mañana es cuando resulta más auténtica.
+**2. Luk Yu Tea House (Central).** En el 24-26 de Stanley Street, la casa de té de los años treinta con ventiladores de techo, biombos de madera y camareros de chaqueta blanca. De 7 a 22, en la selección de la guía Michelin. Precio: €€. A primera hora de la mañana hay menos turistas.
 
 **3. Maxim's Palace, City Hall (Central).** El gran salón del City Hall, junto al puerto, donde el dim sum todavía pasa en carritos entre las mesas. Precio: €€, unos 35-50 dólares de Hong Kong por cesta. Hay que llegar a la apertura, porque a mediodía la cola es larga.
 

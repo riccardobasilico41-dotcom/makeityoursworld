@@ -2911,7 +2911,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         risposta: "Two or three: one for El Arco and Cabo San Lucas, one for the Corridor bays and San José, and a third for Cabo Pulmo or the whales.",
       },
       {
-        domanda: "Is Cabo Pulmo worth the trip?",
+        domanda: "Should you go to Cabo Pulmo?",
         risposta: "Yes, for snorkellers and divers: it is the richest coral reef in the Gulf of California. It is about two hours' drive, and the village has no ATM.",
       },
       {

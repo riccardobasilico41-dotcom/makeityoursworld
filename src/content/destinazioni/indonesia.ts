@@ -1914,7 +1914,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveDormire:
       'Moni è il paese da cui si parte di notte per il Kelimutu, con guesthouse essenziali; Bajawa serve come base per i villaggi tradizionali, Labuan Bajo per l\'ovest e i tour a Komodo. A Wae Rebo si dorme nella casa comune del villaggio, tutti insieme sul pavimento: non è un albergo e non va trattato come tale.',
     doveMangiare:
-      'L\'offerta è minima, e fa parte del viaggio: fuori da Labuan Bajo si mangia nei warung di paese, quasi sempre riso, pesce o pollo e verdure saltate, con poche alternative. Vale la pena provare il se\'i, la carne affumicata tipica delle isole orientali, e ovunque si trova il caffè di Flores, tostato in casa e servito senza filtro. Nelle guesthouse di Moni la cena si ordina nel pomeriggio, perché la cucinano apposta.',
+      'L\'offerta è minima, e fa parte del viaggio: fuori da Labuan Bajo si mangia nei warung di paese, quasi sempre riso, pesce o pollo e verdure saltate, con poche alternative. Da provare il se\'i, la carne affumicata tipica delle isole orientali, e ovunque si trova il caffè di Flores, tostato in casa e servito senza filtro. Nelle guesthouse di Moni la cena si ordina nel pomeriggio, perché la cucinano apposta.',
     comeArrivare:
       "Per l'ovest si vola su Labuan Bajo (LBJ), con voli diretti da Bali, poco più di un'ora, e da Giacarta; è anche il porto per il Parco di Komodo. Per l'est si vola su Ende o Maumere, con pochi voli e orari che cambiano: vanno prenotati in anticipo. Poi si attraversa l'isola sulla Trans-Flores con un'auto con autista a giornata: Labuan Bajo-Bajawa circa 9-10 ore con le soste, Bajawa-Moni 6-7 ore, Moni-Ende 1,5-2 ore, Moni-Maumere 3-4 ore.",
     comeSpostarsi:
