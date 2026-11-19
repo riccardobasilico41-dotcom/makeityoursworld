@@ -358,3 +358,25 @@ html[data-marchio='visto'] .marchio-lettera {
     animation: none !important;
   }
 }
+
+/* Comparsa allo scorrimento (components/Reveal.tsx): solo CSS, contenuto visibile anche senza JavaScript.
+   Gli elementi già sullo schermo al caricamento sono oltre l'intervallo dell'animazione, quindi restano fermi e visibili. */
+@supports (animation-timeline: view()) {
+  @media screen and (prefers-reduced-motion: no-preference) {
+    .rivela {
+      animation: rivela-sali linear both;
+      animation-timeline: view();
+      animation-range: entry calc(var(--rivela-ritardo, 0%)) entry calc(45% + var(--rivela-ritardo, 0%));
+    }
+  }
+}
+@keyframes rivela-sali {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}

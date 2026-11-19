@@ -1,19 +1,13 @@
-'use client'
+import type { CSSProperties, ReactNode } from 'react'
 
-import { motion, useReducedMotion, type Variants } from 'motion/react'
-import type { ReactNode } from 'react'
-
-const variants: Variants = {
-  hidden: { opacity: 0, y: 24 },
-  visible: { opacity: 1, y: 0 },
-}
-
-/* prefers-reduced-motion: spatial motion (the y-offset) collapses to a
- * ≤150ms opacity-only crossfade — see design.md § Motion. */
-const reducedVariants: Variants = {
-  hidden: { opacity: 0 },
-  visible: { opacity: 1 },
-}
+/*
+ * Comparsa allo scorrimento in solo CSS (animation-timeline: view(), vedi globals.css § .rivela).
+ * Prima era motion/react: il contenuto arrivava invisibile (opacity 0) e compariva solo dopo il
+ * download del JavaScript, testo d'apertura compreso, e il primo disegno della pagina slittava di
+ * 1-2 secondi sui telefoni. Ora il contenuto è visibile da subito; i browser che supportano le
+ * animazioni legate allo scorrimento lo fanno salire mentre entra nello schermo, gli altri lo mostrano
+ * fermo. Con «riduci movimento» non si anima nulla.
+ */
 
 export function Reveal({
   children,
@@ -24,59 +18,25 @@ export function Reveal({
   delay?: number
   className?: string
 }) {
-  const reduceMotion = useReducedMotion()
+  const style = delay ? ({ '--rivela-ritardo': `${Math.round(delay * 100)}%` } as CSSProperties) : undefined
   return (
-    <motion.div
-      className={className}
-      initial="hidden"
-      whileInView="visible"
-      viewport={{ once: true, margin: '-80px' }}
-      variants={reduceMotion ? reducedVariants : variants}
-      transition={reduceMotion ? { duration: 0.15, delay: 0, ease: 'linear' } : { duration: 0.6, delay, ease: [0.22, 1, 0.36, 1] }}
-    >
+    <div className={className ? `rivela ${className}` : 'rivela'} style={style}>
       {children}
-    </motion.div>
+    </div>
   )
 }
 
 export function RevealGroup({
   children,
   className,
-  stagger = 0.08,
 }: {
   children: ReactNode
   className?: string
   stagger?: number
 }) {
-  const reduceMotion = useReducedMotion()
-  return (
-    <motion.div
-      className={className}
-      initial="hidden"
-      whileInView="visible"
-      viewport={{ once: true, margin: '-80px' }}
-      transition={{ staggerChildren: reduceMotion ? 0 : stagger }}
-    >
-      {children}
-    </motion.div>
-  )
+  return <div className={className}>{children}</div>
 }
 
-export function RevealItem({
-  children,
-  className,
-}: {
-  children: ReactNode
-  className?: string
-}) {
-  const reduceMotion = useReducedMotion()
-  return (
-    <motion.div
-      className={className}
-      variants={reduceMotion ? reducedVariants : variants}
-      transition={reduceMotion ? { duration: 0.15, ease: 'linear' } : { duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
-    >
-      {children}
-    </motion.div>
-  )
+export function RevealItem({ children, className }: { children: ReactNode; className?: string }) {
+  return <div className={className ? `rivela ${className}` : 'rivela'}>{children}</div>
 }
